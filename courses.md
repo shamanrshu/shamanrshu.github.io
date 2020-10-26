@@ -9,19 +9,24 @@
 4. Пользовательский репозиторий AUR
 5. Установка за 15 минут
 
+Направление|Тема|Название курса|Разработчик|Год создания
+-|-|-|-|-
+Администрирование|Linux|CentOS 7|SoftLine, Юрий Лебедев|2019|
+
+**Список тем:**
+1. dhcrelay
+2. httpd-ssl
+3. DHCPd
+4. grub2-manage
+5. grub2-passwd
+6. httpd-install
+7. httpd-mod
+8. httpd-vh
+9. xfs-backup
+10. xfs-basics
+11. xfs-quotas
 
 
-||CentOS 7|SoftLine, Юрий Лебедев|2019|dhcrelay
-||||| httpd-ssl
-||||| DHCPd
-||||| grub2-manage
-||||| grub2-passwd
-||||| httpd-install
-||||| httpd-mod
-||||| httpd-vh
-||||| xfs-backup
-||||| xfs-basics
-||||| xfs-quotas
 Администрирование|Linux|IPTables|UnixWay|2020|-
 
 
