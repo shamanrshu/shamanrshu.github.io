@@ -1,4 +1,5 @@
-# **"ArchLinux"**, UnixWay
+# ArchLinux
+__UnixWay__
 
 **Список тем:**
 1. Лучший дистрибутив
@@ -9,7 +10,8 @@
 
 ***
 
-# **"CentOS 7"**, SoftLine, Юрий Лебедев
+# CentOS 7
+__SoftLine, Юрий Лебедев__
 
 **Список тем:**
 1. dhcrelay
