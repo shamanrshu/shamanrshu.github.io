@@ -212,6 +212,7 @@ _Центр обучения IT, Севостьянов Антон_
 # Язык R для пользователей Excel
 _Алексей Селезнёв_
 
+**Список тем:**
 1. Установка языка R и среды разработки RStudio
 2. Структуры данных в R
 3. Загрузка данных из csv, tsv, excel файлов и Google таблиц в R
@@ -224,6 +225,7 @@ _Алексей Селезнёв_
 
 # Ansible
 
+**Список тем:**
 1. Автоконфигурирование для DevOps
 2. Установка на Ubuntu и CentOS
 3. Установка на Amazon Linux через PIP
@@ -251,32 +253,34 @@ _Алексей Селезнёв_
 
 # Amazon Web Services (AWS)
 
-1.Amazon Web Services - Что это и почему тебе это нужно
-2.Создание Халявного Web Сервера на базе Windows Server
-3.Виртуальные Сервера EC2 - Часть-2 - Volume, Snapshot
-4.DevOps Engineer Professional - Экзамен AWS
-5.Lambda Функции - Технология Serverless
-6.CloudTrail - Кто, Что и Когда сделал на вашем аккаунте
-7.Elastic Beanstalk - Быстрое поднятие и обновление Web Сайтов
-8.Elastic Beanstalk - Полная Кастомизация через .ebextensions
-9.RDS - Базы Данных SQL
-10.RDS - Import database в SQL Server
-11.System Manager - Parameter Store - Хранение Секретов
-12.System Manager – RunCommand - Управление EC2 Серверами
-13.System Manager – Hybrid Infrastructure - Управление Серверами не в AWS
-14.System Manager – Windows Updates - Управление Обновлениями
-15.Cross Account Access - Доступ к другим Аккаунтам
-16.Certifications Exams - Сертификационные Экзамены AWS
-17.Как получить дополнительные 30 минут на экзаменах AWS
-18.Как повысить лимит сервисов - Service Limit Increase
-19.Resource Groups - Группы Ресурсов AWS
-20.VPC Endpoint - Внутренний доступ к сервисам AWS
-21.Elastic Container Service - Часть-2 - Сервисы AWS для Docker
+**Список тем:**
+1. Amazon Web Services - Что это и почему тебе это нужно
+2. Создание Халявного Web Сервера на базе Windows Server
+3. Виртуальные Сервера EC2 - Часть-2 - Volume, Snapshot
+4. DevOps Engineer Professional - Экзамен AWS
+5. Lambda Функции - Технология Serverless
+6. CloudTrail - Кто, Что и Когда сделал на вашем аккаунте
+7. Elastic Beanstalk - Быстрое поднятие и обновление Web Сайтов
+8. Elastic Beanstalk - Полная Кастомизация через .ebextensions
+9. RDS - Базы Данных SQL
+10. RDS - Import database в SQL Server
+11. System Manager - Parameter Store - Хранение Секретов
+12. System Manager – RunCommand - Управление EC2 Серверами
+13. System Manager – Hybrid Infrastructure - Управление Серверами не в AWS
+14. System Manager – Windows Updates - Управление Обновлениями
+15. Cross Account Access - Доступ к другим Аккаунтам
+16. Certifications Exams - Сертификационные Экзамены AWS
+17. Как получить дополнительные 30 минут на экзаменах AWS
+18. Как повысить лимит сервисов - Service Limit Increase
+19. Resource Groups - Группы Ресурсов AWS
+20. VPC Endpoint - Внутренний доступ к сервисам AWS
+21. Elastic Container Service - Сервисы AWS для Docker
 
 ***
 
 # AWS (Amazon Web Services) — От Профессионала до Эксперта
 
+**Список тем:**
 1. Экзамены AWS
 * Новые сертификационные Экзамены
 * Как получить дополнительные 30 минут на всех экзаменах AWS
@@ -292,44 +296,69 @@ _Алексей Селезнёв_
 4. Продвинутые Load Balancers
 * Cross Region Load Balancer
 
-## Docker уроки от А до Я
-### 01. Docker уроки для начинающих от А до Я - что такое docker
-### 02. Установка Docker и Docker-compose на Windows  уроки docker  все о docker  #1.0
-### 03. Установка Docker и Docker-compose на Ubuntu  уроки docker  #1.1
-### 04. Docker основные команды  уроки docker  #2
-### 05. Docker создаем собственный образ  уроки docker  #3
-### 06. Dockerfile - что это Первое знакомство  уроки docker  #4
-### 07. Docker соединение контейнеров между собой  уроки docker  #5
-### 08. Docker-compose что это Первое знакомство  уроки docker  #6
-### 09. Dockerfile и docker-compose.yml больше автоматизации и связь между ними  уроки docker  #7
-### 10. Docker разница между образом и контейнером  спецвыпуск  #8
-### 11. Docker как уменьшить размер образа - файловая система UnionFS и слои  уроки doker  #9
-### 12. Самый простой и минимальный запуск laravel в docker  установка laravel в docker  #10
+***
 
-## Git
-### 1. Git - для новичков - #1 - основы
-### 2. Git - для новичков - #2 - первые коммиты
-### 3. Git - для новичков - #3 - работаем с github
-### 4. Git - для новичков - #4 - мерж веток
+# Docker уроки от А до Я
+_DKA Develop_
 
-## Git2
-### Введение в Git_ Часть 1. Создание коммитов
-### Введение в Git_ Часть 2. Работа с ветками
-### Введение в Git_ Часть 3. Удаленный репозиторий
+**Список тем:**
+1. Docker уроки для начинающих от А до Я - что такое docker
+2. Установка Docker и Docker-compose на Windows  уроки docker  все о docker  #1.0
+3. Установка Docker и Docker-compose на Ubuntu  уроки docker  #1.1
+4. Docker основные команды  уроки docker  #2
+5. Docker создаем собственный образ  уроки docker  #3
+6. Dockerfile - что это Первое знакомство  уроки docker  #4
+7. Docker соединение контейнеров между собой  уроки docker  #5
+8. Docker-compose что это Первое знакомство  уроки docker  #6
+9. Dockerfile и docker-compose.yml больше автоматизации и связь между ними  уроки docker  #7
+10. Docker разница между образом и контейнером  спецвыпуск  #8
+11. Docker как уменьшить размер образа - файловая система UnionFS и слои  уроки doker  #9
+12. Самый простой и минимальный запуск laravel в docker  установка laravel в docker  #10
 
-## RabbitMQ
-### Брокер сообщений RabbitMQ_ Часть 1. Установка и настройка отказоустойчевого клас
-### Брокер сообщений RabbitMQ_ Часть 2. Базовые понятия и примеры использования
+***
 
-## Контейнеризация
-### Введение в Docker
-### Введение в Kubernetes. Часть 1. Установка кластера
-### Введение в Kubernetes. Часть 2. Поды и сервисы
-### Введение в Kubernetes. Часть 3. Горизонтальное маштабирование
-### Введение в Kubernetes. Часть 4. Отказоустойчивость для клиентов
-### Введение в Kubernetes. Часть 5. Интеграция с NFS
-### От Docker до Kubernetes_ историческая ретроспектива
-### Что такое операторы в Kubernetes
+# Git - для новичков
+_LoftBlog_
+
+**Список тем:**
+1. Основы
+2. Первые коммиты
+3. Работаем с github
+4. Мерж веток
+
+***
+
+# Введение в Git
+
+**Список тем:**
+1. Создание коммитов
+2. Работа с ветками
+3. Удаленный репозиторий
+
+***
+
+# Брокер сообщений RabbitMQ
+_RabbitMQ Summit 2019_
+
+**Список тем:**
+1. Установка и настройка отказоустойчевого кластера
+2. Базовые понятия и примеры использования
+
+***
+
+# Контейнеризация
+
+**Список тем:**
+0. Введение в Docker
+1. Установка кластера
+2. Поды и сервисы
+3. Горизонтальное маштабирование
+4. Отказоустойчивость для клиентов
+5. Интеграция с NFS
+6. От Docker до Kubernetes - историческая ретроспектива
+7. Что такое операторы в Kubernetes
+
+***
 
 ## Основы Git и GitHub
 ### 1.Git - Что это и для чего нужно
