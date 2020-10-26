@@ -1218,4 +1218,4 @@
 ### 4.Check Point на максимум. Anti-Virus
 ### 5.Check Point на максимум. IPS. Часть 1
 ### 6.Check Point на максимум. IPS. Часть 2
-##№ 7.Check Point на максимум. Sandboxing
+### 7.Check Point на максимум. Sandboxing
