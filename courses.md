@@ -207,91 +207,90 @@ _Центр обучения IT, Севостьянов Антон_
 10. Схема работы системы
 11. Планинг
 
-# Dev
+***
 
-## STL
-### array STL C++ - - Библиотека стандартных шаблонов (stl) - Уроки - C++ - #6
-### deque stl c++ - Библиотека стандартных шаблонов (stl) - Уроки - C++ - #8
-### forward list stl c++ - Библиотека стандартных шаблонов (stl) - Уроки - C++ - #5
-### LIST - STL C++ - Библиотека стандартных шаблонов (stl) - Уроки - C++ - #3
-### vector - Библиотека стандартных шаблонов (stl) - Уроки - C++ - #1
-### Итераторы stl c++ - prefix vs postfix - Библиотека стандартных шаблонов (stl) - Уроки - C++ - #4
-### Итераторы STL - Библиотека стандартных шаблонов (stl) - Уроки - C++ - #2
-### Контейнеры STL и операторы сравнения. - Библиотека стандартных шаблонов (stl) - Уроки - C++ - #7
+# Язык R для пользователей Excel
+_Алексей Селезнёв_
 
-## Язык R для пользователей Excel
-### Язык R для пользователей Excel #1- Установка языка R и среды разработки RStudio
-### Язык R для пользователей Excel #2- Структуры данных в R
-### Язык R для пользователей Excel #3- Загрузка данных из csv, tsv, excel файлов и Google таблиц в R
-### Язык R для пользователей Excel #4- Фильтрация строк, выбор и переименование столбцов, пайпланы в R
-### Язык R для пользователей Excel #5- Добавление вычисляемых столбцов в таблицу на языке R
-### Язык R для пользователей Excel #6- Группировка и агрегация данных на языке R
-### Язык R для пользователей Excel #7- Вертикальное и горизонтальное объединение таблиц на языке R
+1. Установка языка R и среды разработки RStudio
+2. Структуры данных в R
+3. Загрузка данных из csv, tsv, excel файлов и Google таблиц в R
+4. Фильтрация строк, выбор и переименование столбцов, пайпланы в R
+5. Добавление вычисляемых столбцов в таблицу на языке R
+6. Группировка и агрегация данных на языке R
+7. Вертикальное и горизонтальное объединение таблиц на языке R
 
-# DevOps
+***
 
-## Ansible На Русском Языке
-### 1-Ansible - Автоконфигурирование для DevOps
-### 2-Ansible - Установка на Ubuntu и CentOS
-### 3-Ansible - Установка на Amazon Linux через PIP
-### 4-Ansible - Подключение к серверам LINUX
-### 5-Ansible - Подключение к серверам WINDOWS
-### 6-Ansible - Правила создания файла Inventory
-### 7-Ansible - Запуск Ad-Hoc Комманд
-### 8-Ansible - Правила Формата YAML
-### 9-Ansible - Перенос переменных в group_vars
-### 10-Ansible - Первые Playbook
-### 11-Ansible - Переменные - Debug, Set_fact, Register
-### 12-Ansible - Блоки и Условия – Block-When
-### 13-Ansible - Циклы – Loop, With_Items, Until, With_fileglob
-### 14-Ansible - Шаблоны - Jinja Template
-### 15-Ansible - Создание Ролей - Roles
-### 16-Ansible - Внешние переменные - extra-vars
-### 17-Ansible - Использование Import, Include
-### 18-Ansible - Перенаправление выполнения Task из Playbook на определённый сервер - delegate_to
-### 19-Ansible - Перехват и Контроль ошибок
-### 20-Ansible - Хранение Секретов - ansible-vault
-### 21-Ansible - Dynamic Inventory AWS - Amazon Web Services - ec2.py
-### 22-Ansible - Создание ресурсов AWS - Amazon Web Services
+# Ansible
 
-## AWS На Русском Языке
-### 1.AWS -  Amazon Web Services - Что это и почему тебе это нужно
-### 6.AWS - Создание Халявного Web Сервера на базе Windows Server
-### 17.AWS - Виртуальные Сервера EC2 - Часть-2 - Volume, Snapshot
-### 26.AWS - DevOps Engineer Professional - Экзамен AWS
-### 32.AWS - Lambda Функции - Технология Serverless
-### 41.AWS - CloudTrail - Кто, Что и Когда сделал на вашем аккаунте
-### 42.AWS - Elastic Beanstalk - Быстрое поднятие и обновление Web Сайтов
-### 43.AWS - Elastic Beanstalk - Полная Кастомизация через .ebextensions
-### 44.AWS - RDS - Базы Данных SQL
-### 45.AWS - RDS - Import database в SQL Server
-### 46.AWS - System Manager - Parameter Store - Хранение Секретов
-### 47.AWS - System Manager – RunCommand - Управление EC2 Серверами
-### 48.AWS - System Manager – Hybrid Infrastructure - Управление Серверами не в AWS
-### 49.AWS - System Manager – Windows Updates - Управление Обновлениями
-### 50.AWS - Cross Account Access - Доступ к другим Аккаунтам
-### 51.AWS - Certifications Exams - Сертификационные Экзамены AWS
-### 52.AWS - Как получить дополнительные 30 минут на экзаменах AWS
-### 53.AWS - Как повысить лимит сервисов - Service Limit Increase
-### 54.AWS - Resource Groups - Группы Ресурсов AWS
-### 57.AWS - VPC Endpoint - Внутренний доступ к сервисам AWS
-### 71.AWS - Elastic Container Service - Часть-2 - Сервисы AWS для Docker
+1. Автоконфигурирование для DevOps
+2. Установка на Ubuntu и CentOS
+3. Установка на Amazon Linux через PIP
+4. Подключение к серверам LINUX
+5. Подключение к серверам WINDOWS
+6. Правила создания файла Inventory
+7. Запуск Ad-Hoc Комманд
+8. Правила Формата YAML
+9. Перенос переменных в group_vars
+10. Первые Playbook
+11. Переменные - Debug, Set_fact, Register
+12. Блоки и Условия – Block-When
+13. Циклы – Loop, With_Items, Until, With_fileglob
+14. Шаблоны - Jinja Template
+15. Создание Ролей - Roles
+16. Внешние переменные - extra-vars
+17. Использование Import, Include
+18. Перенаправление выполнения Task из Playbook на определённый сервер - delegate_to
+19. Перехват и Контроль ошибок
+20. Хранение Секретов - ansible-vault
+21. Dynamic Inventory Amazon Web Services - ec2.py
+22. Создание ресурсов Amazon Web Services
 
-## AWS Эксперт
-### 1. Экзамены AWS
-#### 1. Новые сертификационные Экзамены
-#### 2. Как получить дополнительные 30 минут на всех экзаменах AWS
-### 2. Испольование Resource Group и как повысить лимиты
-#### 1. Как повысить лимит сервисов
-#### 2. Группы ресурсов AWS - Resource Groups
-### 3. Продвинутые темы и возможности VPC
-#### 1. Соединение Сетей - VPC Peering
-#### 2.1 Ограничения расширения сетей AWS.html
-#### 2. Увеличение сетей VPC, Multi CIDR
-#### 3. VPC Endpoints - Внутренний доступ из VPC к сервисам AWS
-#### 4. Route53 Health Checks - Мониторинг Web Servers
-### 4. Продвинутые Load Balancers
-#### 1. Cross Region Load Balancer
+***
+
+# Amazon Web Services (AWS)
+
+1.Amazon Web Services - Что это и почему тебе это нужно
+2.Создание Халявного Web Сервера на базе Windows Server
+3.Виртуальные Сервера EC2 - Часть-2 - Volume, Snapshot
+4.DevOps Engineer Professional - Экзамен AWS
+5.Lambda Функции - Технология Serverless
+6.CloudTrail - Кто, Что и Когда сделал на вашем аккаунте
+7.Elastic Beanstalk - Быстрое поднятие и обновление Web Сайтов
+8.Elastic Beanstalk - Полная Кастомизация через .ebextensions
+9.RDS - Базы Данных SQL
+10.RDS - Import database в SQL Server
+11.System Manager - Parameter Store - Хранение Секретов
+12.System Manager – RunCommand - Управление EC2 Серверами
+13.System Manager – Hybrid Infrastructure - Управление Серверами не в AWS
+14.System Manager – Windows Updates - Управление Обновлениями
+15.Cross Account Access - Доступ к другим Аккаунтам
+16.Certifications Exams - Сертификационные Экзамены AWS
+17.Как получить дополнительные 30 минут на экзаменах AWS
+18.Как повысить лимит сервисов - Service Limit Increase
+19.Resource Groups - Группы Ресурсов AWS
+20.VPC Endpoint - Внутренний доступ к сервисам AWS
+21.Elastic Container Service - Часть-2 - Сервисы AWS для Docker
+
+***
+
+# AWS (Amazon Web Services) — От Профессионала до Эксперта
+
+1. Экзамены AWS
+* Новые сертификационные Экзамены
+* Как получить дополнительные 30 минут на всех экзаменах AWS
+2. Испольование Resource Group и как повысить лимиты
+* Как повысить лимит сервисов
+* Группы ресурсов Resource Groups
+3. Продвинутые темы и возможности VPC
+* Соединение Сетей - VPC Peering
+* Ограничения расширения сетей AWS.html
+* Увеличение сетей VPC, Multi CIDR
+* VPC Endpoints - Внутренний доступ из VPC к сервисам AWS
+* Route53 Health Checks - Мониторинг Web Servers
+4. Продвинутые Load Balancers
+* Cross Region Load Balancer
 
 ## Docker уроки от А до Я
 ### 01. Docker уроки для начинающих от А до Я - что такое docker
