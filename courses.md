@@ -5,19 +5,17 @@
 ||||| Пакетный менеджер pacman
 ||||| Пользовательский репозиторий AUR
 ||||| Установка за 15 минут
-
-### CentOS 7
-#### centos7-dhcrelay
-#### centos7-httpd-ssl
-#### DHCPd-01
-#### grub2-manage
-#### grub2-passwd
-#### httpd-install
-#### httpd-mod
-#### httpd-vh
-#### xfs-backup
-#### xfs-basics
-#### xfs-quotas
+||CentOS 7|SoftLine, Юрий Лебедев|2019|dhcrelay
+||||| httpd-ssl
+||||| DHCPd
+||||| grub2-manage
+||||| grub2-passwd
+||||| httpd-install
+||||| httpd-mod
+||||| httpd-vh
+||||| xfs-backup
+||||| xfs-basics
+||||| xfs-quotas
 
 ### IPTables
 #### Пакетный фильтр iptables. Часть 1
