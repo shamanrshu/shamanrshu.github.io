@@ -1,4 +1,3 @@
-sudo_, [24.10.20 14:09]
 Д. Эриксон » Хакинг: искусство эксплойта » Символ Плюс, 2010 год, 512 стр
 
 Хакинг – это искусство творческого решения задач, подразумевающее нестандартный подход к сложным проблемам и использование уязвимостей программ. Часто бывает трудно разобраться в методах хакинга, потому что для этого нужны широкие и глубокие знания.
@@ -7,11 +6,8 @@ sudo_, [24.10.20 14:09]
 
 Книга дает полное представление о программировании, машинной архитектуре, сетевых соединениях и хакерских приемах. С этими знаниями ваши возможности ограничены только воображением. Материалы для работы с этим изданием имеются в виде загрузочного диска Ubuntu Linux, который можно скачать и использовать, не затрагивая установленную на компьютере ОС.
 
- (https://codeby.net/resources/d-ehrikson-xaking-iskusstvo-ehksplojta-simvol-pljus-2010-god-512-str.5/download) Скачать
 
- (https://codeby.net/resources/d-ehrikson-xaking-iskusstvo-ehksplojta-simvol-pljus-2010-god-512-str.5/download)#ethicalhack #Ru
 
-sudo_, [25.10.20 12:18]
 Глобальная безопасность в цифровую эпоху. Стратагемы для России
 
 Автор: А.И. Смирнов
@@ -26,9 +22,7 @@ sudo_, [25.10.20 12:18]
 
 
 
- (https://codeby.net/resources/globalnaja-bezopasnost-v-cifrovuju-ehpoxu-stratagemy-dlja-rossii.235/download)#cyberSec #En
 
-sudo_, [25.10.20 13:06]
 Прикладная криптография
 
 Автор Брюс Шнайер
@@ -41,9 +35,7 @@ sudo_, [25.10.20 13:06]
 
 
 
- (https://codeby.net/resources/prikladnaja-kriptografija.63/download)#Криптография #Ru
 
-sudo_, [26.10.20 12:17]
 Компьютерная стеганография. Теория и практика
 
 Автор Конахович Г.Ф., Пузыренко А.Ю.
@@ -55,9 +47,7 @@ sudo_, [26.10.20 12:17]
 
 
 
- (https://codeby.net/resources/kompjuternaja-steganografija-teorija-i-praktika.80/download)#stego
 
-sudo_, [26.10.20 13:16]
 Digital Forensics
 
 Автор André Årnes
@@ -69,9 +59,7 @@ ISBN 9781119262381
 
 
 
- (https://codeby.net/resources/digital-forensics.21/download)#Forensics
 
-sudo_, [26.10.20 22:40]
 Образ мышления - дизассемблер IDA
 
 Автор Крис Касперски
@@ -81,11 +69,8 @@ ISBN 5-93455-093-4
 
 Первая книга в России по знаменитому программному продукту - популярнейшему дизассемблеру IDA Рго. Книга представляет собой подробный справочник по функциям встроенного языка, интерфейсу и архитектуре дизассемблера IDA Рго 4.01 с уточнением особенностей младших версий. Показывает приемы эффективного использования IDA Рго для исследования зашифрованного кода, п-кода, самомодифицирующегося и защищенного кода. Содержит множество практических примеров использования функций IDA. Книга затрагивает вопросы внутреннего устройства IDA Рго, дана информация об ошибках реализации, неточностях, без понимания которых полноценная работа с дизассемблером невозможна. Ориентирована на системных программистов средней и высокой квалификации, в совершенстве владеющих языком ассемблера микропроцессоров серии Intel 80х86 и работающих с операционными системами фирмы Microsoft, разработчиков защит, специалистов по информационной безопасности, специалистов по РIС-контроллерам, по ремонту жестких дисков.
 
- (https://codeby.net/resources/obraz-myshlenija-dizassembler-ida.62/download)
 
-#Reverce
 
-sudo_, [28.10.20 20:52]
 Язык программирования C. Лекции и упражнения
 
 Автор Стивен Прата
@@ -99,9 +84,7 @@ ISBN 978-5-8459-1950-2
 
 
 
- (https://codeby.net/resources/jazyk-programmirovanija-c-lekcii-i-uprazhnenija-stiven-prata.911/download)#clang
 
-sudo_, [28.10.20 20:54]
 Язык программирования C++. Лекции и упражнения. Примеры
 
 Автор Стивен Прата
@@ -114,9 +97,7 @@ ISBN 5-8459-1 1 27-3
 
 
 
- (https://codeby.net/resources/jazyk-programmirovanija-c-lekcii-i-uprazhnenija-primery-stiven-prata.910/download)#cpp
 
-sudo_, [28.10.20 20:56]
 Изучаем Java на примерах и задачах
 
 Автор Сеттер. Р.В
@@ -127,9 +108,7 @@ sudo_, [28.10.20 20:56]
 
 
 
- (https://codeby.net/resources/izuchaem-java-na-primerax-i-zadachax.906/download)#java
 
-sudo_, [28.10.20 22:11]
 Разведка из открытых источников. Методы и утилиты.
 
 Автор Nihad A. Hassan Rami Hijazi
@@ -139,9 +118,7 @@ sudo_, [28.10.20 22:11]
 
 
 
- (https://codeby.net/resources/razvedka-iz-otkrytyx-istochnikov-metody-i-utility.903/download)#osint
 
-sudo_, [28.10.20 22:31]
 Базовая анонимность на android
 
 Формат PDF
@@ -152,9 +129,7 @@ sudo_, [28.10.20 22:31]
 
 
 
- (https://codeby.net/resources/bazovaja-anonimnost-na-android.7/download)#android
 
-sudo_, [28.10.20 22:33]
 Мануал по Intercepter-NG на русском языке
 
 Формат PDF
@@ -165,9 +140,7 @@ sudo_, [28.10.20 22:33]
 
 
 
- (https://codeby.net/resources/manual-po-intercepter-ng-na-russkom-jazyke.8/download)#intercepter
 
-sudo_, [28.10.20 22:36]
 Руководство по установке Metasploit для Linux
 
 Формат PDF
@@ -176,9 +149,7 @@ sudo_, [28.10.20 22:36]
 
 
 
- (https://codeby.net/resources/rukovodstvo-po-ustanovke-metasploit-dlja-linux.9/download)#EthicalHack #metasploit
 
-sudo_, [28.10.20 22:41]
 Тестирование на проникновение с помощью Kali Linux 2.0
 
 Автор Алексей Милосердов
@@ -188,9 +159,7 @@ sudo_, [28.10.20 22:41]
 
 
 
- (https://codeby.net/resources/testirovanie-na-proniknovenie-s-pomoschju-kali-linux-2-0-v-pdf-formate.13/download)#EthicalHack #kali
 
-sudo_, [28.10.20 23:00]
 Kali Linux Revealed
 
 Автор Рафаэль Херцог, Джим О’Горман и Мати Ахарони
@@ -202,9 +171,7 @@ Kali Linux Revealed
 
 
 
- (https://codeby.net/resources/kali-linux-revealed-na-russkom-pdf.16/download)#EthicalHack #kali
 
-sudo_, [28.10.20 23:05]
 Linux From Scratch
 
 Формат PDF
@@ -215,9 +182,7 @@ Linux From Scratch (LFS, «Линукс с нуля») — книга описы
 
 
 
- (https://codeby.net/resources/linux-from-scratch-perevod.17/download)#linux
 
-sudo_, [28.10.20 23:11]
 File System Forensic Analysis
 
 Автор Brian Carrier
@@ -228,9 +193,7 @@ ISBN 0-32-126817-2
 
 
 
- (https://codeby.net/resources/file-system-forensic-analysis.22/download)#Forensics
 
-sudo_, [28.10.20 23:47]
 Learning Python for Forensics
 
 Автор Preston Miller, Chapin Bryce
@@ -243,9 +206,7 @@ ISBN 978-1-78328-523-5
 
 
 
- (https://codeby.net/resources/learning-python-for-forensics.23/download)#Forensics #python
 
-sudo_, [28.10.20 23:48]
 Learning Android Forensics
 
 Автор Rohit Tamma, Donnie Tindall
@@ -256,9 +217,7 @@ ISBN 978-1-78217-457-8
 
 
 
- (https://codeby.net/resources/learning-android-forensics.24/download)#Forensics #android
 
-sudo_, [28.10.20 23:51]
 Learning Network Forensics
 
 Автор Samir Datt
@@ -269,9 +228,7 @@ ISBN 978-1-78217-490-5
 
 
 
- (https://codeby.net/resources/learning-network-forensics.25/download)#Forensics #network
 
-sudo_, [29.10.20 10:48]
 Network Forensics
 
 Автор Ric Messier
@@ -282,9 +239,7 @@ ISBN 978-1-119-32828-5
 
 
 
- (https://codeby.net/resources/network-forensics.26/download)#Forensics #network
 
-sudo_, [29.10.20 11:01]
 Learning iOS Forensics Second Edition
 
 Автор Mattia Epifani, Pasquale Stirparo
@@ -297,9 +252,7 @@ ISBN 978-1-78588-208-1
 
 
 
- (https://codeby.net/resources/learning-ios-forensics-second-edition.27/download)#Forensics #ios
 
-sudo_, [29.10.20 11:07]
 Oracle Incident Response and Forensics
 
 Автор Pete Finnigan
@@ -310,9 +263,7 @@ ISBN 978-1-4842-3264-4
 
 
 
- (https://codeby.net/resources/oracle-incident-response-and-forensics.29/download)#Forensics
 
-sudo_, [29.10.20 11:14]
 Kali Linux – Assuring Security by Penetration Testing
 
 Автор Lee Allen, Tedi Heriyanto, Shakeel Ali
@@ -325,9 +276,7 @@ Kali Linux - это платформа тестирования и провер�
 
 
 
- (https://codeby.net/resources/kali-linux-assuring-security-by-penetration-testing.31/download)#EthicalHack #kali
 
-sudo_, [29.10.20 11:18]
 Kali Linux Network Scanning Cookbook
 
 Автор Justin Hutchens
@@ -340,9 +289,7 @@ ISBN 978-1-78398-214-1
 
 
 
- (https://codeby.net/resources/kali-linux-network-scanning-cookbook.32/download)#EthicalHack #kali
 
-sudo_, [29.10.20 11:21]
 Wireless Hacking
 
 Автор Giulio D’Agostino
@@ -352,9 +299,7 @@ Wireless Hacking
 
 
 
- (https://codeby.net/resources/wireless-hacking.33/download)#EthicalHack #kali
 
-sudo_, [29.10.20 11:27]
 Basic Security Testing with Kali Linux 2
 
 Автор Daniel W. Dieterle
@@ -367,9 +312,7 @@ Daniel W. Dieterle работает в области информационны
 
 
 
- (https://codeby.net/resources/basic-security-testing-with-kali-linux-2.34/download)#EthicalHack #kali
 
-sudo_, [29.10.20 11:29]
 Kali Linux Web Penetration Testing Cookbook
 
 Автор Gilberto Nájera-Gutiérrez
@@ -380,9 +323,7 @@ ISBN 978-1-78439-291-8
 
 
 
- (https://codeby.net/resources/kali-linux-web-penetration-testing-cookbook.35/download)#EthicalHack #kali
 
-sudo_, [29.10.20 11:30]
 Hacking, 2nd Edition
 
 Автор Jon Erickson
@@ -393,9 +334,7 @@ ISBN 978-1-59327-144-2
 
 
 
- (https://codeby.net/resources/hacking-2nd-edition.36/download)#EthicalHack #hacking
 
-sudo_, [29.10.20 11:32]
 Kali Linux 2 – Assuring Security by Penetration Testing Third Edition
 
 Автор Gerard Johansen, Lee Allen, Tedi Heriyanto, Shakeel Ali
@@ -408,9 +347,7 @@ ISBN 978-1-78588-842-7
 
 
 
- (https://codeby.net/resources/kali-linux-2-assuring-security-by-penetration-testing-third-edition.37/download)#EthicalHack #kali
 
-sudo_, [29.10.20 11:34]
 Mastering Mobile Forensics
 
 Автор Soufiane Tahiri
@@ -421,9 +358,7 @@ ISBN 978-1-78528-781-7
 
 
 
- (https://codeby.net/resources/mastering-mobile-forensics.38/download)#Forensics #mobile
 
-sudo_, [29.10.20 11:35]
 The Art of Memory Forensics
 
 Автор Michael Hale Ligh, Andrew Case, Jamie Levy, AAron Walters
@@ -436,9 +371,7 @@ Detecting Malware and Threats in Windows, Linux, and Mac Memory
 
 
 
- (https://codeby.net/resources/the-art-of-memory-forensics.39/download)#Forensics #memory
 
-sudo_, [29.10.20 11:37]
 Mobile Device Exploitation Cookbook
 
 Автор Prashant Verma, Akshay Dixit
@@ -449,9 +382,7 @@ ISBN 978-1-78355-872-8
 
 
 
- (https://codeby.net/resources/mobile-device-exploitation-cookbook.40/download)#EthicalHack #mobile
 
-sudo_, [29.10.20 11:40]
 Photoshop CS3 for Forensics Professionals
 
 Автор George Reis
@@ -462,9 +393,7 @@ ISBN 978-0-470-11454-4
 
 
 
- (https://codeby.net/resources/photoshop-cs3-for-forensics-professionals.41/download)#Forensics #photoshop
 
-sudo_, [29.10.20 11:42]
 Practical Digital Forensics
 
 Автор Richard Boddington
@@ -475,9 +404,7 @@ ISBN 978-1-78588-710-9
 
 
 
- (https://codeby.net/resources/practical-digital-forensics.42/download)#Forensics
 
-sudo_, [29.10.20 11:43]
 Practical Mobile Forensics, Second Edition
 
 Автор Heather Mahalik, Rohit Tamma, Satish Bommisetty
@@ -488,9 +415,7 @@ ISBN 978-1-78646-420-0
 
 
 
- (https://codeby.net/resources/practical-mobile-forensics-second-edition.43/download)#Forensics #mobile
 
-sudo_, [29.10.20 11:44]
 Python Forensics
 
 Автор Chet Hosmer
@@ -501,9 +426,7 @@ ISBN 978-0-12-418676-7
 
 
 
- (https://codeby.net/resources/python-forensics.44/download)#Forensics #python
 
-sudo_, [29.10.20 11:46]
 Windows Forensic Analysis
 
 Автор Harlan Carvey
@@ -514,9 +437,7 @@ ISBN 978-1-59749-422-9
 
 
 
- (https://codeby.net/resources/windows-forensic-analysis.45/download)#Forensics #windows
 
-sudo_, [29.10.20 11:54]
 Хакинг: искусство эксплойта, 2-е издание
 
 Автор Джон Эриксон
@@ -529,9 +450,7 @@ ISBN 978-5-93286-158-5, 978-1-59327-144-2
 
 
 
- (https://codeby.net/resources/xaking-iskusstvo-ehksplojta-2-e-izdanie.66/download)#Reverce #hacking
 
-sudo_, [29.10.20 19:45]
 Official Nmap Project Guideto Network Discovery and Security Scanning
 
 Автор Gordon "Fyodor" Lyon
@@ -542,9 +461,7 @@ ISBN 978-0-9799587-1-7
 
 
 
- (https://codeby.net/resources/official-nmap-project-guideto-network-discovery-and-security-scanning.58/download)#EthicalHack #network
 
-sudo_, [29.10.20 19:46]
 Metasploit Penetration Testing Cookbook
 
 Автор Abhinav Singh
@@ -555,9 +472,7 @@ ISBN 978-1-84951-742-3
 
 
 
- (https://codeby.net/resources/metasploit-penetration-testing-cookbook.57/download)#EthicalHack #metasploit
 
-sudo_, [29.10.20 19:48]
 Kali Linux 2: Windows Penetration Testing
 
 Автор Wolf Halton, Bo Weaver
@@ -568,9 +483,7 @@ ISBN 978-1-78216-849-2
 
 
 
- (https://codeby.net/resources/kali-linux-2-windows-penetration-testing.55/download)#EthicalHack #kali
 
-sudo_, [29.10.20 19:49]
 Kali Linux Social Engineering
 
 Автор Rahul Singh Patel
@@ -581,9 +494,7 @@ ISBN 978-1-78328-327-9
 
 
 
- (https://codeby.net/resources/kali-linux-social-engineering.54/download)#EthicalHack #kali
 
-sudo_, [29.10.20 19:50]
 Kali Linux Cookbook
 
 Автор Willie L. Pritchett, David De Smet
@@ -596,9 +507,7 @@ Willie L. Pritchett has a Master's in Business Administration. He is a seasoned 
 
 
 
- (https://codeby.net/resources/kali-linux-cookbook.53/download)#EthicalHack #kali
 
-sudo_, [29.10.20 19:54]
 Hacking Android
 
 Автор Srinivasa Rao Kotipalli, Mohammed A. Imran
@@ -609,9 +518,7 @@ ISBN 978-1-78588-314-9
 
 
 
- (https://codeby.net/resources/hacking-android.52/download)#android
 
-sudo_, [29.10.20 20:00]
 Криминалистический анализ файловых систем
 
 Автор Б. Кэрриэ
@@ -622,9 +529,7 @@ ISBN 5-469-01311-1
 
 
 
- (https://codeby.net/resources/kriminalisticheskij-analiz-fajlovyx-sistem.51/download)#Forensics
 
-sudo_, [29.10.20 20:01]
 A Practical Guide to Computer Forensics Investigations
 
 Автор Dr. Darren, R. Hayes
@@ -635,9 +540,7 @@ ISBN 978-0-7897-4115-8
 
 
 
- (https://codeby.net/resources/a-practical-guide-to-computer-forensics-investigations.50/download)#Forensics
 
-sudo_, [29.10.20 20:02]
 Windows Registry Forensic
 
 Автор Harlan Carvey
@@ -648,9 +551,7 @@ ISBN 978-0-12-803291-6
 
 
 
- (https://codeby.net/resources/windows-registry-forensic.49/download)#Forensics #windows
 
-sudo_, [29.10.20 20:03]
 Windows Forensics Cookbook
 
 Автор Oleg Skulkin, Scar de Courcier
@@ -661,9 +562,7 @@ ISBN 978-1-78439-049-5
 
 
 
- (https://codeby.net/resources/windows-forensics-cookbook.48/download)#Forensics #windows
 
-sudo_, [29.10.20 20:05]
 Practical Windows Forensics
 
 Автор Ayman Shaaban, Konstantin Sapronov
@@ -674,9 +573,7 @@ ISBN 978-1-78355-409-6
 
 
 
- (https://codeby.net/resources/practical-windows-forensics.47/download)#Forensics #windows
 
-sudo_, [30.10.20 12:39]
 Practical Lock Picking
 
 Автор Deviant Ollam
@@ -689,9 +586,7 @@ ISBN 978 1 59749 611 7
 
 
 
- (https://codeby.net/resources/practical-lock-picking.69/download)#EthicalHack #lock
 
-sudo_, [30.10.20 12:41]
 Web Penetration Testing with Kali Linux
 
 Автор Joseph Muniz, Aamir Lakhani
@@ -702,9 +597,7 @@ ISBN 978-1-78216-316-9
 
 
 
- (https://codeby.net/resources/web-penetration-testing-with-kali-linux.70/download)#EthicalHack #kali
 
-sudo_, [30.10.20 12:43]
 Google Hacking for Penetration Testers
 
 Автор Johnny Long
@@ -717,9 +610,7 @@ ISBN 978-1-59749-176-1
 
 
 
- (https://codeby.net/resources/google-hacking-for-penetration-testers.72/download)#EthicalHack #hacking
 
-sudo_, [30.10.20 12:47]
 Хакинг с самого начала: Методы и секреты
 
 Автор Левин М.
@@ -730,9 +621,7 @@ sudo_, [30.10.20 12:47]
 
 
 
- (https://codeby.net/resources/xaking-s-samogo-nachala-metody-i-sekrety.73/download)#EthicalHack #hacking
 
-sudo_, [30.10.20 12:49]
 Форензика– компьютерная криминалистика
 
 Автор Федотов Н.Н.
@@ -743,9 +632,7 @@ ISBN 5-91159-013-1
 
 
 
- (https://codeby.net/resources/forenzika-kompjuternaja-kriminalistika.74/download)#Forensics
 
-sudo_, [30.10.20 12:50]
 Wireshark for Security Professionals
 
 Автор Jessey Bullock, Jeff T. Parker
@@ -756,9 +643,7 @@ ISBN 978-1-118-91821-0
 
 
 
- (https://codeby.net/resources/wireshark-for-security-professionals.75/download)#EthicalHack #wireshark
 
-sudo_, [30.10.20 12:52]
 Practical Forensic Imaging Securing Digital Evidence with Linux Tools
 
 Автор Bruce Nikkel
@@ -769,9 +654,7 @@ ISBN 978-1-59327-793-2
 
 
 
- (https://codeby.net/resources/practical-forensic-imaging-securing-digital-evidence-with-linux-tools.77/download)#Forensics
 
-sudo_, [30.10.20 12:53]
 Big Data Forensics Learning Hadoop Investigations
 
 Автор Joe Sremack
@@ -784,9 +667,7 @@ ISBN 978-1-78528-810-4
 
 
 
- (https://codeby.net/resources/big-data-forensics-learning-hadoop-investigations.78/download)#Forensics #hadoop
 
-sudo_, [30.10.20 12:57]
 Python Digital Forensics Cookbook
 
 Автор Preston Miller, Chapin Bryce
@@ -797,9 +678,7 @@ ISBN 978-1-78398-746-7
 
 
 
- (https://codeby.net/resources/python-digital-forensics-cookbook.76/download)#Forensics #python
 
-sudo_, [30.10.20 13:03]
 Web Penetration Testing with Kali Linux - Third Edition
 
 Автор Juned Ahmed Ansari
@@ -810,9 +689,7 @@ ISBN 978-1-78398-852-5
 
 
 
- (https://codeby.net/resources/web-penetration-testing-with-kali-linux-third-edition.83/download)#EthicalHack #kali
 
-sudo_, [30.10.20 13:06]
 Kali Linux Wireless Penetration Testing Beginner's Guide Third Edition
 
 Автор Cameron Buchanan, Vivek Ramachandran
@@ -823,9 +700,7 @@ ISBN 978-1-78883-192-5
 
 
 
- (https://codeby.net/resources/kali-linux-wireless-penetration-testing-beginners-guide-third-edition.84/download)#EthicalHack #kali
 
-sudo_, [30.10.20 13:07]
 Mastering Python Forensics
 
 Автор Dr. Johann Uhrmann, Dr. Michael Spreitzenbarth
@@ -838,9 +713,7 @@ Digital forensic analysis is the process of examining and extracting data digita
 
 
 
- (https://codeby.net/resources/mastering-python-forensics.85/download)#Forensics #python
 
-sudo_, [30.10.20 13:09]
 Intermediate Security Testing with Kali Linux 2
 
 Автор Daniel W Dieterle
@@ -853,9 +726,7 @@ With computer hacking attacks making headline news on a frequent occasion, learn
 
 
 
- (https://codeby.net/resources/intermediate-security-testing-with-kali-linux-2.86/download)#EthicalHack #kali
 
-sudo_, [30.10.20 13:10]
 Instant Kali Linux
 
 Автор Abhinav Singh
@@ -866,9 +737,7 @@ ISBN 978-1-84969-566-4
 
 
 
- (https://codeby.net/resources/instant-kali-linux.87/download)#EthicalHack #kali
 
-sudo_, [30.10.20 13:11]
 Mastering Kali Linux Wireless Pentesting
 
 Автор Brian Sak, Jilumudi Raghu Ram
@@ -879,9 +748,7 @@ ISBN 978-1-78528-556-1
 
 
 
- (https://codeby.net/resources/mastering-kali-linux-wireless-pentesting.88/download)#EthicalHack #pentest
 
-sudo_, [30.10.20 13:12]
 Kali Linux Wireless Penetration Testing Essentials
 
 Автор Marco Alamanni
@@ -892,9 +759,7 @@ ISBN 978-1-78528-085-6
 
 
 
- (https://codeby.net/resources/kali-linux-wireless-penetration-testing-essentials.89/download)#EthicalHack #kali
 
-sudo_, [30.10.20 13:14]
 Metasploit Penetration Testing Cookbook, Second Edition
 
 Автор Abhinav Singh, Monika Agarwal
@@ -905,9 +770,7 @@ ISBN 978-1-78216-678-8
 
 
 
- (https://codeby.net/resources/metasploit-penetration-testing-cookbook-second-edition.90/download)#EthicalHack #metasploit
 
-sudo_, [30.10.20 20:21]
 Penetration Testing with Raspberry Pi
 
 Автор Aamir Lakhani, Joseph Muniz
@@ -920,9 +783,7 @@ ISBN 978-1-78439-643-5
 
 
 
- (https://codeby.net/resources/penetration-testing-with-raspberry-pi.91/download)#EthicalHack #raspberry
 
-sudo_, [30.10.20 20:22]
 Kali Linux Wireless Penetration Testing Beginner’s Guide
 
 Автор Cameron Buchanan, Vivek Ramachandran
@@ -935,9 +796,7 @@ ISBN 978-1-78328-041-4
 
 
 
- (https://codeby.net/resources/kali-linux-wireless-penetration-testing-beginners-guide.92/download)#EthicalHack #kali
 
-sudo_, [30.10.20 20:23]
 Hacking For Dummies, 6th Edition
 
 Автор Kevin Beaver
@@ -950,9 +809,7 @@ ISBN 978-1119485476
 
 
 
- (https://codeby.net/resources/hacking-for-dummies-6th-edition.93/download)#EthicalHack #hacking
 
-sudo_, [30.10.20 20:27]
 Attacking Network Protocols
 
 Автор James Forshaw
@@ -965,9 +822,7 @@ Attacking Network Protocols is a deep dive into network protocol security from J
 
 
 
- (https://codeby.net/resources/attacking-network-protocols.94/download)#EthicalHack #network
 
-sudo_, [30.10.20 20:28]
 Learning Metasploit Exploitation and Development
 
 Автор Aditya Balapure
@@ -980,9 +835,7 @@ Metasploit Exploitation and Development - это руководство для �
 
 
 
- (https://codeby.net/resources/learning-metasploit-exploitation-and-development.95/download)#EthicalHack #metasploit
 
-sudo_, [30.10.20 20:29]
 Mastering Nmap Scripting Engine
 
 Автор Paulino Calderon Pale
@@ -995,9 +848,7 @@ ISBN 978-1-78216-831-7
 
 
 
- (https://codeby.net/resources/mastering-nmap-scripting-engine.96/download)#EthicalHack #nmap
 
-sudo_, [30.10.20 20:32]
 iOS Penetration Testing
 
 Автор Kunal Relan
@@ -1008,9 +859,7 @@ ISBN 1484223543
 
 
 
- (https://codeby.net/resources/ios-penetration-testing.97/download)#ios
 
-sudo_, [30.10.20 20:36]
 Взламываем Хакера: Учимся у экспертов борьбе с хакерами. В 3 частях
 
 Автор Роджер А. Гримс
@@ -1024,9 +873,7 @@ ISBN 978-1119396215
 
 
 
- (https://codeby.net/resources/vzlamyvaem-xakera-uchimsja-u-ehkspertov-borbe-s-xakerami-v-3-chastjax.98/download)#EthicalHack #hacking
 
-sudo_, [30.10.20 20:38]
 Beginning Ethical Hacking with Python
 
 Автор Sanjib Sinha
@@ -1039,9 +886,7 @@ ISBN 1484225406
 
 
 
- (https://codeby.net/resources/beginning-ethical-hacking-with-python.99/download)#EthicalHack #python
 
-sudo_, [31.10.20 13:56]
 From Hacking to Report Writing
 
 Автор Robert Svensson
@@ -1054,9 +899,7 @@ ISBN 1484222822
 
 
 
- (https://codeby.net/resources/from-hacking-to-report-writing.101/download)#EthicalHack #hacking
 
-sudo_, [31.10.20 13:58]
 Безопасность карточного бизнеса. Бизнес-энциклопедия
 
 Автор А. К. Алексанов, И. А. Демчев, А. М. Доронин...
@@ -1069,9 +912,7 @@ ISBN 978-5-4257-0018-6
 
 
 
- (https://codeby.net/resources/bezopasnost-kartochnogo-biznesa-biznes-ehnciklopedija.102/download)#EthicalHack #security
 
-sudo_, [31.10.20 14:00]
 Cryptography and Network Security, 5th Edition
 
 Автор William Stallings
@@ -1084,9 +925,7 @@ ISBN 0136097049
 
 
 
- (https://codeby.net/resources/cryptography-and-network-security-5th-edition.103/download)#Криптография
 
-sudo_, [31.10.20 14:06]
 The Hacker Playbook 3 Practical Guide To Penetration Testing
 
 Автор Peter Kim
@@ -1099,9 +938,7 @@ The main purpose of this book is to answer questions as to why things are still 
 
 
 
- (https://codeby.net/resources/the-hacker-playbook-3-practical-guide-to-penetration-testing.105/download)#EthicalHack #guide
 
-sudo_, [31.10.20 14:08]
 Hash Crack: Password Cracking Manual (v2.0)
 
 Автор Joshua Picolet
@@ -1114,10 +951,7 @@ The Hash Crack: Password Cracking Manual v2.0 is an expanded reference guide for
 
 
 
- (https://codeby.net/resources/hash-crack-password-cracking-manual-v2-0.106/download)#EthicalHack #hash
 
-sudo_, [31.10.20 14:10]
-Gray Hat C# A Hacker's Guide to Creating and Automating Security Tools
 
 Автор Brandon Perry
 Формат PDF
@@ -1125,13 +959,10 @@ ISBN 978-1-59327-759-8
 Год издания 2017
 Язык English
 
-Learn to use C#’s powerful set of core libraries to automate tedious yet important tasks like fuzzing, performing vulnerability scans, and analyzing malware. With some help from Mono, you’ll write your own practical security tools that will run on Windows, OS X, Linux, and even mobile devices.
 
 
 
- (https://codeby.net/resources/gray-hat-c-a-hackers-guide-to-creating-and-automating-security-tools.107/download)#EthicalHack #csharp
 
-sudo_, [31.10.20 14:11]
 The Practice of Network Security Monitoring
 
 Автор Richard Bejtlich
@@ -1144,9 +975,7 @@ Network security is not simply about building impenetrable walls — determined 
 
 
 
- (https://codeby.net/resources/the-practice-of-network-security-monitoring.108/download)#EthicalHack #network
 
-sudo_, [31.10.20 14:13]
 iOS Application Security
 
 Автор David Thiel
@@ -1157,9 +986,7 @@ ISBN 978-1-59327-601-0
 
 
 
- (https://codeby.net/resources/ios-application-security.109/download)#EthicalHack #ios
 
-sudo_, [31.10.20 14:17]
 Game Hacking
 
 Автор Nick Cano
@@ -1172,9 +999,7 @@ Bring your knowledge of Windows-based development and memory management, and Gam
 
 
 
- (https://codeby.net/resources/game-hacking.110/download)#EthicalHack #hacking
 
-sudo_, [31.10.20 14:18]
 Black Hat Python
 
 Автор Justin Seitz
@@ -1187,9 +1012,7 @@ In Black Hat Python, the latest from Justin Seitz (author of the best-selling Gr
 
 
 
- (https://codeby.net/resources/black-hat-python.111/download)#EthicalHack #python
 
-sudo_, [31.10.20 14:19]
 iOS App Reverse Engineering
 
 Автор Zishe Sha
@@ -1202,9 +1025,7 @@ The world's 1st book of very detailed iOS App reverse engineering skills, which 
 
 
 
- (https://codeby.net/resources/ios-app-reverse-engineering.113/download)#Reverce #ios
 
-sudo_, [31.10.20 14:26]
 Python Penetration Testing Cookbook
 
 Автор Rejah Rehim
@@ -1217,9 +1038,7 @@ Penetration testing is the use of tools and code to attack a system in order to 
 
 
 
- (https://codeby.net/resources/python-penetration-testing-cookbook.116/download)#EthicalHack #python
 
-sudo_, [31.10.20 14:29]
 Kali Linux Wireless Penetration cookbook
 
 Автор Sean-Philip Oriyano
@@ -1232,9 +1051,7 @@ More and more organizations are moving towards wireless networks, and Wi-Fi is a
 
 
 
- (https://codeby.net/resources/kali-linux-wireless-penetration-cookbook.117/download)#EthicalHack #kali
 
-sudo_, [31.10.20 14:32]
 Learning Malware Analysis
 
 Автор Monnappa K A
@@ -1249,9 +1066,7 @@ This book introduces you to the basics of malware analysis, and then gradually p
 
 
 
- (https://codeby.net/resources/learning-malware-analysis.118/download)#Reverce #malware
 
-sudo_, [31.10.20 14:34]
 Learning Python Web Penetration Testing
 
 Автор Christian Martorella
@@ -1264,9 +1079,7 @@ Web penetration testing is the use of tools and code to attack a website or web 
 
 
 
- (https://codeby.net/resources/learning-python-web-penetration-testing.119/download)#EthicalHack #python
 
-sudo_, [31.10.20 14:35]
 Wireshark 2 Quick Start Guide
 
 Автор Charit Mishra
@@ -1279,9 +1092,7 @@ Wireshark is an open source protocol analyser, commonly used among the network a
 
 
 
- (https://codeby.net/resources/wireshark-2-quick-start-guide.120/download)#EthicalHack #wireshark
 
-sudo_, [31.10.20 14:36]
 Asset Attack Vectors
 
 Автор Haber, Morey J., Hibbert, Brad
@@ -1294,9 +1105,7 @@ Build an effective vulnerability management strategy to protect your organizatio
 
 
 
- (https://codeby.net/resources/asset-attack-vectors.121/download)#EthicalHack #malware
 
-sudo_, [31.10.20 14:40]
 Car Hacker's Handbook
 
 Автор Craig Smith
@@ -1309,9 +1118,7 @@ Modern cars are more computerized than ever. Infotainment and navigation systems
 
 
 
- (https://codeby.net/resources/car-hackers-handbook.123/download)#EthicalHack #car
 
-sudo_, [01.11.20 13:21]
 Cracking Codes with Python
 
 Автор Al Sweigart
@@ -1324,9 +1131,7 @@ After a crash course in Python programming basics, you’ll learn to make, test,
 
 
 
- (https://codeby.net/resources/cracking-codes-with-python.124/download)#Криптография #python
 
-sudo_, [01.11.20 13:23]
 Burp Suite Essentials
 
 Автор Akash Mahajan
@@ -1339,9 +1144,7 @@ This book aims to impart the skills of a professional Burp user to empower you t
 
 
 
- (https://codeby.net/resources/burp-suite-essentials.125/download)#EthicalHack #burpsuite
 
-sudo_, [01.11.20 13:24]
 Serious Cryptography
 
 Автор Jean-Philippe Aumasson
@@ -1354,9 +1157,7 @@ This practical guide to modern encryption breaks down the fundamental mathematic
 
 
 
- (https://codeby.net/resources/serious-cryptography.126/download)#Криптография #tls
 
-sudo_, [01.11.20 13:26]
 Learning Nessus for Penetration Testing
 
 Автор Himanshu Kumar
@@ -1369,9 +1170,7 @@ IT security is a vast and exciting domain, with vulnerability assessment and pen
 
 
 
- (https://codeby.net/resources/learning-nessus-for-penetration-testing.127/download)#EthicalHack #penetration
 
-sudo_, [01.11.20 13:29]
 Effective Python Penetration Testing
 
 Автор Rejah Rehim
@@ -1384,9 +1183,7 @@ Penetration testing is a practice of testing a computer system, network, or web 
 
 
 
- (https://codeby.net/resources/effective-python-penetration-testing.128/download)#EthicalHack #penetration
 
-sudo_, [01.11.20 13:30]
 Instant Netcat Starter
 
 Автор K.C. Yerrid
@@ -1400,9 +1197,7 @@ As a featured networking utility, Netcat uses TCP/IP protocols to read and write
 
 
 
- (https://codeby.net/resources/instant-netcat-starter.129/download)#EthicalHack #network
  
- sudo_, [01.11.20 13:31]
 Nmap: Network Exploration and Security Auditing Cookbook - Second Edition
 
 Автор Paulino Calderon
@@ -1415,9 +1210,7 @@ This is the second edition of ‘Nmap 6: Network Exploration and Security Auditi
 
 
 
- (https://codeby.net/resources/nmap-network-exploration-and-security-auditing-cookbook-second-edition.130/download)#EthicalHack #nmap
 
-sudo_, [01.11.20 13:33]
 Practical Packet Analysis, 3rd Edition
 
 Автор Chris Sanders
@@ -1430,9 +1223,7 @@ Updated to cover Wireshark 2.x, the third edition of Practical Packet Analysis w
 
 
 
- (https://codeby.net/resources/practical-packet-analysis-3rd-edition.131/download)#EthicalHack #wireshark
 
-sudo_, [01.11.20 13:34]
 Penetration Testing Bootcamp
 
 Автор Jason Beltrame
@@ -1445,9 +1236,7 @@ Penetration Testing Bootcamp delivers practical, learning modules in manageable 
 
 
 
- (https://codeby.net/resources/penetration-testing-bootcamp.132/download)#EthicalHack #penetration
 
-sudo_, [01.11.20 13:38]
 Preventing Digital Extortion
 
 Автор Dhanya Thakkar
@@ -1461,9 +1250,7 @@ This is an insightful study spelling out in detail the ways and means employed b
 
 
 
- (https://codeby.net/resources/preventing-digital-extortion.133/download)#EthicalHack #extortion
 
-sudo_, [01.11.20 13:47]
 Penetration Testing Basics
 
 Автор Ric Messier Is
@@ -1476,9 +1263,7 @@ Learn how to break systems, networks, and software in order to determine where t
 
 
 
- (https://codeby.net/resources/penetration-testing-basics.138/download)#EthicalHack #penetration
 
-sudo_, [01.11.20 17:06]
 Practical Internet of Things Security
 
 Автор Brian Russell, Drew Van Duren
@@ -1491,9 +1276,7 @@ With the advent of internet of Things (IoT), businesses will be faced with defen
 
 
 
- (https://codeby.net/resources/practical-internet-of-things-security.139/download)#EthicalHack #security
 
-sudo_, [01.11.20 17:10]
 NTP Security
 
 Автор Liska, Allan
@@ -1506,9 +1289,7 @@ Learn the risks associated with Network Time Protocol (NTP) security and how to 
 
 
 
- (https://codeby.net/resources/ntp-security.141/download)#EthicalHack #security
 
-sudo_, [01.11.20 17:13]
 DDoS Attacks: Evolution, Detection, Prevention, Reaction, and Tolerance
 
 Автор Dhruba Kumar Bhattacharyya, Jugal Kumar Kalita
@@ -1521,9 +1302,7 @@ DDoS Attacks: Evolution, Detection, Prevention, Reaction, and Tolerance discusse
 
 
 
- (https://codeby.net/resources/ddos-attacks-evolution-detection-prevention-reaction-and-tolerance.142/download)#EthicalHack #network
 
-sudo_, [01.11.20 17:16]
 Mastering Metasploit - Second Edition
 
 Автор Nipun Jaswal
@@ -1536,9 +1315,7 @@ Metasploit is a popular penetration testing framework that has one of the larges
 
 
 
- (https://codeby.net/resources/mastering-metasploit-second-edition.144/download)#EthicalHack #metasploit
 
-sudo_, [01.11.20 17:18]
 Metasploit Bootcamp
 
 Автор Nipun Jaswal
@@ -1551,9 +1328,7 @@ The book starts with a hands-on Day 1 chapter, covering the basics of the Metasp
 
 
 
- (https://codeby.net/resources/metasploit-bootcamp.145/download)#EthicalHack #metasploit
 
-sudo_, [01.11.20 17:21]
 Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation
 
 Автор Alexandre Gazet, Elias Bachaalany
@@ -1566,9 +1341,7 @@ Reverse engineering is the process of analyzing hardware or software and underst
 
 
 
- (https://codeby.net/resources/practical-reverse-engineering-x86-x64-arm-windows-kernel-reversing-tools-and-obfuscation.147/download)#Reverce #obfuscation
 
-sudo_, [01.11.20 17:23]
 Practical Web Penetration Testing
 
 Автор Gus Khawaja
@@ -1579,9 +1352,7 @@ ISBN 978-1-78862-403-9
 
 
 
- (https://codeby.net/resources/practical-web-penetration-testing.148/download)#EthicalHack #burpsuite
 
-sudo_, [01.11.20 17:24]
 Understanding Network Hacks
 
 Автор Bastian Ballmann
@@ -1594,9 +1365,7 @@ ISBN 978-3-662-44436-8
 
 
 
- (https://codeby.net/resources/understanding-network-hacks.149/download)#EthicalHack #network
 
-sudo_, [01.11.20 17:25]
 Network Attacks and Exploitation
 
 Автор Matthew Monte
@@ -1609,9 +1378,7 @@ ISBN 978-1-118-98712-4
 
 
 
- (https://codeby.net/resources/network-attacks-and-exploitation.150/download)#EthicalHack #network
 
-sudo_, [01.11.20 17:29]
 Reversing: Secrets of Reverse Engineering
 
 Автор Eldad Eilam
@@ -1622,9 +1389,7 @@ ISBN 978-0-7645-7481-8
 
 
 
- (https://codeby.net/resources/reversing-secrets-of-reverse-engineering.152/download)#Reverce
 
-sudo_, [01.11.20 17:48]
 Аудит безопасности информационных систем
 
 Автор Николай Скабцов
@@ -1637,9 +1402,7 @@ ISBN 978-5-4461-0662-2
 
 
 
- (https://codeby.net/resources/audit-bezopasnosti-informacionnyx-sistem.65/download)#EthicalHack #pentest
 
-sudo_, [02.11.20 13:11]
 Python for Offensive PenTest
 
 Автор Hussam Khrais
@@ -1652,9 +1415,7 @@ Python is an easy-to-learn and cross-platform programming language that has unli
 
 
 
- (https://codeby.net/resources/python-for-offensive-pentest.159/download)#EthicalHack #pentest
 
-sudo_, [02.11.20 13:13]
 Learning Kali Linux
 
 Автор Ric Messier
@@ -1667,9 +1428,7 @@ With more than 600 security tools in its arsenal, the Kali Linux distribution ca
 
 
 
- (https://codeby.net/resources/learning-kali-linux.160/download)#EthicalHack #kali
 
-sudo_, [02.11.20 13:16]
 Настольная книга администратора Debian
 
 Автор Raphael Hertzog, Roland Mas
@@ -1681,9 +1440,7 @@ ISBN 979-10-91414-19-7
 
 
 
- (https://codeby.net/resources/nastolnaja-kniga-administratora-debian.161/download)#linux #debian
 
-sudo_, [02.11.20 13:20]
 Секреты и ложь. Безопасность данных в цифровом мире
 
 Автор Брюс Шнайер
@@ -1695,9 +1452,7 @@ sudo_, [02.11.20 13:20]
 
 
 
- (https://codeby.net/resources/sekrety-i-lozh-bezopasnost-dannyx-v-cifrovom-mire.162/download)#Криптография
 
-sudo_, [02.11.20 13:23]
 Black Hat Python — Python Programming for Hackers and Pentesters
 
 Автор Justin Seitz
@@ -1710,9 +1465,7 @@ When it comes to creating powerful and effective hacking tools, Python is the la
 
 
 
- (https://codeby.net/resources/black-hat-python-python-programming-for-hackers-and-pentesters.163/download)#EthicalHack #python
 
-sudo_, [02.11.20 13:26]
 The Meaning of Linkfiles In Forensic Examinations
 
 Автор Harry Parsonage
@@ -1724,9 +1477,7 @@ The Meaning of Linkfiles In Forensic Examinations
 
 
 
- (https://codeby.net/resources/the-meaning-of-linkfiles-in-forensic-examinations-en.164/download)#Forensics #windows
 
-sudo_, [02.11.20 13:29]
 Image Encryption: A Communication Perspective
 
 Автор El-Sayed M. El-Rabaie, Fathi E. Abd El-Samie, Hossam Eldin H. Ahmed, Ibrahim F. Elashry, Mai H. Shahieen, Osama S. Faragallah, Saleh A. Alshebeili
@@ -1739,9 +1490,7 @@ ISBN 1466576987
 
 
 
- (https://codeby.net/resources/image-encryption-a-communication-perspective.165/download)#Криптография #encryption
 
-sudo_, [02.11.20 13:31]
 Visual Cryptography for Image Processing and Security
 
 Автор Feng Liu, Wei Qi Yan
@@ -1754,9 +1503,7 @@ ISBN 3319234722
 
 
 
- (https://codeby.net/resources/visual-cryptography-for-image-processing-and-security.166/download)#Криптография #image
 
-sudo_, [02.11.20 13:32]
 Hands-On Cryptography with Python
 
 Автор Samuel Bowne
@@ -1769,9 +1516,7 @@ ISBN 1789534445
 
 
 
- (https://codeby.net/resources/hands-on-cryptography-with-python.167/download)#Криптография #python
 
-sudo_, [02.11.20 13:34]
 Wireshark Network Analysis, Second Edition
 
 Автор Gerald Combs, Laura Chappell
@@ -1784,9 +1529,7 @@ Wireshark - самый популярный в мире анализатор с�
 
 
 
- (https://codeby.net/resources/wireshark-network-analysis-second-edition.168/download)#EthicalHack #wireshark
 
-sudo_, [02.11.20 13:36]
 Learning Python Web Penetration Testing
 
 Автор Christian Martorella
@@ -1799,9 +1542,7 @@ ISBN 178953397X
 
 
 
- (https://codeby.net/resources/learning-python-web-penetration-testing.169/download)#EthicalHack #python
 
-sudo_, [02.11.20 13:37]
 Вскрытие покажет! Практический анализ вредоносного ПО
 
 Автор Сикорски М., Хониг Э.
@@ -1814,9 +1555,7 @@ ISBN 978-5-4461-0641-7
 
 
 
- (https://codeby.net/resources/vskrytie-pokazhet-prakticheskij-analiz-vredonosnogo-po.170/download)#Reverce #malware
 
-sudo_, [02.11.20 13:38]
 Learning Malware Analysis
 
 Автор Monnappa K A
@@ -1829,9 +1568,7 @@ ISBN 978-1788392501
 
 
 
- (https://codeby.net/resources/learning-malware-analysis.171/download)#Forensics #malware
 
-sudo_, [02.11.20 13:40]
 Pro iOS Security and Forensics
 
 Автор Eric Butow
@@ -1844,9 +1581,7 @@ ISBN 1484237560
 
 
 
- (https://codeby.net/resources/pro-ios-security-and-forensics.177/download)#Forensics #ios
 
-sudo_, [03.11.20 01:51]
 The Hacker Playbook 3
 
 Автор Peter Kim
@@ -1857,9 +1592,7 @@ ISBN 978-1980901754
 
 
 
- (https://codeby.net/resources/thp3.199/download)#EthicalHack #pentest
 
-sudo_, [03.11.20 01:54]
 Социальная инженерия в тестировании веб приложений.
 
 Год издания 2018
@@ -1869,9 +1602,7 @@ sudo_, [03.11.20 01:54]
 
 
 
- (https://codeby.net/resources/socialnaja-inzhenerija-v-testirovanii-veb-prilozhenij.201/download)#EthicalHack #soceng
 
-sudo_, [03.11.20 02:00]
 Внутреннее устройство Linux
 
 Автор Уорд Б.
@@ -1884,9 +1615,7 @@ ISBN 978-5-496-01952-1
 
 
 
- (https://codeby.net/resources/uord-b-vnutrennee-ustrojstvo-linux.203/download)#linux
 
-sudo_, [03.11.20 02:02]
 Командная строка Linux. Полное руководство.
 
 Автор Шоттс У.
@@ -1899,9 +1628,7 @@ ISBN 978-5-496-02303-0
 
 
 
- (https://codeby.net/resources/shotts-u-komandnaja-stroka-linux-polnoe-rukovodstvo.204/download)#linux #bash
 
-sudo_, [03.11.20 02:04]
 Сетевые средства Linux. 2-е издание исправленное
 
 Автор Бражук А.И.
@@ -1911,9 +1638,7 @@ sudo_, [03.11.20 02:04]
 
 
 
- (https://codeby.net/resources/brazhuk-a-i-setevye-sredstva-linux-2-e-izdanie-ispravlennoe.205/download)#linux #network
 
-sudo_, [03.11.20 02:08]
 Справочник Linux. 3-е издание
 
 Автор Эллен Сивер, Джессика П. Хекман, Стивен Спейнауэр, Стивен Фиггинс
@@ -1926,9 +1651,7 @@ ISBN 5-93286-012-Х
 
 
 
- (https://codeby.net/resources/ehllen-siver-i-dr-spravochnik-linux.206/download)#linux
 
-sudo_, [03.11.20 02:12]
 Программа сетевой академии Cisco CCNA® 1 и 2
 
 Формат PDF
@@ -1940,9 +1663,7 @@ ISBN 978-5-8459-0842-1
 
 
 
- (https://codeby.net/resources/programma-setevoj-akademii-cisco-ccna-r-1-i-2.207/download)#systems
 
-sudo_, [03.11.20 02:15]
 Практическое руководство системного администратора. 2-е издание
 
 Автор Александр Кенин
@@ -1955,9 +1676,7 @@ ISBN 978-5-9775-0874-2
 
 
 
- (https://codeby.net/resources/aleksandr-kenin-prakticheskoe-rukovodstvo-sistemnogo-administratora.208/download)#linux
 
-sudo_, [03.11.20 02:17]
 Администрирование ОС Red Hat Enterprise Linux
 
 Автор Войтов Н. М.
@@ -1970,9 +1689,7 @@ ISBN 978-5-94074-677-5
 
 
 
- (https://codeby.net/resources/n-vojtov-administrirovanie-os-red-hat-enterprise-linux.209/download)#linux #redhat
 
-sudo_, [03.11.20 02:19]
 Командная строка Linux и автоматизация рутинных задач
 
 Автор Денис Колисниченко
@@ -1985,9 +1702,7 @@ ISBN 978-5-9775-0850-6
 
 
 
- (https://codeby.net/resources/denis-kolisnichenko-komandnaja-stroka-linux-i-avtomatizacija-rutinnyx-zadach.210/download)#linux #bash
 
-sudo_, [03.11.20 02:21]
 Администрирование Unix-сервера и Linux-станций
 
 Автор Денис Колисниченко
@@ -2000,9 +1715,7 @@ ISBN 978-5-459-00748-0
 
 
 
- (https://codeby.net/resources/denis-kolisnichenko-administrirovanie-unix-servera-i-linux-stancij.211/download)#unix #server
 
-sudo_, [03.11.20 02:23]
 Linux - Установка,настройка,администрирование
 
 Автор Михаэль Кофлер
@@ -2015,9 +1728,7 @@ Linux — это не просто альтернативная операцио
 
 
 
- (https://codeby.net/resources/mixaehl-kofler-linux-ustanovka-nastrojka-administrirovanie.212/download)#linux #debian
 
-sudo_, [03.11.20 02:25]
 Изучаем Python
 
 Автор Эрик Мэтиз
@@ -2028,9 +1739,7 @@ ISBN 978-5-496-02305-4
 
 
 
- (https://codeby.net/resources/izuchaem-python.213/download)#python
 
-sudo_, [03.11.20 02:28]
 Самоучитель системного администратора
 
 Автор Денис Колисниченко
@@ -2054,9 +1763,7 @@ Linux, установка и базовая настройка Linux, а так�
 
 
 
- (https://codeby.net/resources/d-kolisnichenko-samouchitel-sistemnogo-administratora.214/download)#linux #sysadm
 
-sudo_, [03.11.20 12:00]
 Linux Полное руководство
 
 Автор Михаэль Кофлер
@@ -2069,9 +1776,7 @@ ISBN 978-5-459-00508-0
 
 
 
- (https://codeby.net/resources/mixaehl-kofler-linux-polnoe-rukovodstvo.215/download)#linux #debian
 
-sudo_, [03.11.20 12:05]
 Tcp/Ip сетевое администрирование
 
 Автор Крэйг Хант
@@ -2084,9 +1789,7 @@ ISBN 5-93286-056-1
 
 
 
- (https://codeby.net/resources/krehjg-xant-tcp-ip-setevoe-administrirovanie.216/download)#unix #network
 
-sudo_, [03.11.20 12:09]
 Системное и сетевое администрирование
 
 Автор Томас Лимончелли, Кристина Хоган, Страта Чейлап
@@ -2099,9 +1802,7 @@ ISBN 978-5-93286-130-1
 
 
 
- (https://codeby.net/resources/tomas-limonchelli-i-dr-sistemnoe-i-setevoe-administrirovanie.217/download)#linux #sysadm
 
-sudo_, [03.11.20 12:11]
 Операционная система Linux Учебное пособие
 
 Автор Георгий Курячий
@@ -2114,9 +1815,7 @@ ISBN 978-5-97060-390-1
 
 
 
- (https://codeby.net/resources/georgij-kurjachij-operacionnaja-sistema-linux-uchebnoe-posobie.218/download)#linux #debian
 
-sudo_, [03.11.20 12:14]
 Самоучитель Программирование в Linux. 2-е издание
 
 Автор Николай Иванов
@@ -2129,9 +1828,7 @@ ISBN 978-5-9775-0744-8
 
 
 
- (https://codeby.net/resources/nikolaj-ivanov-samouchitel-programmirovanie-v-linux.219/download)#linux #programming
 
-sudo_, [03.11.20 12:17]
 Kali Linux от разработчиков
 
 Автор Херцог Рафаэль, О’Горман Джим, Ахарони Мати
@@ -2144,9 +1841,7 @@ ISBN 978-5-4461-0548-9
 
 
 
- (https://codeby.net/resources/kali-linux-ot-razrabotchikov.220/download)#kali #linux
 
-sudo_, [03.11.20 12:19]
 Windows Forensic Analysis Toolkit - 4th Edition
 
 Автор Harlan Carvey
@@ -2159,9 +1854,7 @@ ISBN 978-0-12-417157-2
 
 
 
- (https://codeby.net/resources/windows-forensic-analysis-toolkit-4th-edition.224/download)#Forensics #windows
 
-sudo_, [03.11.20 12:22]
 Укрощение больших данных. Как извлекать знания из массивов информации с помощью глубокой аналитики
 
 Автор Билл Фрэнкс
@@ -2174,9 +1867,7 @@ ISBN 978-5-00057-146-0
 
 
 
- (https://codeby.net/resources/ukroschenie-bolshix-dannyx-kak-izvlekat-znanija-iz-massivov-informacii-s-pomoschju-glubokoj-analitiki.225/download)#analytics #data
 
-sudo_, [03.11.20 12:25]
 БОЛЬШИЕ ДАННЫЕ. Революция, которая изменит то, как мы живем, работаем и мыслим
 
 Автор Виктор Майер-Шенбергер, Кеннет Кукьер
@@ -2189,9 +1880,7 @@ ISBN 978-5-91657-936-9
 
 
 
- (https://codeby.net/resources/bolshie-dannye-revoljucija-kotoraja-izmenit-to-kak-my-zhivem-rabotaem-i-myslim.226/download)#analytics #data
 
-sudo_, [03.11.20 23:55]
 Убийственные большие данные. Как математика превратилась в оружие массового поражения
 
 Автор Кэти О'Нил
@@ -2204,9 +1893,7 @@ ISBN 978-5-17-982583-8
 
 
 
- (https://codeby.net/resources/ubijstvennye-bolshie-dannye-kak-matematika-prevratilas-v-oruzhie-massovogo-porazhenija.227/download)#analytics #data
 
-sudo_, [04.11.20 00:01]
 Управление на основе данных. Как интерпретировать цифры и принимать качественные решения в бизнесе
 
 Автор Тим Филлипс
@@ -2218,9 +1905,7 @@ sudo_, [04.11.20 00:01]
 
 
 
- (https://codeby.net/resources/upravlenie-na-osnove-dannyx-kak-interpretirovat-cifry-i-prinimat-kachestvennye-reshenija-v-biznese.228/download)#analytics #data
 
-sudo_, [04.11.20 00:07]
 BIG DATA. Вся технология в одной книге
 
 Автор Андреас Вайгенд
@@ -2232,9 +1917,7 @@ BIG DATA. Вся технология в одной книге
 
 
 
- (https://codeby.net/resources/big-data-vsja-texnologija-v-odnoj-knige.229/download)#analytics #data
 
-sudo_, [04.11.20 00:15]
 Просчитать будущее. Кто кликнет, купит, соврёт или умрёт
 
 Автор Эрик Сигель
@@ -2247,9 +1930,7 @@ ISBN 978-5-9614-4541-1
 
 
 
- (https://codeby.net/resources/proschitat-buduschee-kto-kliknet-kupit-sovrjot-ili-umrjot.230/download)#analytics #data
 
-sudo_, [04.11.20 00:17]
 Основы теории принятия решений для программистов
 
 Автор Н.А. Соловьев, Е.Н. Чернопрудова, Д.А. Лесовой
@@ -2261,9 +1942,7 @@ sudo_, [04.11.20 00:17]
 
 
 
- (https://codeby.net/resources/osnovy-teorii-prinjatija-reshenij-dlja-programmistov.231/download)#programming
 
-sudo_, [04.11.20 00:20]
 R в действии. Анализ и визуализация данных в программе R
 
 Автор Роберт И. Кабаков
@@ -2276,9 +1955,7 @@ R – это мощный язык для статистических вычи�
 
 
 
- (https://codeby.net/resources/r-v-dejstvii-analiz-i-vizualizacija-dannyx-v-programme-r.232/download)#programming
 
-sudo_, [04.11.20 02:56]
 Наглядная статистика. Используем R!
 
 Автор А. Б. Шипунов, Е. М. Балдин, П. А. Волкова, А. И. Коробейников, С. А. Назарова, С. В. Петров, В. Г. Суфиянов
@@ -2290,9 +1967,7 @@ sudo_, [04.11.20 02:56]
 
 
 
- (https://codeby.net/resources/nagljadnaja-statistika-ispolzuem-r.233/download)#programming
 
-sudo_, [04.11.20 02:58]
 Классификация, регрессия и другие алгоритмы Data Mining с использованием R
 
 Автор Шитиков В.К, Мастицкий С.Э.
@@ -2304,9 +1979,7 @@ sudo_, [04.11.20 02:58]
 
 
 
- (https://codeby.net/resources/klassifikacija-regressija-i-drugie-algoritmy-data-mining-s-ispolzovaniem-r.234/download)#programming
 
-sudo_, [04.11.20 03:02]
 Глобальная безопасность в цифровую эпоху. Стратагемы для России
 
 Автор А.И. Смирнов
@@ -2319,9 +1992,7 @@ ISBN 978-5-8481-0172-0
 
 
 
- (https://codeby.net/resources/globalnaja-bezopasnost-v-cifrovuju-ehpoxu-stratagemy-dlja-rossii.235/download)#CyberSec
 
-sudo_, [04.11.20 13:16]
 Практическая психология безопасности. Управление персональным данными в интернете
 
 Автор Солдатова Г.У.
@@ -2334,9 +2005,7 @@ ISBN 978-5-98563-464-8
 
 
 
- (https://codeby.net/resources/prakticheskaja-psixologija-bezopasnosti-upravlenie-personalnym-dannymi-v-internete.236/download)#CyberSec #data
 
-sudo_, [04.11.20 13:18]
 Психология и Интернет
 
 Автор Войскунский А.Е.
@@ -2349,9 +2018,7 @@ ISBN 978-5-98807-044-3
 
 
 
- (https://codeby.net/resources/psixologija-i-internet.237/download)#psychology #network
 
-sudo_, [04.11.20 13:21]
 Buddha 2.0. Просветлённая сеть
 
 Автор Черепанов В.В.
@@ -2362,9 +2029,7 @@ Buddha 2.0. Просветлённая сеть
 
 
 
- (https://codeby.net/resources/buddha-2-0-prosvetljonnaja-set.238/download)#cyberpsychology #network
 
-sudo_, [04.11.20 13:24]
 Новая парадигма защиты и управления персональными данными в Российской Федерации и зарубежных странах
 
 Автор Дупан А.С.
@@ -2377,9 +2042,7 @@ ISBN 978-5-7598-1386-6
 
 
 
- (https://codeby.net/resources/novaja-paradigma-zaschity-i-upravlenija-personalnymi-dannymi-v-rossijskoj-federacii-i-zarubezhnyx-str.239/download)#CyberSec #data
 
-sudo_, [04.11.20 13:27]
 Актуальные проблемы информационного права
 
 Автор Бачило И.Л.
@@ -2392,9 +2055,7 @@ ISBN 978-5-4365-0456-8
 
 
 
- (https://codeby.net/resources/aktualnye-problemy-informacionnogo-prava.240/download)#CyberSec #law
 
-sudo_, [04.11.20 13:29]
 Организационно-правовое обеспечение информационной безопасности
 
 Автор Морозов А.В.
@@ -2407,9 +2068,7 @@ ISBN 978-5-89172-544-7
 
 
 
- (https://codeby.net/resources/organizacionno-pravovoe-obespechenie-informacionnoj-bezopasnosti.241/download)#CyberSec #law
 
-sudo_, [04.11.20 17:43]
 Защита информационных процессов в компьютерных сетях
 
 Автор Варлатая С.К., Шаханова М.В.
@@ -2422,9 +2081,7 @@ ISBN 978-5-392-19174-1
 
 
 
- (https://codeby.net/resources/zaschita-informacionnyx-processov-v-kompjuternyx-setjax.243/download)#CyberSec #information
 
-sudo_, [04.11.20 17:46]
 Битва за Рунет. Как власть манипулирует информацией и следит за каждым из нас
 
 Автор А. Солдатов, И. Бороган
@@ -2436,9 +2093,7 @@ sudo_, [04.11.20 17:46]
 
 
 
- (https://codeby.net/resources/bitva-za-runet-kak-vlast-manipuliruet-informaciej-i-sledit-za-kazhdym-iz-nas.244/download)#information #network
 
-sudo_, [04.11.20 17:48]
 Современные операционные системы
 
 Автор Таненбаум Э., Бос Х.
@@ -2451,9 +2106,7 @@ ISBN 978-5-496-01395-6
 
 
 
- (https://codeby.net/resources/sovremennye-operacionnye-sistemy.245/download)#systems
 
-sudo_, [04.11.20 17:59]
 Tango OS - Операционная система из будущего
 
 Автор Дубовцев А.В.
@@ -2465,9 +2118,7 @@ Tango OS - Операционная система из будущего
 
 
 
- (https://codeby.net/resources/tango-os-operacionnaja-sistema-iz-buduschego.246/download)#systems
 
-sudo_, [04.11.20 18:02]
 Вторая эра машин. Работа, прогресс и процветание в эпоху новейших технологий
 
 Автор Бриньолфсон Э., Макафи Э.
@@ -2480,9 +2131,7 @@ ISBN 978-5-17-104560-9
 
 
 
- (https://codeby.net/resources/vtoraja-ehra-mashin-rabota-progress-i-procvetanie-v-ehpoxu-novejshix-texnologij.247/download)#future
 
-sudo_, [04.11.20 18:06]
 Машина, платформа, толпа. Наше цифровое будущее
 
 Автор Эндрю Макафи, Эрик Бриньолфсон
@@ -2495,9 +2144,7 @@ ISBN 978-5-00117-661-9
 
 
 
- (https://codeby.net/resources/mashina-platforma-tolpa-nashe-cifrovoe-buduschee.248/download)#future
 
-sudo_, [04.11.20 18:09]
 Биохакинг мозга
 
 Автор Дэйв Эспри
@@ -2510,9 +2157,7 @@ ISBN 978-5-00117-631-2
 
 
 
- (https://codeby.net/resources/bioxaking-mozga.249/download)#biohacking #psychology
 
-sudo_, [04.11.20 18:11]
 Даркнет: Война Голливуда против цифровой революции
 
 Автор Ласика, Дж. Д.
@@ -2525,9 +2170,7 @@ ISBN 5-9681-0100-8
 
 
 
- (https://codeby.net/resources/darknet-vojna-gollivuda-protiv-cifrovoj-revoljucii.250/download)#darknet
 
-sudo_, [04.11.20 18:14]
 Подпольный интернет: Темная сторона мировой паутины
 
 Автор Бартлетт, Джейми
@@ -2539,9 +2182,7 @@ sudo_, [04.11.20 18:14]
 
 
 
- (https://codeby.net/resources/podpolnyj-internet-temnaja-storona-mirovoj-pautiny.251/download)#darknet
 
-sudo_, [04.11.20 18:17]
 Киберпреступник № 1. История создателя подпольной сетевой империи
 
 Автор Ник Билтон
@@ -2555,9 +2196,7 @@ ISBN 978-5-699-97884-7
 
 
 
- (https://codeby.net/resources/kiberprestupnik-no-1-istorija-sozdatelja-podpolnoj-setevoj-imperii.252/download)#cybercrime #network
 
-sudo_, [04.11.20 18:18]
 Алгоритмические трюки для программистов
 
 Автор Генри С. Уоррен мл.
@@ -2569,9 +2208,7 @@ sudo_, [04.11.20 18:18]
 
 
 
- (https://codeby.net/resources/algoritmicheskie-trjuki-dlja-programmistov.253/download)#programming
  
- sudo_, [04.11.20 18:20]
 Антимозг. Цифровые технологии и мозг
 
 Автор Манфред Шпитцер
@@ -2583,9 +2220,7 @@ sudo_, [04.11.20 18:18]
 
 
 
- (https://codeby.net/resources/antimozg-cifrovye-texnologii-i-mozg.254/download)#technology
 
-sudo_, [04.11.20 18:22]
 A Hacker Manifesto
 
 Автор McKenzie Wark
@@ -2598,9 +2233,7 @@ A double is haunting the world-the double of abstraction, the virtual reality of
 
 
 
- (https://codeby.net/resources/a-hacker-manifesto.255/download)#hacking #network
 
-sudo_, [04.11.20 18:24]
 Hacker, Hoaxer, Whistleblower, Spy. The Many Faces Of Anonymous
 
 Автор Gabriella Coleman
@@ -2613,9 +2246,7 @@ Here is the ultimate book on the worldwide movement of hackers, pranksters, and 
 
 
 
- (https://codeby.net/resources/hacker-hoaxer-whistleblower-spy-the-many-faces-of-anonymous.256/download)#hacking #anonymous
 
-sudo_, [04.11.20 21:18]
 DarkMarket: Cyberthieves, Cybercops and You
 
 Автор Misha Glenny
@@ -2628,9 +2259,7 @@ The benefits of living in a digital, globalized society are enormous; so too are
 
 
 
- (https://codeby.net/resources/darkmarket-cyberthieves-cybercops-and-you.257/download)#darknet
 
-sudo_, [04.11.20 21:42]
 WiFi Pineapple Field Guide
 
 Автор Darren Kitchen, Sebastian Kinne, Shannon Morse
@@ -2643,9 +2272,7 @@ Since 2008 the WiFi Pineapple has made a name for itself as the go-to tool for W
 
 
 
- (https://codeby.net/resources/wifi-pineapple-field-guide.258/download)#EthicalHack #wifi
 
-sudo_, [04.11.20 22:10]
 Mind Hacking: How to Change Your Mind for Good in 21 Days
 
 Автор John Hargrave
@@ -2657,9 +2284,7 @@ Have you ever wished you could reprogram your brain, just as a hacker would a co
 
 
 
- (https://codeby.net/resources/mind-hacking-how-to-change-your-mind-for-good-in-21-days.259/download)#mind #hacking
 
-sudo_, [04.11.20 22:36]
 Coding Freedom: The Ethics and Aesthetics of Hacking
 
 Автор Gabriella Coleman
@@ -2672,9 +2297,7 @@ Who are computer hackers? What is free software? And what does the emergence of 
 
 
 
- (https://codeby.net/resources/coding-freedom-the-ethics-and-aesthetics-of-hacking.260/download)#programming #hacking
 
-sudo_, [04.11.20 22:44]
 Anonymous : espions, hackers, lanceurs d'alertes
 
 Автор Gabriella Coleman
@@ -2687,9 +2310,7 @@ Ilya presque dix ans avant WikiLeaks, Occupy Wall Street et le Printemps arabe ,
 
 
 
- (https://codeby.net/resources/anonymous-espions-hackers-lanceurs-dalertes.261/download)#anonymous #hacking
 
-sudo_, [04.11.20 22:49]
 Tor and The Dark Net: Remain Anonymous and Evade NSA Spying
 
 Автор James Smith
@@ -2701,9 +2322,7 @@ Are You Tired of All The Spying and Lack of Privacy on The Internet? Keep Readin
 
 
 
- (https://codeby.net/resources/tor-and-the-dark-net-remain-anonymous-and-evade-nsa-spying.262/download)#darknet #tor
 
-sudo_, [04.11.20 22:58]
 Blackhatonomics: An Inside Look at the Economics of Cybercrime
 
 Автор Will Gragido, Johnl Pirc, Nick Selby, Daniel Molina
@@ -2716,9 +2335,7 @@ Blackhatonomics explains the basic economic truths of the underworld of hacking,
 
 
 
- (https://codeby.net/resources/blackhatonomics-an-inside-look-at-the-economics-of-cybercrime.263/download)#cybercrime
 
-sudo_, [04.11.20 23:02]
 Hacking For Dummies, 6th Edition
 
 Автор Kevin Beaver
@@ -2731,9 +2348,7 @@ In order to outsmart a would-be hacker, you need to get into the hacker’s mind
 
 
 
- (https://codeby.net/resources/hacking-for-dummies-6th-edition.264/download)#hacking
 
-sudo_, [04.11.20 23:05]
 Cybercrime and Espionage: An Analysis of Subversive Multi-Vector Threats
 
 Автор Will Gragido, John Pirc
@@ -2746,9 +2361,7 @@ Cybercrime and Espionage provides a wealth of knowledge related to the realities
 
 
 
- (https://codeby.net/resources/cybercrime-and-espionage-an-analysis-of-subversive-multi-vector-threats.265/download)#cybercrime #espionage
 
-sudo_, [04.11.20 23:09]
 Cyberpunk 2.0. Fiction and Contemporary
 
 Автор Herlander Elias
@@ -2761,9 +2374,7 @@ I first published this book in 1999, a few months before the The Matrix motion p
 
 
 
- (https://codeby.net/resources/cyberpunk-2-0-fiction-and-contemporary.266/download)#cyberpunk #network
 
-sudo_, [04.11.20 23:12]
 Cyberpunk and Cyberculture: Science Fiction and the Work of William Gibson
 
 Автор Dani Cavallaro
@@ -2776,9 +2387,7 @@ Cyberpunk is the fiction of a culture saturated by electronic technology. Its vo
 
 
 
- (https://codeby.net/resources/cyberpunk-and-cyberculture-science-fiction-and-the-work-of-william-gibson.267/download)#cyberpunk
 
-sudo_, [04.11.20 23:14]
 From counterculture to cyberculture: Stewart Brand, the Whole Earth Network, and the rise of digital
 
 Автор Fred Turner
@@ -2791,9 +2400,7 @@ In the early 1960s, computers haunted the American popular imagination. Bleak to
 
 
 
- (https://codeby.net/resources/from-counterculture-to-cyberculture-stewart-brand-the-whole-earth-network-and-the-rise-of-digital.268/download)#cyberculture #countercultury
 
-sudo_, [04.11.20 23:17]
 Tribe of Hackers: Cybersecurity Advice from the Best Hackers in the World
 
 Автор Marcus J Carey, Jennifer Jin
@@ -2806,9 +2413,7 @@ There are already hundreds of thousands of cybersecurity professionals and accor
 
 
 
- (https://codeby.net/resources/tribe-of-hackers-cybersecurity-advice-from-the-best-hackers-in-the-world.269/download)#CyberSec #hacking
 
-sudo_, [04.11.20 23:18]
 Интернет вещей. Будущее уже здесь
 
 Автор Сэмюэл Грингард
@@ -2820,9 +2425,7 @@ sudo_, [04.11.20 23:18]
 
 
 
- (https://codeby.net/resources/internet-veschej-buduschee-uzhe-zdes.270/download)#network #information
 
-sudo_, [05.11.20 14:49]
 RFID-технологии. Справочное пособие
 
 Автор Клаус Финкенцеллер
@@ -2835,9 +2438,7 @@ ISBN 978-5-94120-232-4
 
 
 
- (https://codeby.net/resources/rfid-texnologii-spravochnoe-posobie.271/download)#rfid #information
 
-sudo_, [05.11.20 14:55]
 Search Engines. Information Retrieval in Practice
 
 Автор W. Bruce Croft, Donald Metzler, Trevor Strohman
@@ -2849,9 +2450,7 @@ This book provides an overview of the important issues in information retrieval,
 
 
 
- (https://codeby.net/resources/search-engines-information-retrieval-in-practice.272/download)#algorithms #information
 
-sudo_, [05.11.20 14:57]
 Algorithms of the Intelligent Web
 
 Автор Haralambos Marmanis, Dmitry Babenko
@@ -2864,9 +2463,7 @@ During my graduate school years I became acquainted with the field of machine le
 
 
 
- (https://codeby.net/resources/algorithms-of-the-intelligent-web.273/download)#algorithms #network
 
-sudo_, [05.11.20 14:59]
 Bandit Algorithms
 
 Автор Tor Lattimore, Csaba Szepesvari
@@ -2878,9 +2475,7 @@ Multi-armed bandits have now been studied for nearly a century. While research i
 
 
 
- (https://codeby.net/resources/bandit-algorithms.274/download)#algorithms #bandit
 
-sudo_, [05.11.20 15:03]
 Introduction to Multi-Armed Bandits
 
 Автор Alexandrs Slivkins
@@ -2892,9 +2487,7 @@ Multi-armed bandits is a rich area, multi-disciplinary area studied since (Thomp
 
 
 
- (https://codeby.net/resources/introduction-to-multi-armed-bandits.275/download)#bandit
 
-sudo_, [05.11.20 15:04]
 Hackers. Heroes of the Computer Revolution
 
 Автор Steven Levy
@@ -2907,9 +2500,7 @@ This 25th anniversary edition of Steven Levy's classic book traces the exploits 
 
 
 
- (https://codeby.net/resources/hackers-heroes-of-the-computer-revolution.276/download)#EthicalHack #hacking
 
-sudo_, [05.11.20 15:08]
 Cognitive Hack. The New Battleground in Cybersecurity ... the Human Mind
 
 Автор James Bone
@@ -2922,9 +2513,7 @@ This book explores a broad cross section of research and actual case studies to 
 
 
 
- (https://codeby.net/resources/cognitive-hack-the-new-battleground-in-cybersecurity-the-human-mind.277/download)#EthicalHack #hacking
 
-sudo_, [05.11.20 15:38]
 The Hacker Crackdown. Law and Disorder on the Electronic Frontier
 
 Автор Bruce Sterling
@@ -2937,9 +2526,7 @@ Bruce Sterling's classic work highlights the 1990 assault on hackers, when law-e
 
 
 
- (https://codeby.net/resources/the-hacker-crackdown-law-and-disorder-on-the-electronic-frontier.278/download)#EthicalHack #hacking
 
-sudo_, [05.11.20 15:42]
 Cyberwar: how Russian hackers and trolls helped elect a president: what we don't, can't, and do know
 
 Автор Kathleen Hall Jamieson
@@ -2952,9 +2539,7 @@ The question of how Donald Trump won the 2016 election looms over his presidency
 
 
 
- (https://codeby.net/resources/cyberwar-how-russian-hackers-and-trolls-helped-elect-a-president-what-we-dont-cant-and-do-know.279/download)#EthicalHack #hacking
 
-sudo_, [05.11.20 15:44]
 Hacking the Hacker: Learn From the Experts Who Take Down Hackers
 
 Автор Grimes R.A
@@ -2967,9 +2552,7 @@ Hacking the Hacker takes you inside the world of cybersecurity to show you what 
 
 
 
- (https://codeby.net/resources/hacking-the-hacker-learn-from-the-experts-who-take-down-hackers.280/download)#EthicalHack #hacking
 
-sudo_, [05.11.20 15:46]
 Взламываем хакера. Учимся у экспертов борьбе с хакерами
 
 Автор Роджер А. Гримс
@@ -2982,9 +2565,7 @@ ISBN 978-1-119-39621-5
 
 
 
- (https://codeby.net/resources/vzlamyvaem-xakera-uchimsja-u-ehkspertov-borbe-s-xakerami.281/download)#EthicalHack #hacking
 
-sudo_, [05.11.20 16:20]
 Cybersecurity Lexicon
 
 Автор Ayala Luis
@@ -2997,9 +2578,7 @@ This book offers easy-to-understand definitions of cybersecurity technical termi
 
 
 
- (https://codeby.net/resources/cybersecurity-lexicon.282/download)#CyberSec #lexicon
 
-sudo_, [05.11.20 16:22]
 The Decision to Attack: Military and Intelligence Cyber Decision-Making
 
 Автор Brantly Aaron Franklin, Keller William
@@ -3012,9 +2591,7 @@ The debate over cyber technology has resulted in new considerations for national
 
 
 
- (https://codeby.net/resources/the-decision-to-attack-military-and-intelligence-cyber-decision-making.283/download)#CyberSec
 
-sudo_, [05.11.20 16:35]
 Principles of Cybercrime
 
 Автор Jonathan Clough
@@ -3027,9 +2604,7 @@ We live in a digital age. The proliferation of digital technology, and the conve
 
 
 
- (https://codeby.net/resources/principles-of-cybercrime.284/download)#Forensics #cybercrime
 
-sudo_, [05.11.20 18:18]
 Cybersecurity - Attack and Defense Strategies: Infrastructure Security with Red Team and Blue Team
 
 Автор Diogenes Yuri, Ozkaya Erdal
@@ -3042,9 +2617,7 @@ Enhance your organization's secure posture by improving your attack and defense 
 
 
 
- (https://codeby.net/resources/cybersecurity-attack-and-defense-strategies-infrastructure-security-with-red-team-and-blue-team.285/download)#CyberSec #security
 
-sudo_, [05.11.20 18:21]
 DNS Security Management
 
 Автор Dooley Michael, Rooney Timothy
@@ -3057,9 +2630,7 @@ An advanced Domain Name System (DNS) security resource that explores the operati
 
 
 
- (https://codeby.net/resources/dns-security-management.286/download)#CyberSec #dns
 
-sudo_, [05.11.20 19:53]
 Solutions for Cyber-Physical Systems Ubiquity
 
 Автор Druml N. et al.
@@ -3072,9 +2643,7 @@ Around 30 years ago, when the Internet was released to the general public, a min
 
 
 
- (https://codeby.net/resources/solutions-for-cyber-physical-systems-ubiquity.287/download)#CyberSec
 
-sudo_, [05.11.20 19:58]
 Threat Level Red: Cybersecurity Research Programs of the U.S. Government
 
 Автор Michael Erbschloe
@@ -3087,9 +2656,7 @@ There is extensive government research on cyber security science, technology, an
 
 
 
- (https://codeby.net/resources/threat-level-red-cybersecurity-research-programs-of-the-u-s-government.288/download)#CyberSec #security
 
-sudo_, [05.11.20 19:59]
 Implementing Cybersecurity A Guide to the NIST and Technology Risk Management Framework
 
 Автор Kohnke A., Sigler K., Shoemaker D
@@ -3102,9 +2669,7 @@ The book provides the complete strategic understanding requisite to allow a pers
 
 
 
- (https://codeby.net/resources/implementing-cybersecurity-a-guide-to-the-nist-and-technology-risk-management-framework.289/download)#CyberSec #nist
 
-sudo_, [05.11.20 20:01]
 Cybersecurity Law
 
 Автор Jeff Kosseff
@@ -3117,9 +2682,7 @@ A definitive guide to cybersecurity law Expanding on the author's experience as 
 
 
 
- (https://codeby.net/resources/cybersecurity-law.290/download)#CyberSec #law
 
-sudo_, [05.11.20 20:05]
 Cyberspace and Cybersecurity
 
 Автор G. Kostopoulos
@@ -3132,9 +2695,7 @@ Providing comprehensive coverage of cyberspace and cybersecurity, this textbook 
 
 
 
- (https://codeby.net/resources/cyberspace-and-cybersecurity.291/download)#CyberSec
 
-sudo_, [05.11.20 20:06]
 Hacking Innovation: The New Growth Model from the Sinister World of Hackers
 
 Автор Josh Linkner
@@ -3146,9 +2707,7 @@ Hackers are a global fascination with cybercrime representing our single biggest
 
 
 
- (https://codeby.net/resources/hacking-innovation-the-new-growth-model-from-the-sinister-world-of-hackers.292/download)#EthicalHack #hacking
 
-sudo_, [05.11.20 20:08]
 A History of Cyber Security Attacks: 1980 to Present
 
 Автор Bruce Middletone
@@ -3161,9 +2720,7 @@ Stories of cyberattacks dominate the headlines. Whether it is theft of massive a
 
 
 
- (https://codeby.net/resources/a-history-of-cyber-security-attacks-1980-to-present.293/download)#CyberSec #security
 
-sudo_, [05.11.20 20:12]
 Cyber Crime Investigator's Field Guide. First Edition
 
 Автор Bruce Middletone
@@ -3176,9 +2733,7 @@ Long gone are the days when a computer took up an entire room. Now we have compu
 
 
 
- (https://codeby.net/resources/cyber-crime-investigators-field-guide-first-edition.294/download)#Forensics #cybercrime
  
- sudo_, [05.11.20 20:15]
 Cyber Crime Investigator's Field Guide. Second Edition
 
 Автор Bruce Middletone
@@ -3191,9 +2746,7 @@ Many excellent hardware and software products exist to protect our data communic
 
 
 
- (https://codeby.net/resources/cyber-crime-investigators-field-guide-second-edition.295/download)#Forensics #cybercrime
 
-sudo_, [05.11.20 20:17]
 Hardware IP Security and Trust
 
 Автор Mishra Prabhat, Bhunia Swarup, Tehranipoor Mark
@@ -3206,9 +2759,7 @@ This book would not be possible without the contributions of many researchers an
 
 
 
- (https://codeby.net/resources/hardware-ip-security-and-trust.296/download)#CyberSec #ip
 
-sudo_, [05.11.20 20:20]
 Guide to Computer Forensics and Investigations. Processing Digital Evidence
 
 Автор Nelson B., Phillips A., Steuart Ch.
@@ -3221,9 +2772,7 @@ Updated with the latest advances from the field, Guide to computer forensics and
 
 
 
- (https://codeby.net/resources/guide-to-computer-forensics-and-investigations-processing-digital-evidence.297/download)#Forensics
 
-sudo_, [05.11.20 20:22]
 Advances in Human Factors in Cybersecurity
 
 Автор Denise Nicholson
@@ -3236,9 +2785,7 @@ This book reports on the latest esearch and developments in the field of cyberse
 
 
 
- (https://codeby.net/resources/advances-in-human-factors-in-cybersecurity.298/download)#CyberSec
 
-sudo_, [05.11.20 20:23]
 A Practical Introduction to Human-in-the-Loop Cyber-Physical System
 
 Автор Nunes D., Silva J., Boavida F.
@@ -3251,9 +2798,7 @@ The first book focusing on one of the hottest new topics in Internet of Things s
 
 
 
- (https://codeby.net/resources/a-practical-introduction-to-human-in-the-loop-cyber-physical-system.299/download)#CyberSec
 
-sudo_, [05.11.20 20:25]
 AI and Machine Learning for Cybersecurity Management
 
 Автор Osborne Mark, White Tom
@@ -3265,9 +2810,7 @@ No extra maths required! – but a keen sense of humour is mandatory. You don’
 
 
 
- (https://codeby.net/resources/ai-and-machine-learning-for-cybersecurity-management.300/download)#CyberSec #ai
 
-sudo_, [05.11.20 20:27]
 Smart Cities Cybersecurity and Privacy
 
 Автор Rawat D., Ghafoor K.
@@ -3280,9 +2823,7 @@ This book examines the latest research developments and their outcomes for safe,
 
 
 
- (https://codeby.net/resources/smart-cities-cybersecurity-and-privacy.301/download)#CyberSec
 
-sudo_, [05.11.20 20:28]
 Linux Essentials for Cybersecurity
 
 Автор Rothwell W., Kinsey D.
@@ -3295,9 +2836,7 @@ All You Need to Know to Secure Linux Systems, Networks, Applications, and Datain
 
 
 
- (https://codeby.net/resources/linux-essentials-for-cybersecurity.302/download)#CyberSec #linux
 
-sudo_, [05.11.20 20:31]
 Learn Ethical Hacking from Scratch: Your stepping stone to penetration testing
 
 Автор Zaid Sabih
@@ -3310,9 +2849,7 @@ Learn how to hack systems like black hat hackers and secure them like security e
 
 
 
- (https://codeby.net/resources/learn-ethical-hacking-from-scratch-your-stepping-stone-to-penetration-testing.303/download)#EthicalHack #security
 
-sudo_, [05.11.20 20:32]
 Diagnosability, Security and Safety of Hybrid Dynamic and Cyber-Physical Systems
 
 Автор M. Sayed-Mouchaweh
@@ -3325,9 +2862,7 @@ Cyber-physical systems (CPS) are characterized as a combination of physical (phy
 
 
 
- (https://codeby.net/resources/diagnosability-security-and-safety-of-hybrid-dynamic-and-cyber-physical-systems.304/download)#CyberSec
 
-sudo_, [05.11.20 20:33]
 Understanding Cybersecurity
 
 Автор Gary Schaub
@@ -3340,9 +2875,7 @@ Over the last decade, the internet and cyber space has had a phenomenal impact o
 
 
 
- (https://codeby.net/resources/understanding-cybersecurity.305/download)#CyberSec #network
 
-sudo_, [05.11.20 20:37]
 Cyber Attack Survival Manual
 
 Автор Nick Selby, Heather Vescent
@@ -3354,9 +2887,7 @@ As we live more of our lives online and entrust personal information to the clou
 
 
 
- (https://codeby.net/resources/cyber-attack-survival-manual.306/download)#CyberSec #network
 
-sudo_, [05.11.20 20:39]
 Collaborative Cyber Threat Intelligence. Detecting and Responding to Advanced Cyber Attacks
 
 Автор Florian Skopik
@@ -3369,9 +2900,7 @@ Threat intelligence is a surprisingly complex topic that goes far beyond the obv
 
 
 
- (https://codeby.net/resources/collaborative-cyber-threat-intelligence-detecting-and-responding-to-advanced-cyber-attacks.307/download)#CyberSec #security
 
-sudo_, [05.11.20 20:40]
 Security and Privacy in Cyber-Physical Systems: Foundations, Principles, and Applications
 
 Автор Song H., Fink G., Jeschke S.
@@ -3384,9 +2913,7 @@ Written by a team of experts at the forefront of the cyber-physical systems (CPS
 
 
 
- (https://codeby.net/resources/security-and-privacy-in-cyber-physical-systems-foundations-principles-and-applications.308/download)#CyberSec #security
 
-sudo_, [05.11.20 20:42]
 Security and Authentication
 
 Автор Song Ong Thian
@@ -3399,9 +2926,7 @@ This book presents the current popular issues in information security and privac
 
 
 
- (https://codeby.net/resources/security-and-authentication.309/download)#CyberSec #authentication
 
-sudo_, [05.11.20 21:27]
 Encyclopedia of Cyber Warfare
 
 Автор Paul J. Springer
@@ -3414,9 +2939,7 @@ This definitive reference resource on cyber warfare covers all aspects of this h
 
 
 
- (https://codeby.net/resources/encyclopedia-of-cyber-warfare.310/download)#CyberSec
 
-sudo_, [06.11.20 12:30]
 Preventing Digital Extortion
 
 Автор Dhanya Thakkar
@@ -3429,9 +2952,7 @@ Learn the art of preventing digital extortion and securing confidential data Mor
 
 
 
- (https://codeby.net/resources/preventing-digital-extortion.311/download)#CyberSec
 
-sudo_, [06.11.20 12:34]
 The Hacker Ethos: The Beginner's Guide to Ethical Hacking and Penetration Testing
 
 Автор True Demon
@@ -3444,9 +2965,7 @@ Written by an expert in Computer Science and Information Security with ten years
 
 
 
- (https://codeby.net/resources/the-hacker-ethos-the-beginners-guide-to-ethical-hacking-and-penetration-testing.312/download)#EthicalHack #pentest
 
-sudo_, [06.11.20 12:37]
 Cybercryptography: Applicable Cryptography for Cyberspace Security
 
 Автор Song Y. Yan
@@ -3459,9 +2978,7 @@ Quantum-safe cryptography is presented in Chapter 8 and offensive cryptography, 
 
 
 
- (https://codeby.net/resources/cybercryptography-applicable-cryptography-for-cyberspace-security.313/download)#Криптография #security
 
-sudo_, [06.11.20 12:39]
 Botnets - The killer web applications
 
 Автор Craig Schiller
@@ -3474,9 +2991,7 @@ The book begins with real world cases of botnet attacks to underscore the need f
 
 
 
- (https://codeby.net/resources/botnets-the-killer-web-applications.314/download)#botnet #security
 
-sudo_, [06.11.20 12:46]
 Cyber Criminology
 
 Автор Hamid Jahankhani
@@ -3489,9 +3004,7 @@ This book provides a comprehensive overview of the current and emerging challeng
 
 
 
- (https://codeby.net/resources/cyber-criminology.315/download)#CyberSec
 
-sudo_, [06.11.20 12:48]
 Cyber crime investigations: bridging the gaps between security professionals, law enforcement
 
 Автор Anthony Reyes
@@ -3504,9 +3017,7 @@ Written by a former NYPD cyber cop, this is the only book available that discuss
 
 
 
- (https://codeby.net/resources/cyber-crime-investigations-bridging-the-gaps-between-security-professionals-law-enforcement.316/download)#CyberSec #law
 
-sudo_, [06.11.20 12:49]
 Computer Forensics: Investigating Network Intrusions and Cybercrime
 
 Автор EC-Council
@@ -3519,9 +3030,7 @@ The Computer Forensic Series by EC-Council provides the knowledge and skills to 
 
 
 
- (https://codeby.net/resources/computer-forensics-investigating-network-intrusions-and-cybercrime.317/download)#Forensics #cybercrime
 
-sudo_, [06.11.20 12:53]
 Disaster Recovery (EC-Council Disaster Recovery Professional (Edrp))
 
 Автор EC-Council
@@ -3534,9 +3043,7 @@ This is one of two books in the DISASTER RECOVERY/VIRTUALIZATION SECURITY SERIES
 
 
 
- (https://codeby.net/resources/disaster-recovery-ec-council-disaster-recovery-professional-edrp.318/download)#CyberSec
 
-sudo_, [06.11.20 12:54]
 Virtualization Security: Business Continuity (EC-Council Disaster Recovery Professional (Edrp))
 
 Автор EC-Council
@@ -3549,9 +3056,7 @@ This is one of two books in the DISASTER RECOVERY/VIRTUALIZATION SECURITY SERIES
 
 
 
- (https://codeby.net/resources/virtualization-security-business-continuity-ec-council-disaster-recovery-professional-edrp.319/download)#CyberSec
 
-sudo_, [06.11.20 12:55]
 Computer Forensics: Hard Disk and Operating Systems (Ec-Council Press Series : Computer Forensics)
 
 Автор EC-Council
@@ -3564,9 +3069,7 @@ The Computer Forensic Series by EC-Council provides the knowledge and skills to 
 
 
 
- (https://codeby.net/resources/computer-forensics-hard-disk-and-operating-systems-ec-council-press-series-computer-forensics.320/download)#Forensics #security
 
-sudo_, [06.11.20 12:56]
 Penetration Testing: Communication Media Testing (EC-Council Certified Security Analyst (ECSA))
 
 Автор EC-Council
@@ -3579,9 +3082,7 @@ The Security Analyst Series from EC-Council | Press is comprised of five books c
 
 
 
- (https://codeby.net/resources/penetration-testing-communication-media-testing-ec-council-certified-security-analyst-ecsa.321/download)#CyberSec #pentest
 
-sudo_, [06.11.20 12:57]
 Computer Forensics: Investigating Data and Image Files
 
 Автор EC-Council
@@ -3594,9 +3095,7 @@ The Computer Forensic Series by EC-Council provides the knowledge and skills to 
 
 
 
- (https://codeby.net/resources/computer-forensics-investigating-data-and-image-files.322/download)#Forensics #data
 
-sudo_, [06.11.20 12:58]
 Network Safety: Network5 Safety Certification
 
 Автор EC-Council
@@ -3609,9 +3108,7 @@ Network Safety is a diverse introductory networking book intended for anyone fro
 
 
 
- (https://codeby.net/resources/network-safety-network5-safety-certification.323/download)#CyberSec #network
 
-sudo_, [06.11.20 12:59]
 Computer Forensics: Investigating Wireless Networks and Devices (Volume 5 of 5)
 
 Автор EC-Council
@@ -3624,9 +3121,7 @@ The Computer Forensic Series by EC-Council provides the knowledge and skills to 
 
 
 
- (https://codeby.net/resources/computer-forensics-investigating-wireless-networks-and-devices-volume-5-of-5.324/download)#Forensics #wifi
 
-sudo_, [06.11.20 13:01]
 Penetration Testing: Procedures & Methodologies
 
 Автор EC-Council
@@ -3639,9 +3134,7 @@ The Security Analyst Series from EC-Council | Press is comprised of five books c
 
 
 
- (https://codeby.net/resources/penetration-testing-procedures-methodologies.325/download)#CyberSec #pentest
 
-sudo_, [06.11.20 13:05]
 Network Defense: Perimeter Defense Mechanisms
 
 Автор EC-Council
@@ -3654,9 +3147,7 @@ The Network Defense Series from EC-Council | Press is comprised of 5 books desig
 
 
 
- (https://codeby.net/resources/network-defense-perimeter-defense-mechanisms.326/download)#CyberSec #network
 
-sudo_, [06.11.20 13:06]
 Ethical Hacking and Countermeasures: Threats and Defense Mechanisms
 
 Автор EC-Council
@@ -3669,9 +3160,7 @@ The EC-Council | Press Ethical Hacking and Countermeasures Series is comprised o
 
 
 
- (https://codeby.net/resources/ethical-hacking-and-countermeasures-threats-and-defense-mechanisms.327/download)#EthicalHack #security
 
-sudo_, [06.11.20 13:07]
 Ethical Hacking and Countermeasures: Linux, Macintosh and Mobile Systems
 
 Автор EC-Council
@@ -3684,9 +3173,7 @@ The EC-Council | Press Ethical Hacking and Countermeasures Series is comprised o
 
 
 
- (https://codeby.net/resources/ethical-hacking-and-countermeasures-linux-macintosh-and-mobile-systems.328/download)#EthicalHack #systems
 
-sudo_, [06.11.20 13:08]
 Wireless Safety
 
 Автор EC-Council
@@ -3699,9 +3186,7 @@ Intended for anyone from the mobile user to a student or professional working in
 
 
 
- (https://codeby.net/resources/wireless-safety.329/download)#CyberSec #wifi
 
-sudo_, [06.11.20 13:09]
 Ethical Hacking and Countermeasures: Secure Network Infrastructures
 
 Автор EC-Council
@@ -3714,9 +3199,7 @@ The EC-Council | Press Ethical Hacking and Countermeasures Series is comprised o
 
 
 
- (https://codeby.net/resources/ethical-hacking-and-countermeasures-secure-network-infrastructures.330/download)#EthicalHack #network
 
-sudo_, [06.11.20 13:47]
 Web Applications and Data Servers
 
 Автор EC-Council
@@ -3729,9 +3212,7 @@ The EC-Council | Press Ethical Hacking and Countermeasures Series is comprised o
 
 
 
- (https://codeby.net/resources/web-applications-and-data-servers.331/download)#CyberSec #network
 
-sudo_, [06.11.20 13:50]
 Ethical Hacking and Countermeasures: Attack Phases
 
 Автор EC-Council
@@ -3744,9 +3225,7 @@ Ethical Hacking and Countermeasures Series is comprised of five books covering a
 
 
 
- (https://codeby.net/resources/ethical-hacking-and-countermeasures-attack-phases.332/download)#EthicalHack #security
 
-sudo_, [06.11.20 13:51]
 Ethical Hacking and Countermeasures: Threats and Defense Mechanisms
 
 Автор EC-Council
@@ -3759,9 +3238,7 @@ This certification covers a plethora of offensive security topics ranging from h
 
 
 
- (https://codeby.net/resources/ethical-hacking-and-countermeasures-threats-and-defense-mechanisms.333/download)#EthicalHack #security
 
-sudo_, [06.11.20 13:53]
 Ethical Hacking Student Courseware: Certidied Ethical Hacker-Exam 312-50 (EC-Council E-Business)
 
 Автор EC-Council
@@ -3774,9 +3251,7 @@ By explaining computer security and outlining methods to test computer systems f
 
 
 
- (https://codeby.net/resources/ethical-hacking-student-courseware-certidied-ethical-hacker-exam-312-50-ec-council-e-business.334/download)#EthicalHack #security
 
-sudo_, [06.11.20 13:54]
 CEH v9: Certified Ethical Hacker Version 9 Study Guide, 3rd Edition
 
 Автор Sean-Philip Oriyano
@@ -3789,9 +3264,7 @@ The CEH v9: Certified Ethical Hacker Version 9 Study Guide is your ideal compani
 
 
 
- (https://codeby.net/resources/ceh-v9-certified-ethical-hacker-version-9-study-guide-3rd-edition.335/download)#EthicalHack #ceh
 
-sudo_, [06.11.20 13:56]
 Certified Ethical Hacker Version 8. CEH Study Guide
 
 Автор Sean-Philip Oriyano
@@ -3804,9 +3277,7 @@ Security professionals remain in high demand. The Certified Ethical Hacker is a 
 
 
 
- (https://codeby.net/resources/certified-ethical-hacker-version-8-ceh-study-guide.336/download)#EthicalHack #ceh
 
-sudo_, [06.11.20 13:58]
 CEH v9: Certified Ethical Hacker Version 9 Practice Tests
 
 Автор  Raymond Blockmon, Sean-Philip Oriyano
@@ -3819,9 +3290,7 @@ Master CEH v9 and identify your weak spots CEH: Certified Ethical Hacker Version
 
 
 
- (https://codeby.net/resources/ceh-v9-certified-ethical-hacker-version-9-practice-tests.337/download)#EthicalHack #ceh
 
-sudo_, [06.11.20 13:59]
 Penetration Testing Essentials
 
 Автор Sean-Philip Oriyano
@@ -3834,9 +3303,7 @@ Your pen testing career begins here, with a solid foundation in essential skills
 
 
 
- (https://codeby.net/resources/penetration-testing-essentials.338/download)#CyberSec #pentest
 
-sudo_, [06.11.20 14:01]
 Cryptography. InfoSec Pro Guide
 
 Автор Sean-Philip Oriyano
@@ -3849,9 +3316,7 @@ This complete, practical resource for security and IT professionals presents the
 
 
 
- (https://codeby.net/resources/cryptography-infosec-pro-guide.339/download)#Криптография #security
 
-sudo_, [06.11.20 14:03]
 CEH Certified Ethical Hacker All-in-One Exam Guide
 
 Автор Matt Walker
@@ -3864,9 +3329,7 @@ Get complete coverage of all the objectives included on the EC-Council's Certifi
 
 
 
- (https://codeby.net/resources/ceh-certified-ethical-hacker-all-in-one-exam-guide.340/download)#EthicalHack #ceh
 
-sudo_, [06.11.20 14:06]
 CEH Certified Ethical Hacker Practice Exams
 
 Автор Matt Walker
@@ -3879,9 +3342,7 @@ Don’t Let the Real Test Be Your First Test! Written by an IT security and educ
 
 
 
- (https://codeby.net/resources/ceh-certified-ethical-hacker-practice-exams.341/download)#EthicalHack #ceh
 
-sudo_, [06.11.20 14:07]
 CEH Certified Ethical Hacker Practice Exams, Second Edition (All-in-One)
 
 Автор Matt Walker
@@ -3894,9 +3355,7 @@ Dont Let the Real Test Be Your First Test! Fully updated for the CEH v8 exam obj
 
 
 
- (https://codeby.net/resources/ceh-certified-ethical-hacker-practice-exams-second-edition-all-in-one.342/download)#EthicalHack #ceh
 
-sudo_, [06.11.20 14:09]
 CEH Certified Ethical Hacker Practice Exams.Third Edition
 
 Автор Matt Walker
@@ -3909,9 +3368,7 @@ Fully updated for the CEH v9 exam objectives, this practical guide contains more
 
 
 
- (https://codeby.net/resources/ceh-certified-ethical-hacker-practice-exams-third-edition.343/download)#EthicalHack #ceh
 
-sudo_, [06.11.20 14:10]
 CEH Certified Ethical Hacker Exam Guide. Third Edition
 
 Автор Matt Walker
@@ -3924,9 +3381,7 @@ Thoroughly revised for current exam objectives, this integrated self-study syste
 
 
 
- (https://codeby.net/resources/ceh-certified-ethical-hacker-exam-guide.344/download)#EthicalHack #ceh
 
-sudo_, [06.11.20 14:13]
 Certified Ethical Hacker Exam Guide. Second Edition
 
 Автор Matt Walker
@@ -3937,9 +3392,7 @@ ISBN 978-0-07-183645-6
 
 
 
- (https://codeby.net/resources/certified-ethical-hacker-exam-guide-second-edition.345/download)#EthicalHack #ceh
 
-sudo_, [06.11.20 14:16]
 Mastering Social Media Mining with Python
 
 Автор Marco Bonzanini
@@ -3952,9 +3405,7 @@ Python is the programming language of choice for data scientists to prototype, v
 
 
 
- (https://codeby.net/resources/mastering-social-media-mining-with-python.346/download)#python #media
 
-sudo_, [06.11.20 14:20]
 Анализ социальных медиа на Python
 
 Автор Марко Бонцанини
@@ -3967,9 +3418,7 @@ ISBN 978-5-97060-574-5
 
 
 
- (https://codeby.net/resources/analiz-socialnyx-media-na-python.347/download)#python #media
 
-sudo_, [07.11.20 14:52]
 Free Yourself from Microsoft and the NSA... Learn Linux and Libre Office!
 
 Автор David Spring
@@ -3982,9 +3431,7 @@ In June 2013, former NSA agent Edward Snowden confirmed that Microsoft works clo
 
 
 
- (https://codeby.net/resources/free-yourself-from-microsoft-and-the-nsa-learn-linux-and-libre-office.352/download)#linux #nsa
 
-sudo_, [07.11.20 15:03]
 Ethical Hacking and Penetration Testing Guide
 
 Автор Rafay Baloch
@@ -3999,9 +3446,7 @@ ISBN 978-1-4822-3162-5
 
 
 
- (https://codeby.net/resources/ethical-hacking-and-penetration-testing-guide.353/download)#EthicalHack #pentest
 
-sudo_, [07.11.20 15:06]
 Шифропанки. Cвобода и будущее интернета
 
 Автор Джулиан Ассанж, Энди Мюллер-Магун, Джейкоб Аппельбаум, Жереми Циммерман
@@ -4014,9 +3459,7 @@ ISBN 978-5-389-07975-5
 
 
 
- (https://codeby.net/resources/shifropanki-cvoboda-i-buduschee-interneta.354/download)#network #espionage
 
-sudo_, [07.11.20 15:14]
 Nmap руководство на русском
 
 Формат TXT
@@ -4025,9 +3468,7 @@ Nmap руководство на русском
 
 
 
- (https://codeby.net/resources/nmap-rukovodstvo-na-russkom.355/download)#nmap
 
-sudo_, [07.11.20 15:17]
 Про GOOGLE
 
 Автор Анна Кроули Реддинг
@@ -4040,9 +3481,7 @@ ISBN 978-5-17-110857-1
 
 
 
- (https://codeby.net/resources/pro-google.356/download)#google #network
 
-sudo_, [07.11.20 15:22]
 Интерфейсы СОРМ. Справочник
 
 Автор Б.С. Гольдштейн, Ю.С. Крюков, А.В. Пинчук, И.П. Хегай, В.Э. Шляпоберский
@@ -4055,9 +3494,7 @@ ISBN 978-5-9775-2730-9
 
 
 
- (https://codeby.net/resources/interfejsy-sorm-spravochnik.357/download)#сорм #network
 
-sudo_, [07.11.20 15:31]
 Прослушка. Перехват информации
 
 Автор Вадим Гребенников
@@ -4070,9 +3507,7 @@ ISBN 978-5-5321-1267-4
 
 
 
- (https://codeby.net/resources/proslushka-perexvat-informacii.358/download)#прослушка #espionage
 
-sudo_, [07.11.20 15:38]
 The New Hacker's Dictionary
 
 Автор Eric S. Raymond
@@ -4085,9 +3520,7 @@ This document (the Jargon File) is in the public domain, to be freely used, shar
 
 
 
- (https://codeby.net/resources/the-new-hackers-dictionary.359/download)#hacking #dictionary
 
-sudo_, [07.11.20 15:43]
 Webster's New World Hacker Dictionary
 
 Автор Bernadette Schell, Clemens Martin
@@ -4100,9 +3533,7 @@ The comprehensive hacker dictionary for security professionals, businesses, gove
 
 
 
- (https://codeby.net/resources/websters-new-world-hacker-dictionary.360/download)#hacking #dictionary
 
-sudo_, [07.11.20 15:50]
 Dictionary of computer and Internet terms
 
 Автор Douglas Downing Ph.D., Michael Covington Ph.D., Melody Maudlin Covington, Catherine Anne Covington
@@ -4115,9 +3546,7 @@ Computer terminology is constantly expanding, and the brand-new edition of this 
 
 
 
- (https://codeby.net/resources/dictionary-of-computer-and-internet-terms.361/download)#dictionary #network
 
-sudo_, [07.11.20 15:53]
 Dictionary of Computer Acronyms and Abbreviations: Plus File Name Extensions
 
 Автор John C. Rigdon
@@ -4130,9 +3559,7 @@ This Companion Volume to our Dictionary of Computer and Internet Terms (Vol.2) -
 
 
 
- (https://codeby.net/resources/dictionary-of-computer-acronyms-and-abbreviations-plus-file-name-extensions.363/download)#dictionary
 
-sudo_, [07.11.20 15:59]
 Baker McKenzie’s Global Surveillance Survey 2017
 
 Автор Baker McKenzie
@@ -4144,9 +3571,7 @@ One year ago, in April 2016, Baker McKenzie published its first global surveilla
 
 
 
- (https://codeby.net/resources/baker-mckenzies-global-surveillance-survey-2017.364/download)#CyberSec
 
-sudo_, [07.11.20 16:03]
 Baker McKenzie’s Global Privacy and Information Management Handbook 2018
 
 Автор Baker McKenzie
@@ -4156,9 +3581,7 @@ Baker McKenzie’s Global Privacy and Information Management Handbook 2018
 
 
 
- (https://codeby.net/resources/baker-mckenzies-global-privacy-and-information-management-handbook-2018.365/download)#privacy #information
 
-sudo_, [07.11.20 16:16]
 Surveillance by intelligence services. Fundamental rights safeguards and remedies in the EU
 
 Автор European Union Agency for Fundamental Rights
@@ -4171,9 +3594,7 @@ Protecting the public from genuine threats to security and safeguarding fundamen
 
 
 
- (https://codeby.net/resources/surveillance-by-intelligence-services-fundamental-rights-safeguards-and-remedies-in-the-eu.369/download)#surveillance #intelligence
 
-sudo_, [07.11.20 16:22]
 Занимайся хакингом с ловкостью порнозвезды (Взламываем планету | Книга 1)
 
 Автор Sparc Flow
@@ -4185,9 +3606,7 @@ sudo_, [07.11.20 16:22]
 
 
 
- (https://codeby.net/resources/books-sparc-flow-zanimajsja-xakingom-s-lovkostju-pornozvezdy-vzlamyvaem-planetu-kniga-1.370/download)#EthicalHack #hacking
 
-sudo_, [07.11.20 16:29]
 501 Web Site Secrets: Unleash the Power of Google, Amazon, eBay and More
 
 Автор Michael Miller
@@ -4198,9 +3617,7 @@ ISBN 0-7645-5901
 
 
 
- (https://codeby.net/resources/501-web-site-secrets-unleash-the-power-of-google-amazon-ebay-and-more.371/download)#hacking #network
 
-sudo_, [07.11.20 16:31]
 The Best of 2600: A Hacker Odyssey
 
 Автор Emmanuel Goldstein
@@ -4213,9 +3630,7 @@ Since 1984, the quarterly magazine 2600 has provided fascinating articles for re
 
 
 
- (https://codeby.net/resources/the-best-of-2600-a-hacker-odyssey.372/download)#hacking
 
-sudo_, [07.11.20 16:34]
 Certified Ethical Hacker Complete Training Guide with Practice Labs: Exam: 312-50
 
 Автор EC-Council
@@ -4227,9 +3642,7 @@ This workbook covers all the information you need to pass the EC-Council's Certi
 
 
 
- (https://codeby.net/resources/certified-ethical-hacker-complete-training-guide-with-practice-labs-exam-312-50.373/download)#EthicalHack #ceh
 
-sudo_, [07.11.20 16:43]
 Confronting an “Axis of Cyber”? China, Iran, North Korea, Russia in Cyberspace
 
 Автор Fabio Rugge
@@ -4242,9 +3655,7 @@ The new US National Cyber Strategy points to Russia, China, North Korea and Iran
 
 
 
- (https://codeby.net/resources/confronting-an-axis-of-cyber-china-iran-north-korea-russia-in-cyberspace.374/download)#cyberspace
 
-sudo_, [07.11.20 18:02]
 Hacks, leaks and disruptions - Russian cyber strategies
 
 Автор Nicu Popescu, Stanislav Secrieru
@@ -4256,9 +3667,7 @@ What is the relationship between cyber activities conducted by Russia at home an
 
 
 
- (https://codeby.net/resources/hacks-leaks-and-disruptions-russian-cyber-strategies.375/download)#CyberSec
 
-sudo_, [07.11.20 18:06]
 Hacked Again
 
 Автор Scott N. Schober
@@ -4271,9 +3680,7 @@ Hacked Again details the ins and outs of cybersecurity expert and CEO of a top w
 
 
 
- (https://codeby.net/resources/hacked-again.376/download)#hacking
 
-sudo_, [07.11.20 18:08]
 Hacker’s Elusive Thoughts The Web
 
 Автор Gerasimos Kassaras
@@ -4286,9 +3693,7 @@ This book is written to help hacking enthusiasts to become better and stan- dard
 
 
 
- (https://codeby.net/resources/hackers-elusive-thoughts-the-web.377/download)#hacking #network
 
-sudo_, [07.11.20 18:11]
 Занимайся хакингом с ловкостью Бога (книга 2)
 
 Автор Sparc Flow
@@ -4300,9 +3705,7 @@ sudo_, [07.11.20 18:11]
 
 
 
- (https://codeby.net/resources/books-sparc-flow-zanimajsja-xakingom-s-lovkostju-boga-kniga-2.378/download)#EthicalHack #hacking
 
-sudo_, [07.11.20 18:13]
 Practical Binary Analysis
 
 Автор Dennis Andriesse
@@ -4315,9 +3718,7 @@ Dennis Andriesse has put together a book that combines the necessary knowledge a
 
 
 
- (https://codeby.net/resources/practical-binary-analysis.384/download)#Reverce #binary
 
-sudo_, [07.11.20 18:16]
 Web Hacking 101
 
 Автор Peter Yaworski
@@ -4329,9 +3730,7 @@ Web Hacking 101
 
 
 
- (https://codeby.net/resources/web-hacking-101.385/download)#EthicalHack #network
 
-sudo_, [07.11.20 18:38]
 Занимайся хакингом как легенда (Взламываем планету | Книга 4)
 
 Автор Sparc Flow
@@ -4343,9 +3742,7 @@ sudo_, [07.11.20 18:38]
 
 
 
- (https://codeby.net/resources/books-sparc-flow-zanimajsja-xakingom-kak-legenda-vzlamyvaem-planetu-kniga-4.386/download)#EthicalHack #hacking
 
-sudo_, [07.11.20 18:40]
 The Linux Command Line. A complete introduction
 
 Автор William E. Shotts Jr.
@@ -4358,9 +3755,7 @@ ISBN 978-5-496-02303-0
 
 
 
- (https://codeby.net/resources/william-e-shotts-jr-the-linux-command-line-a-complete-introduction-rus.389/download)#linux #shell
 
-sudo_, [07.11.20 18:44]
 Следующие 20 лет. The Next 20 years.
 
 Автор Ведущие бизнесмены, экономисты и политики
@@ -4372,9 +3767,7 @@ sudo_, [07.11.20 18:44]
 
 
 
- (https://codeby.net/resources/sledujuschie-20-let-the-next-20-years.393/download)#future #network
 
-sudo_, [07.11.20 18:45]
 GAME CHANGER. Structural transformation of cyberspace
 
 Автор Juha Kukkola, Mari Ristolainen, Juha-Pekka Nikkarila
@@ -4385,9 +3778,7 @@ ISBN 978-951-25-2954-4
 
 
 
- (https://codeby.net/resources/game-changer-structural-transformation-of-cyberspace.394/download)#CyberSec #cyberspace
 
-sudo_, [07.11.20 18:47]
 Криминальный Рунет. Темные стороны Интернета
 
 Автор Филипп Гросс
@@ -4400,9 +3791,7 @@ ISBN 978-5-699-88403-2
 
 
 
- (https://codeby.net/resources/kriminalnyj-runet-temnye-storony-interneta.395/download)#criminal #network
 
-sudo_, [07.11.20 18:50]
 Теория и практика правового регулирования трансграничного функционирования использования интернета
 
 Автор Касенова М.Б.
@@ -4415,9 +3804,7 @@ ISBN 978-5-9228-1325-9
 
 
 
- (https://codeby.net/resources/teorija-i-praktika-pravovogo-regulirovanija-transgranichnogo-funkcionirovanija-ispolzovanija-interneta.396/download)#law #network
 
-sudo_, [08.11.20 13:00]
 Оборотни или Кто стоит за Ватиканом.
 
 Автор Ольга Четверикова
@@ -4429,9 +3816,7 @@ sudo_, [08.11.20 13:00]
 
 
 
- (https://codeby.net/resources/oborotni-ili-kto-stoit-za-vatikanom.398/download)#EthicalHack
 
-sudo_, [08.11.20 13:02]
 Ubuntu и Debian Linux для продвинутых. Более 1000 незаменимых команд
 
 Автор Кристофер Негус
@@ -4444,9 +3829,7 @@ ISBN 978-5-496-01075-7
 
 
 
- (https://codeby.net/resources/ubuntu-i-debian-linux-dlja-prodvinutyx-bolee-1000-nezamenimyx-komand.402/download)#debian #linux
 
-sudo_, [08.11.20 13:05]
 E-mail Virus Protection Handbook. Protect your E-mail from Viruses, Tojan Horses
 
 Автор James Stranger
@@ -4459,9 +3842,7 @@ The E-mail Virus Protection Handbook is organised around specific e-mail clients
 
 
 
- (https://codeby.net/resources/e-mail-virus-protection-handbook-protect-your-e-mail-from-viruses-tojan-horses.403/download)#malware
 
-sudo_, [08.11.20 13:08]
 The Little Black Book of Computer Viruses. Volume One: The Basic Technology
 
 Автор Mark A. Ludwig
@@ -4474,9 +3855,7 @@ The Little Black Book of Computer Viruses has seen five good years in print. In 
 
 
 
- (https://codeby.net/resources/the-little-black-book-of-computer-viruses-volume-one-the-basic-technology.404/download)#assembler #malware
 
-sudo_, [08.11.20 13:11]
 Computer Viruses, Artificial Life and Evolution.
 
 Автор Mark A. Ludwig
@@ -4489,9 +3868,7 @@ Computer viruses are autonomous self-reproducing agents. They infect other compu
 
 
 
- (https://codeby.net/resources/computer-viruses-artificial-life-and-evolution.405/download)#assembler #malware
 
-sudo_, [08.11.20 13:14]
 The GIANT Black Book of Computer Viruses
 
 Автор Mark A. Ludwig
@@ -4504,9 +3881,7 @@ One of the best books on computer viruses. The author describes various types of
 
 
 
- (https://codeby.net/resources/the-giant-black-book-of-computer-viruses.406/download)#assembler #malware
 
-sudo_, [08.11.20 13:14]
 The Giant Black Book of Computer Viruses. Second Edition
 
 Автор Mark A. Ludwig
@@ -4519,9 +3894,7 @@ In this book you'll learn everything you wanted to know about computer viruses, 
 
 
 
- (https://codeby.net/resources/the-giant-black-book-of-computer-viruses-second-edition.407/download)#assembler #malware
 
-sudo_, [08.11.20 13:17]
 PRO вирусы, 2-е издание
 
 Автор Валентин Холмогоров
@@ -4534,9 +3907,7 @@ ISBN 978-5-9909788-0-5
 
 
 
- (https://codeby.net/resources/pro-virusy-2-e-izdanie.408/download)#assembler #malware
 
-sudo_, [08.11.20 13:18]
 Компьютерные вирусы и антивирусы: взгляд программиста
 
 Автор Климентьев К.Е.
@@ -4549,9 +3920,7 @@ ISBN 978-5-94074-885-4
 
 
 
- (https://codeby.net/resources/kompjuternye-virusy-i-antivirusy-vzgljad-programmista.409/download)#malware #programming
  
- sudo_, [08.11.20 13:19]
 Создаем вирус и антивирус
 
 Автор Гульев И.А.
@@ -4564,9 +3933,7 @@ Virus Warning! С этим сообщением, хоть раз в жизни, 
 
 
 
- (https://codeby.net/resources/sozdaem-virus-i-antivirus.410/download)#malware #programming
 
-sudo_, [08.11.20 13:21]
 Технологии борьбы с компьютерными вирусами. Практическое пособие
 
 Автор Гошко С.В.
@@ -4579,9 +3946,7 @@ ISBN 978-5-91359-059-6
 
 
 
- (https://codeby.net/resources/texnologii-borby-s-kompjuternymi-virusami-prakticheskoe-posobie.411/download)#malware #programming
 
-sudo_, [08.11.20 13:23]
 Компьютерные вирусы без секретов
 
 Автор Гордон Я.
@@ -4594,9 +3959,7 @@ ISBN 0-1413-1327
 
 
 
- (https://codeby.net/resources/kompjuternye-virusy-bez-sekretov.412/download)#malware #programming
 
-sudo_, [08.11.20 13:26]
 Энциклопедия компьютерных вирусов
 
 Автор Козлов Д.А., Парандовский А.А., Парандовский А.К
@@ -4609,9 +3972,7 @@ ISBN 5-93455-091-8
 
 
 
- (https://codeby.net/resources/ehnciklopedija-kompjuternyx-virusov.413/download)#malware #programming
 
-sudo_, [08.11.20 13:27]
 Как написать компьютерный вирус
 
 Автор Коваль И.
@@ -4623,9 +3984,7 @@ sudo_, [08.11.20 13:27]
 
 
 
- (https://codeby.net/resources/kak-napisat-kompjuternyj-virus.414/download)#malware #programming
 
-sudo_, [08.11.20 13:30]
 Большой справочник по компьютерным вирусам
 
 Автор Бургер Р.
@@ -4637,9 +3996,7 @@ sudo_, [08.11.20 13:30]
 
 
 
- (https://codeby.net/resources/bolshoj-spravochnik-po-kompjuternym-virusam.415/download)#malware #programming
 
-sudo_, [08.11.20 13:32]
 Компьютерная вирусология. Справочное руководство
 
 Автор Бузруков Н.Н.
@@ -4651,9 +4008,7 @@ sudo_, [08.11.20 13:32]
 
 
 
- (https://codeby.net/resources/kompjuternaja-virusologija-spravochnoe-rukovodstvo.416/download)#malware #programming
 
-sudo_, [08.11.20 13:34]
 Компьютерные вирусы в MS DOS
 
 Автор Касперский Е.В.
@@ -4666,9 +4021,7 @@ ISBN 5853080016
 
 
 
- (https://codeby.net/resources/kompjuternye-virusy-v-ms-dos.417/download)#malware #programming
 
-sudo_, [08.11.20 13:37]
 Компьютерные вирусы: что это такое и как с ними бороться
 
 Автор Касперский Е.В.
@@ -4681,9 +4034,7 @@ ISBN 5892330168
 
 
 
- (https://codeby.net/resources/kompjuternye-virusy-chto-ehto-takoe-i-kak-s-nimi-borotsja.418/download)#malware #programming
 
-sudo_, [08.11.20 18:24]
 Пишем Вирус... и Антивирус
 
 Автор Хижняк П.Л.
@@ -4695,9 +4046,7 @@ sudo_, [08.11.20 18:24]
 
 
 
- (https://codeby.net/resources/pishem-virus-i-antivirus.419/download)#assembler #programming
 
-sudo_, [08.11.20 18:25]
 Компьютерный вирус: проблемы и прогноз
 
 Автор Файтс Ф., Джонстон П., Кратц М.
@@ -4709,9 +4058,7 @@ sudo_, [08.11.20 18:25]
 
 
 
- (https://codeby.net/resources/kompjuternyj-virus-problemy-i-prognoz.420/download)#assembler #programming
 
-sudo_, [08.11.20 18:27]
 Rootkits, SpyWare/AdWare, Keyloggers & BackDoors. Обнаружение и защита
 
 Автор Зайцев Олег
@@ -4724,9 +4071,7 @@ ISBN 5-94157-868-7
 
 
 
- (https://codeby.net/resources/rootkits-spyware-adware-keyloggers-backdoors-obnaruzhenie-i-zaschita.421/download)#malware #programming
 
-sudo_, [08.11.20 18:30]
 Защити свой компьютер на 100% от вирусов и хакеров
 
 Автор Бойцев О.М.
@@ -4739,9 +4084,7 @@ ISBN 978-5-388-00347-8
 
 
 
- (https://codeby.net/resources/zaschiti-svoj-kompjuter-na-100-ot-virusov-i-xakerov.422/download)#malware #programming
 
-sudo_, [08.11.20 20:08]
 The Art of Computer Virus Research and Defense
 
 Автор Peter Szor
@@ -4754,9 +4097,7 @@ Peter Szor is one of the best virus analysts in the world and has the perfect cr
 
 
 
- (https://codeby.net/resources/the-art-of-computer-virus-research-and-defense.423/download)#malware #programming
 
-sudo_, [08.11.20 20:10]
 Computer Viruses For Dummies
 
 Автор Peter Gregory
@@ -4769,9 +4110,7 @@ Peter Gregory, CISSP, CISA, has spent 20 years developing technology solutions f
 
 
 
- (https://codeby.net/resources/computer-viruses-for-dummies.424/download)#assembler #programming
 
-sudo_, [08.11.20 20:11]
 Computer viruses. From theory to applications
 
 Автор Eric Filiol
@@ -4784,9 +4123,7 @@ This book deals with computer viruses envisaged from three different points of v
 
 
 
- (https://codeby.net/resources/computer-viruses-from-theory-to-applications.425/download)#assembler #programming
 
-sudo_, [08.11.20 20:18]
 Foundations of Computer Security
 
 Автор David Solomon
@@ -4799,9 +4136,7 @@ Anyone with a computer has heard of viruses, had to deal with several, and has b
 
 
 
- (https://codeby.net/resources/foundations-of-computer-security.426/download)#malware #programming
 
-sudo_, [08.11.20 20:19]
 Computer Viruses and Malware
 
 Автор John Aycock
@@ -4814,9 +4149,7 @@ Our Internet-connected society increasingly relies on computers. As a result, at
 
 
 
- (https://codeby.net/resources/computer-viruses-and-malware.427/download)#malware #programming
 
-sudo_, [08.11.20 21:17]
 Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats
 
 Автор Alex Matrosov, Eugene Rodionov, Sergey Bratus
@@ -4829,9 +4162,7 @@ Alex Matrosov is a leading offensive security researcher at NVIDIA. He has more 
 
 
 
- (https://codeby.net/resources/rootkits-and-bootkits-reversing-modern-malware-and-next-generation-threats.429/download)#Reverce #malware
 
-sudo_, [09.11.20 00:57]
 Practical Malware Analysis
 
 Автор Michael Sikorski, Andrew Honig
@@ -4844,9 +4175,7 @@ Malware analysis is big business, and attacks can cost a company dearly. When ma
 
 
 
- (https://codeby.net/resources/practical-malware-analysis.430/download)#malware #programming
 
-sudo_, [09.11.20 00:59]
 Real-World Bug Hunting: A Field Guide to Web Hacking
 
 Автор Yaworski Peter
@@ -4859,9 +4188,7 @@ Uses real-world bug reports (vulnerabilities in software or in this case web app
 
 
 
- (https://codeby.net/resources/real-world-bug-hunting-a-field-guide-to-web-hacking.431/download)#hacking #bughunting
 
-sudo_, [09.11.20 01:00]
 Hands-On Bug Hunting for Penetration Testers
 
 Автор Joseph Marshall
@@ -4874,9 +4201,7 @@ You will learn about SQli, NoSQLi, XSS, XXE, and other forms of code injection. 
 
 
 
- (https://codeby.net/resources/hands-on-bug-hunting-for-penetration-testers.432/download)#hacking #bughunting
 
-sudo_, [09.11.20 01:01]
 Bug Bounty Hunting Essentials: Quick-paced guide to help white-hat hackers get through bug bounty
 
 Автор Carlos A. Lozano, Shahmeer Amir
@@ -4889,9 +4214,7 @@ Bug bounty programs are the deals offered by prominent companies where-in any wh
 
 
 
- (https://codeby.net/resources/bug-bounty-hunting-essentials-quick-paced-guide-to-help-white-hat-hackers-get-through-bug-bounty.433/download)#hacking #bughunting
 
-sudo_, [09.11.20 01:03]
 A Bug Hunter's Diary: a guided tour through the wilds of software security
 
 Автор Tobias Klein
@@ -4904,9 +4227,7 @@ Seemingly simple bugs can have drastic consequences, allowing attackers to compr
 
 
 
- (https://codeby.net/resources/a-bug-hunters-diary-a-guided-tour-through-the-wilds-of-software-security.434/download)#hacking #bughunting
 
-sudo_, [09.11.20 01:04]
 Дневник охотника за ошибками
 
 Автор Клейн Т.
@@ -4919,9 +4240,7 @@ ISBN 978-5-94074-374-3
 
 
 
- (https://codeby.net/resources/dnevnik-oxotnika-za-oshibkami.435/download)#hacking #bughunting
 
-sudo_, [09.11.20 01:05]
 Техника оптимизации программ. Эффективное использование памяти
 
 Автор Крис Касперски
@@ -4934,9 +4253,7 @@ ISBN 5-94157-232-8
 
 
 
- (https://codeby.net/resources/texnika-optimizacii-programm-ehffektivnoe-ispolzovanie-pamjati.436/download)#assembler #optimization
 
-sudo_, [09.11.20 01:06]
 Antivirus hackers handbook
 
 Автор Joxean Koret, Elias Bachaalany
@@ -4949,9 +4266,7 @@ Hack your antivirus software to stamp out future vulnerabilities The Antivirus H
 
 
 
- (https://codeby.net/resources/antivirus-hackers-handbook.437/download)#malware #programming
 
-sudo_, [09.11.20 01:08]
 A Short Course on Computer Viruses
 
 Автор Frederick B. Cohen
@@ -4964,9 +4279,7 @@ From the reviews of the first edition "Cohen has been writing and speaking on vi
 
 
 
- (https://codeby.net/resources/a-short-course-on-computer-viruses.438/download)#assembler #programming
 
-sudo_, [09.11.20 17:42]
 Computer viruses and anti-virus warfare. Second Revised Edition
 
 Автор Jan Hruska
@@ -4977,9 +4290,7 @@ ISBN 0-13-036377-4
 
 
 
- (https://codeby.net/resources/computer-viruses-and-anti-virus-warfare-second-revised-edition.439/download)#malware #programming
 
-sudo_, [09.11.20 17:43]
 Computer Viruses and Related Threats. A Management Guide
 
 Автор John P. Wack. Lisa J. Camahan
@@ -4989,9 +4300,7 @@ Computer Viruses and Related Threats. A Management Guide
 
 
 
- (https://codeby.net/resources/computer-viruses-and-related-threats-a-management-guide.440/download)#malware
 
-sudo_, [09.11.20 17:45]
 Guide to Malware Incident Prevention and Handling for Desktops and Laptops
 
 Автор Murugiah Souppaya, Karen Scarfone
@@ -5003,9 +4312,7 @@ Guide to Malware Incident Prevention and Handling for Desktops and Laptops
 
 
 
- (https://codeby.net/resources/guide-to-malware-incident-prevention-and-handling-for-desktops-and-laptops.441/download)#malware
 
-sudo_, [09.11.20 17:46]
 Компьютерные сети
 
 Автор Таненбаум Э., Уэзеролл Д.
@@ -5018,9 +4325,7 @@ ISBN 978-5-459-00342-0
 
 
 
- (https://codeby.net/resources/kompjuternye-seti-tanenbaum-eh-klassika-computer-science-2012.442/download)#network
 
-sudo_, [09.11.20 17:48]
 Google Talking. An Easy-to-Read Guide Packed with Tips and Tricks on Google Talk
 
 Автор Johnny Long, Joshua Brashars, Brian Baskin
@@ -5033,9 +4338,7 @@ Are you tired of running a dozen programs to stay in touch with the people you c
 
 
 
- (https://codeby.net/resources/google-talking-an-easy-to-read-guide-packed-with-tips-and-tricks-on-google-talk.444/download)#network #google
 
-sudo_, [09.11.20 17:49]
 Google Hacking for Penetration Testers. Volume 1
 
 Автор Johnny Long
@@ -5048,9 +4351,7 @@ Google, the most popular search engine worldwide, provides web surfers with an e
 
 
 
- (https://codeby.net/resources/google-hacking-for-penetration-testers-volume-1.445/download)#google #pentest
 
-sudo_, [09.11.20 17:50]
 Google Hacking for Penetration Testers. Volume 2
 
 Автор Johnny Long
@@ -5063,9 +4364,7 @@ Google is one of the 5 most popular sites on the internet with more than 380 mil
 
 
 
- (https://codeby.net/resources/google-hacking-for-penetration-testers-volume-2.446/download)#google #pentest
 
-sudo_, [09.11.20 17:51]
 Google Hacking for Penetration Testers. Third Edition
 
 Автор Johnny Long
@@ -5078,9 +4377,7 @@ Google is the most popular search engine ever created, but Google’s search cap
 
 
 
- (https://codeby.net/resources/google-hacking-for-penetration-testers-third-edition.447/download)#google #pentest
 
-sudo_, [09.11.20 17:53]
 No Tech Hacking. A Guide to Social Engineering, Dumpster Diving & Shoulder Surfing
 
 Автор Johnny Long
@@ -5093,9 +4390,7 @@ Johnny Long's last book sold 12,000 units worldwide. Kevin Mitnick's last book s
 
 
 
- (https://codeby.net/resources/no-tech-hacking-a-guide-to-social-engineering-dumpster-diving-shoulder-surfing.448/download)#hacking #soceng
 
-sudo_, [09.11.20 22:52]
 Stealing The Network. How To Own A Shadow
 
 Автор Johnny Long
@@ -5108,9 +4403,7 @@ The best-selling Stealing the Network series reaches its climactic conclusion as
 
 
 
- (https://codeby.net/resources/stealing-the-network-how-to-own-a-shadow.449/download)#network #hacking
 
-sudo_, [09.11.20 22:53]
 Stealing the Network. The Complete Series Collector's Edition
 
 Автор Johnny Long
@@ -5123,9 +4416,7 @@ ISBN 978-1-59749-299-7
 
 
 
- (https://codeby.net/resources/stealing-the-network-the-complete-series-collectors-edition.450/download)#network #hacking
 
-sudo_, [09.11.20 22:59]
 Gray Hat Hacking. The Ethical Hacker’s Handbook. Second Edition
 
 Автор Shon Harris
@@ -5138,9 +4429,7 @@ Prevent catastrophic network attacks by exposing security flaws, fixing them, an
 
 
 
- (https://codeby.net/resources/gray-hat-hacking-the-ethical-hackers-handbook-second-edition.451/download)#pentest #hacking
 
-sudo_, [09.11.20 23:03]
 Gray Hat Hacking. The Ethical Hacker’s Handbook. Third Edition
 
 Автор Shon Harris
@@ -5153,9 +4442,7 @@ Thwart malicious network intrusion by using cutting-edge techniques for finding 
 
 
 
- (https://codeby.net/resources/gray-hat-hacking-the-ethical-hackers-handbook-third-edition.452/download)#pentest #hacking
 
-sudo_, [09.11.20 23:04]
 Gray Hat Hacking. The Ethical Hacker’s Handbook. Fourth Edition
 
 Автор Shon Harris
@@ -5168,9 +4455,7 @@ Fortify your network and avert digital catastrophe with proven strategies from a
 
 
 
- (https://codeby.net/resources/gray-hat-hacking-the-ethical-hackers-handbook-fourth-edition.453/download)#pentest #hacking
 
-sudo_, [09.11.20 23:07]
 Gray Hat Hacking. The Ethical Hacker’s Handbook. Fifth Edition
 
 Автор Shon Harris
@@ -5183,9 +4468,7 @@ Fortify your network and avert digital catastrophe with proven strategies from a
 
 
 
- (https://codeby.net/resources/gray-hat-hacking-the-ethical-hackers-handbook-fifth-edition.454/download)#pentest #hacking
 
-sudo_, [09.11.20 23:08]
 Google Hacks. 100 Industrial-Strength Tips & Tools
 
 Автор Tara Calishain
@@ -5198,9 +4481,7 @@ Everyone loves Google, and it's the first place many people turn to locate infor
 
 
 
- (https://codeby.net/resources/google-hacks-100-industrial-strength-tips-tools.455/download)#google #network
 
-sudo_, [09.11.20 23:11]
 Hacker Culture
 
 Автор Douglas Thomas
@@ -5213,9 +4494,7 @@ Douglas Thomas offers an in-depth history of this important and fascinating subc
 
 
 
- (https://codeby.net/resources/hacker-culture.456/download)#hacking
 
-sudo_, [09.11.20 23:12]
 Respawn: Gamers, Hackers,Technogenic Life
 
 Автор Colin Milburn
@@ -5228,9 +4507,7 @@ In Respawn Colin Milburn examines the connections between video games, hacking, 
 
 
 
- (https://codeby.net/resources/respawn-gamers-hackers-technogenic-life.457/download)#hacking #gaming
 
-sudo_, [09.11.20 23:16]
 Cyberbullies, Cyberactivists, Cyberpredators: Film, Tv, And Internet Stereotypes
 
 Автор Lauren Rosewarne
@@ -5243,9 +4520,7 @@ Written by an expert in media, popular culture, gender, and sexuality, this book
 
 
 
- (https://codeby.net/resources/cyberbullies-cyberactivists-cyberpredators-film-tv-and-internet-stereotypes.458/download)#cyberbullies #cyberactivists
 
-sudo_, [09.11.20 23:17]
 Cyber Mercenaries: The State, Hackers, and Power
 
 Автор Tim Maurer
@@ -5258,9 +4533,7 @@ Cyber Mercenaries explores the secretive relationships between states and hacker
 
 
 
- (https://codeby.net/resources/cyber-mercenaries-the-state-hackers-and-power.459/download)#hacking
 
-sudo_, [09.11.20 23:18]
 Hackers Beware
 
 Автор Eric Cole
@@ -5274,9 +4547,7 @@ A good defense starts with a thorough understanding of your opponent's offense. 
 
 
 
- (https://codeby.net/resources/hackers-beware.460/download)#hacking #network
 
-sudo_, [09.11.20 23:21]
 Messing with the Enemy: Surviving in a Social Media World of Hackers, Terrorists, Russians, and Fake
 
 Автор Clint Watts
@@ -5289,9 +4560,7 @@ A former FBI Special Agent, U.S. Army officer and leading cyber-security expert 
 
 
 
- (https://codeby.net/resources/messing-with-the-enemy-surviving-in-a-social-media-world-of-hackers-terrorists-russians-and-fake.461/download)#fake #media
 
-sudo_, [09.11.20 23:24]
 Helpfull Hackers: How the Dutch do Responsible Disclosure
 
 Автор Chris Van `t Hof
@@ -5304,9 +4573,7 @@ ISBN 978-90-823462-3-7
 
 
 
- (https://codeby.net/resources/helpfull-hackers-how-the-dutch-do-responsible-disclosure.462/download)#hacking #network
 
-sudo_, [09.11.20 23:26]
 Defense against the Black Arts: How Hackers Do What They Do and How to Protect against It
 
 Автор Jesse Varsalone
@@ -5319,9 +4586,7 @@ The book profiles a variety of attack tools and examines how Facebook and other 
 
 
 
- (https://codeby.net/resources/defense-against-the-black-arts-how-hackers-do-what-they-do-and-how-to-protect-against-it.463/download)#hacking #network
 
-sudo_, [09.11.20 23:28]
 Valley of Genius. The Uncensored History of Silicon Valley (As Told by the Hackers, Founde
 
 Автор Adam Fisher
@@ -5334,9 +4599,7 @@ A candid, colorful, and comprehensive oral history that reveals the secrets of S
 
 
 
- (https://codeby.net/resources/valley-of-genius-the-uncensored-history-of-silicon-valley-as-told-by-the-hackers-founde.464/download)#hacking
 
-sudo_, [09.11.20 23:30]
 Thinking Security: Stopping Next Year's Hackers
 
 Автор Steven M. Bellovin
@@ -5349,9 +4612,7 @@ If you’re a security or network professional, you already know the “do’s a
 
 
 
- (https://codeby.net/resources/thinking-security-stopping-next-years-hackers.465/download)#hacking #security
 
-sudo_, [09.11.20 23:31]
 Design for Hackers: Reverse Engineering Beauty
 
 Автор David Kadavy
@@ -5364,9 +4625,7 @@ It's amazing what you can learn about great web design by asking questions like 
 
 
 
- (https://codeby.net/resources/design-for-hackers-reverse-engineering-beauty.466/download)#hacking #design
 
-sudo_, [09.11.20 23:33]
 The Cathedral and the Bazaar. Musings on Linux and Open Source by an Accidental Revolutionary
 
 Автор Eric S. Raymond
@@ -5379,9 +4638,7 @@ Open source provides the competitive advantage in the Internet Age. According to
 
 
 
- (https://codeby.net/resources/the-cathedral-and-the-bazaar-musings-on-linux-and-open-source-by-an-accidental-revolutionary.467/download)#linux #soft
 
-sudo_, [09.11.20 23:34]
 The Database Hacker’s Handbook: Defending Database Servers
 
 Автор David Litchfield
@@ -5394,9 +4651,7 @@ Databases are the nerve center of our economy. Every piece of your personal info
 
 
 
- (https://codeby.net/resources/the-database-hackers-handbook-defending-database-servers.468/download)#database #hacking
 
-sudo_, [09.11.20 23:36]
 The Oracle®Hacker’s Handbook. Hacking and Defending Oracle
 
 Автор David Litchfield
@@ -5409,9 +4664,7 @@ David Litchfield is founder and chief research scientist of NGSSoftware Ltd., a 
 
 
 
- (https://codeby.net/resources/the-oracle-r-hackers-handbook-hacking-and-defending-oracle.469/download)#database #hacking
 
-sudo_, [09.11.20 23:37]
 Linux Dictionary. Version 0.16
 
 Автор Binh Nguyen
@@ -5423,9 +4676,7 @@ This document is designed to be a resource for those Linux users wishing to seek
 
 
 
- (https://codeby.net/resources/linux-dictionary-version-0-16.470/download)#linux #soft
 
-sudo_, [09.11.20 23:39]
 The Innovators. How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution
 
 Автор Walter Isaacson
@@ -5438,9 +4689,7 @@ Following his blockbuster biography of Steve Jobs, The Innovators is Walter Isaa
 
 
 
- (https://codeby.net/resources/the-innovators-how-a-group-of-hackers-geniuses-and-geeks-created-the-digital-revolution.471/download)#hacking #innovators
 
-sudo_, [09.11.20 23:40]
 Cyberpunk. Outlaws and Hackers on the Computer Frontier
 
 Автор Katie Hafner, John Markoff
@@ -5453,9 +4702,7 @@ Using the exploits of three international hackers, Cyberpunk provides a fascinat
 
 
 
- (https://codeby.net/resources/cyberpunk-outlaws-and-hackers-on-the-computer-frontier.472/download)#hacking #cyberpunk
 
-sudo_, [09.11.20 23:43]
 Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World
 
 Автор Joseph Menn
@@ -5468,9 +4715,7 @@ The shocking untold story of the elite secret society of hackers fighting to pro
 
 
 
- (https://codeby.net/resources/cult-of-the-dead-cow-how-the-original-hacking-supergroup-might-just-save-the-world.473/download)#hacking #network
 
-sudo_, [09.11.20 23:45]
 Surveillance or Security? The Risks Posed by New Wiretapping Technologies
 
 Автор Susan Landau
@@ -5483,9 +4728,7 @@ Digital communications are the lifeblood of modern society. We “meet up” onl
 
 
 
- (https://codeby.net/resources/surveillance-or-security-the-risks-posed-by-new-wiretapping-technologies.474/download)#security
 
-sudo_, [09.11.20 23:47]
 Privacy on the Line. The Politics of Wiretapping and Encryption
 
 Автор Whitfield Diffie, Susan Landau
@@ -5498,9 +4741,7 @@ Telecommunication has never been perfectly secure, as a Cold War culture of wire
 
 
 
- (https://codeby.net/resources/privacy-on-the-line-the-politics-of-wiretapping-and-encryption.475/download)#encryption #wiretapping
 
-sudo_, [09.11.20 23:50]
 Metadata
 
 Автор Jeffrey Pomerantz
@@ -5513,9 +4754,7 @@ When "metadata" became breaking news, appearing in stories about surveillance by
 
 
 
- (https://codeby.net/resources/metadata.476/download)#soft #metadata
 
-sudo_, [09.11.20 23:53]
 Privacy on the Line. The Politics of Wiretapping and Encryption. Updated and Expanded edition.
 
 Автор Whitfield Diffie, Susan Landau
@@ -5528,9 +4767,7 @@ Telecommunication has never been perfectly secure. The Cold War culture of recor
 
 
 
- (https://codeby.net/resources/privacy-on-the-line-the-politics-of-wiretapping-and-encryption.477/download)#encryption #wiretapping
 
-sudo_, [10.11.20 16:01]
 Listening In. Cybersecurity in an Insecure Age
 
 Автор Susan Landau
@@ -5543,9 +4780,7 @@ New technologies have provided both incredible convenience and new threats. The 
 
 
 
- (https://codeby.net/resources/listening-in-cybersecurity-in-an-insecure-age.478/download)#CyberSec #network
 
-sudo_, [10.11.20 16:03]
 Network Forensics: Tracking Hackers through Cyberspace
 
 Автор Sherri Davidoff, Jonathan Ham
@@ -5558,9 +4793,7 @@ ISBN 0-13-256471-8
 
 
 
- (https://codeby.net/resources/network-forensics-tracking-hackers-through-cyberspace.479/download)#Forensics #cyberspace
 
-sudo_, [10.11.20 16:04]
 Mastering Windows Network Forensics and Investigation
 
 Автор Steve Ansonand, Steve Bunting
@@ -5573,9 +4806,7 @@ This comprehensive guide provides you with the training you need to arm yourself
 
 
 
- (https://codeby.net/resources/mastering-windows-network-forensics-and-investigation.480/download)#Forensics #windows
 
-sudo_, [10.11.20 16:05]
 Mastering Windows Network Forensics and Investigation. 2nd Edition
 
 Автор Steve Ansonand, Steve Bunting
@@ -5588,9 +4819,7 @@ Learn How to Conduct a Complete Computer Forensic Investigation This professiona
 
 
 
- (https://codeby.net/resources/mastering-windows-network-forensics-and-investigation-2nd-edition.481/download)#Forensics #windows
 
-sudo_, [10.11.20 16:06]
 Computer Forensics with FTK
 
 Автор Fernando Carbone
@@ -5603,9 +4832,7 @@ This tutorial contains detailed instructions with useful integrated examples tha
 
 
 
- (https://codeby.net/resources/computer-forensics-with-ftk.482/download)#Forensics #ftk
 
-sudo_, [10.11.20 16:08]
 Windows Registry Forensics. Advanced Digital Forensic Analysis of the Windows Registry. 1 Edition
 
 Автор Harlan Carvey
@@ -5618,9 +4845,7 @@ Harlan Carvey brings readers an advanced book on Windows Registry. The first boo
 
 
 
- (https://codeby.net/resources/windows-registry-forensics-advanced-digital-forensic-analysis-of-the-windows-registry-1-edition.483/download)#Forensics #windows
 
-sudo_, [10.11.20 16:09]
 Computer Forensics and Digital Investigation with EnCase Forensic v7 1st Edition
 
 Автор Suzanne Widup
@@ -5633,9 +4858,7 @@ Maximize the powerful tools and features of the industry-leading digital investi
 
 
 
- (https://codeby.net/resources/computer-forensics-and-digital-investigation-with-encase-forensic-v7-1st-edition.484/download)#Forensics #soft
 
-sudo_, [10.11.20 16:10]
 EnCase Computer Forensics. The Official EnCE: EnCase Certified Examiner Study Guide. 3rd Edition
 
 Автор Steve Bunting
@@ -5648,9 +4871,7 @@ The EnCE exam tests that computer forensic analysts and examiners have thoroughl
 
 
 
- (https://codeby.net/resources/encase-computer-forensics-the-official-ence-encase-certified-examiner-study-guide-3rd-edition.485/download)#Forensics #soft
 
-sudo_, [10.11.20 16:11]
 EnCase Computer Forensics. The Official EnCE. EnCase Certified Examiner Study Guide. 2nd edition
 
 Автор Steve Bunting
@@ -5661,9 +4882,7 @@ ISBN 978-0-470-18145-4
 
 
 
- (https://codeby.net/resources/encase-computer-forensics-the-official-ence-encase-certified-examiner-study-guide-2nd-edition.486/download)#Forensics #soft
 
-sudo_, [10.11.20 16:12]
 EnCase Computer Forensics. The Official EnCE. EnCase Certified Examiner Study Guide
 
 Автор Steve Bunding
@@ -5674,9 +4893,7 @@ ISBN 0-7821-4435-7
 
 
 
- (https://codeby.net/resources/encase-computer-forensics-the-official-ence-encase-certified-examiner-study-guide.487/download)#Forensics #soft
 
-sudo_, [10.11.20 16:14]
 Incident Response & Computer Forensics. 2nd Edition
 
 Автор Chris Prosise, Kevin Mandia
@@ -5689,9 +4906,7 @@ ISBN 007222696X
 
 
 
- (https://codeby.net/resources/incident-response-computer-forensics-2nd-edition.489/download)#Forensics #soft
 
-sudo_, [10.11.20 16:15]
 Incident Response & Computer Forensics. Third Edition
 
 Автор Jason T. Luttgens
@@ -5704,9 +4919,7 @@ Thoroughly revised to cover the latest and most effective tools and techniques, 
 
 
 
- (https://codeby.net/resources/incident-response-computer-forensics-third-edition.488/download)#Forensics #soft
 
-sudo_, [10.11.20 16:17]
 Computer Incident Response and Forensics Team Management
 
 Автор Leighton R. Johnson III.
@@ -5719,9 +4932,7 @@ Computer Incident Response and Forensics Team Management provides security profe
 
 
 
- (https://codeby.net/resources/computer-incident-response-and-forensics-team-management.490/download)#Forensics #soft
 
-sudo_, [10.11.20 16:18]
 The Basics of Cyber Safety. Computer and Mobile Device Safety Made Easy
 
 Автор John Sammons, Michael Cross
@@ -5733,9 +4944,7 @@ The Basics of Cyber Safety: Computer and Mobile Device Safety Made Easy presents
 
 
 
- (https://codeby.net/resources/the-basics-of-cyber-safety-computer-and-mobile-device-safety-made-easy.491/download)#Forensics #security
 
-sudo_, [10.11.20 16:19]
 The Basics of Digital Forensics. The Primer for Getting Started in Digital Forensics
 
 Автор John Sammons
@@ -5748,9 +4957,7 @@ The Basics of Digital Forensics provides a foundation for people new to the digi
 
 
 
- (https://codeby.net/resources/the-basics-of-digital-forensics-the-primer-for-getting-started-in-digital-forensics.492/download)#Forensics #soft
 
-sudo_, [10.11.20 16:22]
 Rootkits под WIndows
 
 Автор Колисниченко Д.Н.
@@ -5763,9 +4970,7 @@ ISBN 5-94387-266-3
 
 
 
- (https://codeby.net/resources/rootkits-pod-windows.493/download)#windows #soft
 
-sudo_, [10.11.20 16:23]
 Отладка Windows-приложений
 
 Автор Роббинс Д.
@@ -5778,9 +4983,7 @@ ISBN 5940740855
 
 
 
- (https://codeby.net/resources/otladka-windows-prilozhenij.494/download)#windows #soft
 
-sudo_, [10.11.20 16:24]
 Отладка приложений для Microsoft .NET и Microsoft Windows
 
 Автор Роббинс Д.
@@ -5793,9 +4996,7 @@ ISBN 978-5-7502-0243-0
 
 
 
- (https://codeby.net/resources/otladka-prilozhenij-dlja-microsoft-net-i-microsoft-windows.495/download)#windows #debug
 
-sudo_, [10.11.20 16:27]
 Пишем компилятор
 
 Автор Креншоу Д.
@@ -5807,9 +5008,7 @@ sudo_, [10.11.20 16:27]
 
 
 
- (https://codeby.net/resources/pishem-kompiljator.496/download)#compiler #soft
 
-sudo_, [10.11.20 16:28]
 Компилятор языка Си для микроЭВМ
 
 Автор Хэндрикс Д.
@@ -5822,9 +5021,7 @@ ISBN 5-256-00161-2
 
 
 
- (https://codeby.net/resources/kompiljator-jazyka-si-dlja-mikroehvm.497/download)#compiler #soft
 
-sudo_, [10.11.20 22:59]
 Основы конструирования компиляторов
 
 Автор Серебряков В.А. Галочкин М.П.
@@ -5834,9 +5031,7 @@ sudo_, [10.11.20 22:59]
 
 
 
- (https://codeby.net/resources/osnovy-konstruirovanija-kompiljatorov.498/download)#compiler #soft
 
-sudo_, [10.11.20 23:01]
 Конструирование компиляторов
 
 Автор Свердлов С.З.
@@ -5849,9 +5044,7 @@ ISBN 978-3-659-71665-2
 
 
 
- (https://codeby.net/resources/konstruirovanie-kompiljatorov.499/download)#compiler #soft
 
-sudo_, [10.11.20 23:02]
 Классика программирования. Алгоритмы, языки, автоматы и компиляторы
 
 Автор Мозговой М.В.
@@ -5864,9 +5057,7 @@ ISBN 5-94387-224-8
 
 
 
- (https://codeby.net/resources/klassika-programmirovanija-algoritmy-jazyki-avtomaty-i-kompiljatory.500/download)#programming #algorithms
 
-sudo_, [10.11.20 23:04]
 Разработка Паскаль-компилятора
 
 Автор Залогова Л.
@@ -5879,9 +5070,7 @@ ISBN 978-5-9963-2526-9
 
 
 
- (https://codeby.net/resources/razrabotka-paskal-kompiljatora.501/download)#compiler #soft
 
-sudo_, [10.11.20 23:05]
 Стек, или Путешествие туда и обратно
 
 Автор Вторников А.А.
@@ -5894,9 +5083,7 @@ ISBN 978-5-97060-517-2
 
 
 
- (https://codeby.net/resources/stek-ili-puteshestvie-tuda-i-obratno.502/download)#programming #soft
 
-sudo_, [10.11.20 23:08]
 LLVM. Инфраструктура для разработки компиляторов
 
 Автор Бруно Л.К. Рафаэль А.
@@ -5909,9 +5096,7 @@ LLVM – новейший фреймворк для разработки ком�
 
 
 
- (https://codeby.net/resources/llvm-infrastruktura-dlja-razrabotki-kompiljatorov.503/download)#compiler #soft
 
-sudo_, [10.11.20 23:09]
 Теоретические основы проектирования компиляторов
 
 Автор Льюис Ф. Розенкранц Д. Стирнз Р.
@@ -5923,9 +5108,7 @@ sudo_, [10.11.20 23:09]
 
 
 
- (https://codeby.net/resources/teoreticheskie-osnovy-proektirovanija-kompiljatorov.504/download)#compiler #soft
 
-sudo_, [10.11.20 23:11]
 Конструирование компиляторов для цифровых вычислительных машин
 
 Автор Грис Д.
@@ -5938,9 +5121,7 @@ ISBN 978-5-97060-305-5
 
 
 
- (https://codeby.net/resources/konstruirovanie-kompiljatorov-dlja-cifrovyx-vychislitelnyx-mashin.505/download)#compiler #soft
 
-sudo_, [10.11.20 23:12]
 Построение компиляторов (Классика программирования)
 
 Автор Вирт Н.
@@ -5953,9 +5134,7 @@ ISBN 978-5-94074-585-3
 
 
 
- (https://codeby.net/resources/postroenie-kompiljatorov-klassika-programmirovanija.506/download)#compiler #programming
 
-sudo_, [10.11.20 23:13]
 Разработка операционной системы и компилятора Проекта Оберон
 
 Автор Вирт Н., Гутнехт Ю.
@@ -5968,9 +5147,7 @@ ISBN 978-5-94074-672-0
 
 
 
- (https://codeby.net/resources/razrabotka-operacionnoj-sistemy-i-kompiljatora-proekta-oberon.507/download)#compiler #soft
 
-sudo_, [10.11.20 23:15]
 Алгоритмы и структуры данных. Новая версия для Оберона
 
 Автор Вирт Н.
@@ -5983,9 +5160,7 @@ ISBN 978-5-94074-584-6
 
 
 
- (https://codeby.net/resources/algoritmy-i-struktury-dannyx-novaja-versija-dlja-oberona.508/download)#algorithms #soft
 
-sudo_, [10.11.20 23:16]
 Систематическое Программировани
 
 Автор Вирт Н.
@@ -5998,9 +5173,7 @@ ISBN 978-5-94074-584-6
 
 
 
- (https://codeby.net/resources/sistematicheskoe-programmirovanie.509/download)#programming #soft
 
-sudo_, [10.11.20 23:17]
 Основные концепции компиляторов
 
 Автор Хантер Р.
@@ -6013,9 +5186,7 @@ ISBN 5-8459-0360-2
 
 
 
- (https://codeby.net/resources/osnovnye-koncepcii-kompiljatorov.510/download)#compiler #soft
 
-sudo_, [10.11.20 23:18]
 Проектирование и конструирование компиляторов
 
 Автор Хантер Р.
@@ -6027,9 +5198,7 @@ sudo_, [10.11.20 23:18]
 
 
 
- (https://codeby.net/resources/proektirovanie-i-konstruirovanie-kompiljatorov.511/download)#compiler #soft
  
- sudo_, [10.11.20 23:20]
 Структуры данных и алгоритмы
 
 Автор Ахо А.В. Хопкрофт Д.Э. Ульман Д.Д.
@@ -6042,9 +5211,7 @@ ISBN 5-8459-0122-7
 
 
 
- (https://codeby.net/resources/struktury-dannyx-i-algoritmy.512/download)#algorithms #soft
 
-sudo_, [10.11.20 23:22]
 Компиляторы. Принципы, технологии, и инструменты
 
 Автор Ахо А.В., Сети Р., Ульман Д.Д.
@@ -6057,9 +5224,7 @@ ISBN 5-8459-0189-8
 
 
 
- (https://codeby.net/resources/kompiljatory-principy-texnologii-i-instrumenty.513/download)#compiler #soft
 
-sudo_, [10.11.20 23:23]
 Компиляторы. Принципы, технологии, инструменты. 2ed
 
 Автор Ахо А.В., Лам М., Сети Р., Ульман Д.Д.
@@ -6072,9 +5237,7 @@ ISBN 978-5-8459-1349-4
 
 
 
- (https://codeby.net/resources/kompiljatory-principy-texnologii-instrumenty-2ed.514/download)#compiler #soft
 
-sudo_, [10.11.20 23:24]
 The Unofficial Guide to Ethical Hacking (Miscellaneous)
 
 Автор Ankit Fadia
@@ -6087,9 +5250,7 @@ The Unofficial Guide to Ethical Hacking is much more than a guide to hacking. Fo
 
 
 
- (https://codeby.net/resources/the-unofficial-guide-to-ethical-hacking-miscellaneous.515/download)#EthicalHack #soft
 
-sudo_, [10.11.20 23:25]
 Faster: 100 ways to improve your digital life
 
 Автор Ankit Fadia
@@ -6102,9 +5263,7 @@ Faster: 100 Ways to Improve Your Digital Life contains all the tips and tricks f
 
 
 
- (https://codeby.net/resources/faster-100-ways-to-improve-your-digital-life.516/download)#network #soft
 
-sudo_, [10.11.20 23:26]
 The Hacker Ethic
 
 Автор Pekka Himanen. Manuel Castells. Linus Torvalds
@@ -6117,9 +5276,7 @@ You may be a hacker and not even know it. Being a hacker has nothing to do with 
 
 
 
- (https://codeby.net/resources/the-hacker-ethic.517/download)#network #hacking
 
-sudo_, [10.11.20 23:28]
 The Handbook of Information ant Computer Ethics
 
 Автор Kenneth Einar Himma. Herman T. Tavani
@@ -6132,9 +5289,7 @@ This handbook provides an accessible overview of the most important issues in in
 
 
 
- (https://codeby.net/resources/the-handbook-of-information-and-computer-ethics.518/download)#network #information
 
-sudo_, [11.11.20 19:27]
 Азбука хакера 1
 
 Автор Собейкис В.Г.
@@ -6147,9 +5302,7 @@ ISBN 5-901321-96-0
 
 
 
- (https://codeby.net/resources/azbuka-xakera-1.519/download)#hacking #programming
 
-sudo_, [11.11.20 19:29]
 Азбука хакера 2
 
 Автор Собейкис В.Г.
@@ -6162,9 +5315,7 @@ ISBN 5-98551-011-5
 
 
 
- (https://codeby.net/resources/azbua-xakera-2.520/download)#hacking #programming
 
-sudo_, [11.11.20 20:17]
 Азбука хакера 3
 
 Автор Собейкис В.Г.
@@ -6177,10 +5328,7 @@ ISBN 5-98551-011-5
 
 
 
- (https://codeby.net/resources/azbuka-xakera-3.521/download)#hacking #programming
 
-sudo_, [11.11.20 20:20]
-Gray hat creating automating security (C#)
 
 Автор Brandon Perry
 Формат PDF
@@ -6190,9 +5338,7 @@ ISBN 978-1-59327-759-8
 
 
 
- (https://codeby.net/resources/gray-hat-creating-automating-security-c.522/download)#EthicalHack #csharp
 
-sudo_, [11.11.20 20:21]
 Головоломки для хакера
 
 Автор Скляров И.С.
@@ -6205,9 +5351,7 @@ ISBN 5-94157-562-9
 
 
 
- (https://codeby.net/resources/golovolomki-dlja-xakera.524/download)#hacking #web
 
-sudo_, [11.11.20 20:24]
 Тактика защиты и нападения на WEB-приложения
 
 Автор Низамутдинов М.Ф.
@@ -6220,9 +5364,7 @@ ISBN 5-914157-599-8
 
 
 
- (https://codeby.net/resources/taktika-zaschity-i-napadenija-na-web-prilozhenija.525/download)#hacking #web
 
-sudo_, [11.11.20 20:25]
 Хакинг в Web: атаки и защита
 
 Автор Мак-Клар Стюарт, Шах Саумил, Шах Шрирай
@@ -6235,9 +5377,7 @@ ISBN 5-8459-0439-0
 
 
 
- (https://codeby.net/resources/xaking-v-web-ataki-i-zaschita.526/download)#hacking #web
 
-sudo_, [11.11.20 20:26]
 Книга хакера
 
 Автор Афонькина К., Клинцевич И., Лосева З.
@@ -6250,9 +5390,7 @@ ISBN 978-5-9942-0111-4
 
 
 
- (https://codeby.net/resources/kniga-xakera.527/download)#hacking #soft
 
-sudo_, [11.11.20 20:27]
 24 смертных греха компьютерной безопасности. Как написать безопасный код
 
 Автор Ховард М. Лебланк Д. Вьега Дж.
@@ -6265,9 +5403,7 @@ ISBN 978-5-49807-747-5
 
 
 
- (https://codeby.net/resources/24-smertnyx-grexa-kompjuternoj-bezopasnosti-kak-napisat-bezopasnyj-kod.528/download)#security #programming
 
-sudo_, [11.11.20 20:29]
 Компьютерное мошенничество. Битва байтов
 
 Автор Уэллс Дж.Т.
@@ -6280,9 +5416,7 @@ ISBN 978-5-903271-48-1
 
 
 
- (https://codeby.net/resources/kompjuternoe-moshennichestvo-bitva-bajtov.529/download)#programming #soft
 
-sudo_, [11.11.20 20:30]
 Software Requirements (3rd Edition) (Developer Best Practices)
 
 Автор Karl E. Wiegers, Joy Beatty
@@ -6295,9 +5429,7 @@ New chapters are included on specifying data requirements, writing high-quality 
 
 
 
- (https://codeby.net/resources/software-requirements-3rd-edition-developer-best-practices.530/download)#development #soft
 
-sudo_, [11.11.20 20:32]
 Разработка требований к программному обеспечению. Третье издание
 
 Автор Карл Вигерс, Джой Битти
@@ -6310,9 +5442,7 @@ ISBN 978-5-9775-3348-5
 
 
 
- (https://codeby.net/resources/razrabotka-trebovanij-k-programmnomu-obespecheniju-trete-izdanie.531/download)#development #soft
 
-sudo_, [11.11.20 20:34]
 Американская криптология. История спецсвязи
 
 Автор Вадим Гребенников
@@ -6325,9 +5455,7 @@ ISBN 978-5-5321-0491-4
 
 
 
- (https://codeby.net/resources/amerikanskaja-kriptologija-istorija-specsvjazi.532/download)#cryptology #cipher
 
-sudo_, [11.11.20 20:35]
 Hacking The Xbox Free. An Introduction to Reverse Engineering
 
 Автор Andrew “bunnie” Huang
@@ -6340,9 +5468,7 @@ This hands-on guide to hacking was canceled by the original publisher out of fea
 
 
 
- (https://codeby.net/resources/hacking-the-xbox-free-an-introduction-to-reverse-engineering.533/download)#Reverce #hacking
 
-sudo_, [11.11.20 20:37]
 Hacking Exposed Wireless: Wireless Security Secrets & Solutions. 2nd Edition
 
 Автор Cache J.
@@ -6355,9 +5481,7 @@ Protect your wireless systems from crippling attacks using the detailed security
 
 
 
- (https://codeby.net/resources/hacking-exposed-wireless-wireless-security-secrets-solutions-2nd-edition.534/download)#hacking #wifi
 
-sudo_, [11.11.20 20:39]
 Hacking Gmail
 
 Автор Ben Hammersley
@@ -6370,9 +5494,7 @@ No mere "how to use Gmail" book, this hacker's resource is the first volume to u
 
 
 
- (https://codeby.net/resources/hacking-gmail.535/download)#hacking #soft
 
-sudo_, [11.11.20 20:41]
 Правовая охрана компьютерных программ и баз данных
 
 Автор Боровская Е.А.
@@ -6384,9 +5506,7 @@ sudo_, [11.11.20 20:41]
 
 
 
- (https://codeby.net/resources/pravovaja-oxrana-kompjuternyx-programm-i-baz-dannyx.536/download)#law #soft
 
-sudo_, [11.11.20 20:45]
 Security Assessment. Case Studies for Implementing the NSA IAM
 
 Автор Miles Grer
@@ -6399,9 +5519,7 @@ The National Security Agency's INFOSEC Assessment Methodology (IAM) provides gui
 
 
 
- (https://codeby.net/resources/security-assessment-case-studies-for-implementing-the-nsa-iam.537/download)#iam #nsa
 
-sudo_, [11.11.20 22:10]
 Mastering Python for Networking and Security
 
 Автор José Manuel Ortega
@@ -6413,9 +5531,7 @@ It's becoming more and more apparent that security is a critical aspect of IT in
 
 
 
- (https://codeby.net/resources/mastering-python-for-networking-and-security.541/download)#pentest #python
 
-sudo_, [11.11.20 22:13]
 SQL Injection Attacks and Defense
 
 Автор Justin Clarke
@@ -6428,9 +5544,7 @@ ISBN 978-1-59749-963-7
 
 
 
- (https://codeby.net/resources/sql_injection_attacks_and_defense.543/download)#sql #injection
 
-sudo_, [11.11.20 22:16]
 Binary Analysis Cookbook
 
 Автор Michael Born
@@ -6443,9 +5557,7 @@ ISBN 9781789807608
 
 
 
- (https://codeby.net/resources/binary-analysis-cookbook.547/download)#Reverce #disassembler
 
-sudo_, [11.11.20 22:21]
 With the words at the table
 
 Формат PDF
@@ -6456,9 +5568,7 @@ With the words at the table
 
 
 
- (https://codeby.net/resources/with-the-words-at-the-table.544/download)#soceng #hacking
 
-sudo_, [11.11.20 22:23]
 Методика МВД
 
 Автор Министерство Внутренних Дел Российской Федерации
@@ -6469,9 +5579,7 @@ sudo_, [11.11.20 22:23]
 
 
 
- (https://codeby.net/resources/metodika-mvd.549/download)#hacking
 
-sudo_, [11.11.20 22:24]
 Linux Forensics
 
 Автор Philip Polstra
@@ -6485,9 +5593,7 @@ Linux Forensics will guide you step by step through the process of investigating
 
 
 
- (https://codeby.net/resources/philip-polstra-linux-forensics.551/download)#Forensics #linux
 
-sudo_, [11.11.20 22:27]
 Сборник трудов
 
 Автор Университет ИТМО
@@ -6498,9 +5604,7 @@ ISBN 978-5-7577-0553-8
 
 
 
- (https://codeby.net/resources/sbornik-trudov.552/download)#EthicalHack
 
-sudo_, [11.11.20 22:28]
 Linux глазами хакера, 5-е издание
 
 Автор Фленов М.Е.
@@ -6513,9 +5617,7 @@ ISBN 978-5-9775-4039-1
 
 
 
- (https://codeby.net/resources/linux-glazami-xakera-5-e-izdanie.553/download)#EthicalHack #linux
 
-sudo_, [11.11.20 22:31]
 Сценарии командной оболочки. Linux, OS X и Unix
 
 Автор Тейлор Дейв, Перри Брендон
@@ -6526,9 +5628,7 @@ ISBN 978-5-496-03029-8
 
 
 
- (https://codeby.net/resources/scenarii-komandnoj-obolochki-linux-os-x-i-unix.554/download)#bash #unix
 
-sudo_, [11.11.20 22:34]
 Free as in Freedom (2.0): Richard Stallman and the Free Software Revolution
 
 Автор Sam Williams, Richard M. Stallman
@@ -6541,9 +5641,7 @@ Editorial Reviews from the Midwest Book Review, "a hard-hitting analysis that go
 
 
 
- (https://codeby.net/resources/free-as-in-freedom-2-0-richard-stallman-and-the-free-software-revolution.560/download)#linux #soft
 
-sudo_, [11.11.20 22:35]
 Интернет как иллюзия. Обратная сторона сети
 
 Автор Евгений Морозов
@@ -6556,9 +5654,7 @@ ISBN 978-5-17-084792-1
 
 
 
- (https://codeby.net/resources/internet-kak-illjuzija-obratnaja-storona-seti.561/download)#analytics #network
 
-sudo_, [11.11.20 22:37]
 Как стать хакером
 
 Автор Эдриан Прутяну
@@ -6571,9 +5667,7 @@ ISBN 978-5-97060-802-9
 
 
 
- (https://codeby.net/resources/kak-stat-xakerom.562/download)#hacking #soft
 
-sudo_, [11.11.20 22:38]
 Black Hat Go
 
 Автор Tom Steele, Chris Patten, and Dan Kottmann.
@@ -6586,9 +5680,7 @@ This book is for anyone who wants to learn how to develop their own hack- ing to
 
 
 
- (https://codeby.net/resources/black-hat-go.563/download)#golang #pentest
 
-sudo_, [11.11.20 22:41]
 Security Fundamentals
 
 Автор Crystal Panek
@@ -6599,9 +5691,7 @@ ISBN 978-1-119-65072-0
 
 
 
- (https://codeby.net/resources/security-fundamentals.564/download)#EthicalHack #security
 
-sudo_, [11.11.20 22:43]
 Методы и алгоритмы поиска информации в Интернете
 
 Автор Симанков В.С., Толкачев Д.М.
@@ -6614,9 +5704,7 @@ ISBN 978-5-9500501-8-3
 
 
 
- (https://codeby.net/resources/metody-i-algoritmy-poiska-informacii-v-internete.565/download)#datasearch #network
 
-sudo_, [12.11.20 14:49]
 Интернетика. Навигация в сложных сетях. Модели и алгоритмы
 
 Автор Ландэ Д.В. Снарский А.А. Безсуднов И.В.
@@ -6629,9 +5717,7 @@ ISBN 978-5-397-00497-8
 
 
 
- (https://codeby.net/resources/internetika-navigacija-v-slozhnyx-setjax-modeli-i-algoritmy.566/download)#network #algorithms
 
-sudo_, [12.11.20 14:51]
 Зарабатывать на хайпе. Чему нас могут научить пираты, хакеры
 
 Автор Кира Майя Филипс, Алекса Клэй
@@ -6644,9 +5730,7 @@ ISBN 978-5-699-92971-9
 
 
 
- (https://codeby.net/resources/zarabatyvat-na-xajpe-chemu-nas-mogut-nauchit-piraty-xakery.567/download)#hacking #hype
 
-sudo_, [12.11.20 14:51]
 Обнаружение вторжений в компьютерной сети
 
 Автор Шелухин О.И. Сакалема Д.Ж. Филинова А.С.
@@ -6659,9 +5743,7 @@ ISBN 978-5-9912-0323-4
 
 
 
- (https://codeby.net/resources/obnaruzhenie-vtorzhenij-v-kompjuternoj-seti.568/download)#hacking #network
 
-sudo_, [12.11.20 14:53]
 Обнаружение атак
 
 Автор Алексей Лукацкий
@@ -6674,9 +5756,7 @@ ISBN 5-94157-054-6
 
 
 
- (https://codeby.net/resources/obnaruzhenie-atak.569/download)#hacking #detection
 
-sudo_, [12.11.20 14:54]
 Обнаружение нарушений безопасности в сетях. 3-е издание
 
 Автор Норткат С. Новак Д.
@@ -6689,9 +5769,7 @@ ISBN 5-8459-0526-5
 
 
 
- (https://codeby.net/resources/obnaruzhenie-narushenij-bezopasnosti-v-setjax-3-e-izdanie.570/download)#hacking #network
 
-sudo_, [12.11.20 14:55]
 Искусство вторжения
 
 Автор Кевин Митник, Вильям Саймон
@@ -6704,9 +5782,7 @@ ISBN 5‑98453‑020‑1
 
 
 
- (https://codeby.net/resources/iskusstvo-vtorzhenija.571/download)#network #detection
 
-sudo_, [12.11.20 14:56]
 Программно-аппаратные средства обеспечения информационной безопасности вычислительных сетей
 
 Автор Платонов В.В.
@@ -6719,9 +5795,7 @@ ISBN 5‑7695-2706-4
 
 
 
- (https://codeby.net/resources/programmno-apparatnye-sredstva-obespechenija-informacionnoj-bezopasnosti-vychislitelnyx-setej.572/download)#CyberSec #soft
 
-sudo_, [12.11.20 14:57]
 Технические средства и методы защиты информации
 
 Автор А.П. Зайцев, А.А. Шелупанов
@@ -6734,9 +5808,7 @@ ISBN 978-5-94275-454-9
 
 
 
- (https://codeby.net/resources/texnicheskie-sredstva-i-metody-zaschity-informacii.573/download)#soft #information
 
-sudo_, [12.11.20 14:58]
 Практическое руководство по выявлению специальных технических средств несанкционированного получения
 
 Автор Бузов Г.А.
@@ -6749,9 +5821,7 @@ ISBN 978-5-9912-0121-6
 
 
 
- (https://codeby.net/resources/prakticheskoe-rukovodstvo-po-vyjavleniju-specialnyx-texnicheskix-sredstv-nesankcionirovannogo-poluchenija.574/download)#soft #information
 
-sudo_, [12.11.20 14:59]
 Защита от утечек информации по техническим каналам
 
 Автор Бузов Г.А. Калинин С.В. Кондратьев А.В.
@@ -6764,9 +5834,7 @@ ISBN 5-93517-204-6
 
 
 
- (https://codeby.net/resources/zaschita-ot-utechek-informacii-po-texnicheskim-kanalam.575/download)#soft #information
 
-sudo_, [12.11.20 15:00]
 Анализ демаскирующих признаков объектов информатизации и технических каналов утечки информации
 
 Автор Гуляев В.П.
@@ -6777,9 +5845,7 @@ ISBN 978-5-7996-1120-0
 
 
 
- (https://codeby.net/resources/analiz-demaskirujuschix-priznakov-obektov-informatizacii-i-texnicheskix-kanalov-utechki-informacii.576/download)#soft #information
 
-sudo_, [12.11.20 15:02]
 Защита информации от утечки по техническим каналам
 
 Автор Железняк В.К.
@@ -6792,9 +5858,7 @@ ISBN 5-8088-0230-X
 
 
 
- (https://codeby.net/resources/zaschita-informacii-ot-utechki-po-texnicheskim-kanalam.577/download)#soft #information
 
-sudo_, [12.11.20 15:03]
 Защита информации от утечки по техническим каналам
 
 Автор Голиков А.М.
@@ -6806,9 +5870,7 @@ sudo_, [12.11.20 15:03]
 
 
 
- (https://codeby.net/resources/zaschita-informacii-ot-utechki-po-texnicheskim-kanalam.578/download)#soft #information
 
-sudo_, [12.11.20 19:10]
 Технические средства защиты информации
 
 Автор Титов А.А.
@@ -6820,9 +5882,7 @@ sudo_, [12.11.20 19:10]
 
 
 
- (https://codeby.net/resources/texnicheskie-sredstva-zaschity-informacii.579/download)#soft #information
 
-sudo_, [12.11.20 19:12]
 Помехозащищенность систем связи с псевдослучайной перестройкой рабочей частоты
 
 Автор Макаренко С.И. Иванов М.С. Попов С.А.
@@ -6835,9 +5895,7 @@ ISBN 978-5-4386-0166-1
 
 
 
- (https://codeby.net/resources/pomexozaschischennost-sistem-svjazi-s-psevdosluchajnoj-perestrojkoj-rabochej-chastoty.580/download)#soft #information
 
-sudo_, [12.11.20 19:30]
 Устройства приема и преобразования сигналов
 
 Автор Макаренко А.А. Плотников М.Ю.
@@ -6849,9 +5907,7 @@ sudo_, [12.11.20 19:30]
 
 
 
- (https://codeby.net/resources/ustrojstva-priema-i-preobrazovanija-signalov.581/download)#soft #signals
 
-sudo_, [12.11.20 19:31]
 Специализированные программно-аппаратные средства защиты информации
 
 Автор Духан Е. И., Синадский Н. И., Хорьков Д. А.
@@ -6863,9 +5919,7 @@ sudo_, [12.11.20 19:31]
 
 
 
- (https://codeby.net/resources/specializirovannye-programmno-apparatnye-sredstva-zaschity-informacii.582/download)#soft #information
 
-sudo_, [12.11.20 19:33]
 Устройства приема и обработки сигналов
 
 Автор Галочкин В.А.
@@ -6878,9 +5932,7 @@ ISBN 978-5-904029-40-1
 
 
 
- (https://codeby.net/resources/ustrojstva-priema-i-obrabotki-signalov.583/download)#soft #signals
 
-sudo_, [12.11.20 19:55]
 Электронные устройства для глушения беспроводных сигналов (GSM, Wi-Fi, GPS и некоторых радиотелефонов)
 
 Автор Кашкаров А.П.
@@ -6893,9 +5945,7 @@ ISBN 978-5-97060-210-2
 
 
 
- (https://codeby.net/resources/ehlektronnye-ustrojstva-dlja-glushenija-besprovodnyx-signalov-gsm-wi-fi-gps-i-nekotoryx-radiotelefon.584/download)#wifi #signals
 
-sudo_, [12.11.20 19:57]
 Конфиденциальное делопроизводство и защищенный электронный документооборот
 
 Автор Куняев Н.Н.
@@ -6908,9 +5958,7 @@ ISBN 978-5-98704-541-1
 
 
 
- (https://codeby.net/resources/konfidencialnoe-deloproizvodstvo-i-zaschischennyj-ehlektronnyj-dokumentooborot.585/download)#security #information
 
-sudo_, [12.11.20 19:58]
 Безопасность программного обеспечения компьютерных систем
 
 Автор Казарин О.В.
@@ -6923,9 +5971,7 @@ ISBN 5-283-01667
 
 
 
- (https://codeby.net/resources/bezopasnost-programmnogo-obespechenija-kompjuternyx-sistem.586/download)#CyberSec #soft
 
-sudo_, [12.11.20 19:59]
 Организационное и правовое обеспечение информационной безопасности
 
 Автор Жигулин Г.П.
@@ -6937,9 +5983,7 @@ sudo_, [12.11.20 19:59]
 
 
 
- (https://codeby.net/resources/organizacionnoe-i-pravovoe-obespechenie-informacionnoj-bezopasnosti.587/download)#CyberSec #law
 
-sudo_, [12.11.20 20:00]
 Защита от хакеров корпоративных сетей
 
 Автор Райан Рассел & Со
@@ -6952,9 +5996,7 @@ ISBN 1-928994-70-9
 
 
 
- (https://codeby.net/resources/zaschita-ot-xakerov-korporativnyx-setej.588/download)#security #hacking
 
-sudo_, [12.11.20 20:02]
 Стандарты и протоколы Интернета, Channel Trading Ltd
 
 Автор Найк Дилип
@@ -6967,9 +6009,7 @@ ISBN 1-57231-692-6
 
 
 
- (https://codeby.net/resources/standarty-i-protokoly-interneta-channel-trading-ltd.589/download)#CyberSec #soft
  
- sudo_, [12.11.20 20:03]
 Техника взлома: сокеты, эксплойты, shell-код
 
 Автор Фостер Д. Прайс М.
@@ -6982,9 +6022,7 @@ ISBN 5-9706-0019-9
 
 
 
- (https://codeby.net/resources/texnika-vzloma-sokety-ehksplojty-shell-kod.590/download)#shell #exploit
 
-sudo_, [12.11.20 20:04]
 Секреты хакеров. Проблемы и решения сетевой защиты
 
 Автор Макклуре С. Скембрэй Д. Куртц Д.
@@ -6997,9 +6035,7 @@ ISBN 5-85582-107-2
 
 
 
- (https://codeby.net/resources/sekrety-xakerov-problemy-i-reshenija-setevoj-zaschity.591/download)#hacking #unix
 
-sudo_, [12.11.20 20:05]
 Защита компьютерной информации от несанкционированного доступа
 
 Автор Щеглов А.Ю.
@@ -7012,9 +6048,7 @@ ISBN 5-94387-123-3
 
 
 
- (https://codeby.net/resources/zaschita-kompjuternoj-informacii-ot-nesankcionirovannogo-dostupa.592/download)#information #detection
 
-sudo_, [12.11.20 20:06]
 Анти-хакер. Средства защиты компьютерных сетей. Справочник профессионала
 
 Автор Кейт Дж. Джонс, Майк Шема, Бредли С. Джонсон
@@ -7027,9 +6061,7 @@ ISBN 5-9570-0014-0
 
 
 
- (https://codeby.net/resources/anti-xaker-sredstva-zaschity-kompjuternyx-setej-spravochnik-professionala.593/download)#hacking #systems
 
-sudo_, [12.11.20 20:07]
 Linux API. Исчерпывающее руководство
 
 Автор Майкл Керриск
@@ -7042,9 +6074,7 @@ The Linux Programming Interface – исчерпывающее руководс�
 
 
 
- (https://codeby.net/resources/linux-api-ischerpyvajuschee-rukovodstvo.595/download)#linux #systems
 
-sudo_, [12.11.20 20:09]
 Локальная сеть под Linux
 
 Автор Александр Поляк-Брагинский
@@ -7057,9 +6087,7 @@ ISBN 978-5-9775-0171-2
 
 
 
- (https://codeby.net/resources/lokalnaja-set-pod-linux.596/download)#linux #network
 
-sudo_, [12.11.20 20:10]
 Практикум: модули ядра Linux. Конспект с примерами и упражнения с задачами
 
 Автор Олег Цирюлик
@@ -7071,9 +6099,7 @@ sudo_, [12.11.20 20:10]
 
 
 
- (https://codeby.net/resources/praktikum-moduli-jadra-linux-konspekt-s-primerami-i-uprazhnenija-s-zadachami.597/download)#linux #systems
 
-sudo_, [12.11.20 20:11]
 LINUX-сервер: пошаговые инструкции инсталляции и настройки
 
 Автор Бруй В.В. Карлов С. В.
@@ -7086,9 +6112,7 @@ ISBN 5-89354-153-7
 
 
 
- (https://codeby.net/resources/linux-server-poshagovye-instrukcii-installjacii-i-nastrojki.598/download)#linux #server
 
-sudo_, [12.11.20 20:12]
 Защита мобильных телефонов от атак
 
 Автор Михайлов Д.М., Жуков И.Ю.
@@ -7101,9 +6125,7 @@ ISBN 978-5-91860-010-8
 
 
 
- (https://codeby.net/resources/zaschita-mobilnyx-telefonov-ot-atak.599/download)#EthicalHack #mobile
 
-sudo_, [12.11.20 20:14]
 Утилиты Sysinternals. Справочник администратора
 
 Автор Марк Руссинович
@@ -7116,9 +6138,7 @@ ISBN 978-5-7502-0411-3
 
 
 
- (https://codeby.net/resources/utility-sysinternals-spravochnik-administratora.602/download)#sysinternals #sysadm
 
-sudo_, [12.11.20 20:15]
 Quick Start Guide to Penetration Testing With NMAP, OpenVAS and Metasploit
 
 Автор Sagar Rahalkar
@@ -7131,9 +6151,7 @@ Get started with NMAP, OpenVAS, and Metasploit and understand how NMAP, OpenVAS,
 
 
 
- (https://codeby.net/resources/quick-start-guide-to-penetration-testing-with-nmap-openvas-and-metasploit.604/download)#metasploit #pentest
 
-sudo_, [12.11.20 20:20]
 Securing DevOps: Security in the Cloud
 
 Автор Julien Vehent
@@ -7146,9 +6164,7 @@ Securing DevOps explores how the techniques of DevOps and security should be app
 
 
 
- (https://codeby.net/resources/securing-devops-security-in-the-cloud.609/download)#EthicalHack #security
 
-sudo_, [13.11.20 16:44]
 Программирование на ассемблере на платформе X86-64
 
 Автор Аблязов Р.З.
@@ -7161,9 +6177,7 @@ ISBN 978-5-94074-676-8
 
 
 
- (https://codeby.net/resources/programmirovanie-na-assemblere-na-platforme-x86-64.610/download)#Reverce #assembler
 
-sudo_, [13.11.20 16:45]
 BackTrack 4: Assuring Security by Penetration Testing
 
 Автор Shakeel Ali, Tedi Heriyanto
@@ -7176,9 +6190,7 @@ BackTrack is a penetration testing and security auditing platform with advanced 
 
 
 
- (https://codeby.net/resources/backtrack-4-assuring-security-by-penetration-testing.611/download)#EthicalHack #pentest
 
-sudo_, [13.11.20 16:47]
 Цифровая схемотехника и архитектура компьютера
 
 Автор Дэвид М. Хэррис и Сара Л. Хэррис
@@ -7191,9 +6203,7 @@ ISBN 978-0-12-394424-5
 
 
 
- (https://codeby.net/resources/cifrovaja-sxemotexnika-i-arxitektura-kompjutera.612/download)#soft
 
-sudo_, [13.11.20 16:49]
 Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM
 
 Автор Дэвид М. Хэррис и Сара Л. Хэррис
@@ -7206,9 +6216,7 @@ ISBN 978-5-97060-650-6
 
 
 
- (https://codeby.net/resources/cifrovaja-sxemotexnika-i-arxitektura-kompjutera-dopolnenie-po-arxitekture-arm.613/download)#soft
 
-sudo_, [13.11.20 16:50]
 Понимание языка ассемблера
 
 Автор Денис Юричев
@@ -7221,9 +6229,7 @@ ISBN 978-5-97060-650-6
 
 
 
- (https://codeby.net/resources/ponimanie-jazyka-assemblera.614/download)#assembler #soft
 
-sudo_, [13.11.20 16:52]
 Reverse Engineering для начинающих
 
 Автор Денис Юричев
@@ -7233,9 +6239,7 @@ Reverse Engineering для начинающих
 
 
 
- (https://codeby.net/resources/reverse-engineering-dlja-nachinajuschix.615/download)#Reverce
 
-sudo_, [13.11.20 16:55]
 Фундаментальные основы хакерства.
 
 Автор Крис Касперски
@@ -7246,9 +6250,7 @@ sudo_, [13.11.20 16:55]
 
 
 
- (https://codeby.net/resources/fundamentalnye-osnovy-xakerstva.616/download)#hacking
 
-sudo_, [13.11.20 16:56]
 Атаки на встраиваемые системы
 
 Автор BI.Zone Cybersecurity
@@ -7258,9 +6260,7 @@ sudo_, [13.11.20 16:56]
 
 
 
- (https://codeby.net/resources/ataki-na-vstraivaemye-sistemy.618/download)#EthicalHack #hacking
 
-sudo_, [13.11.20 16:58]
 Анализ вредоносных программ
 
 Автор Монаппа К.А.
@@ -7271,9 +6271,7 @@ ISBN 978-5-97060-700-8
 
 
 
- (https://codeby.net/resources/analiz-vredonosnyx-programm.619/download)#Reverce
 
-sudo_, [13.11.20 17:00]
 Gray Hat Hacking. 2nd Edition
 
 Автор Shon Harris, Allen Harper, Chris Eagle, and Jonathan Ness
@@ -7283,9 +6281,7 @@ Gray Hat Hacking. 2nd Edition
 
 
 
- (https://codeby.net/resources/hat-hacking-2nd-edspunkins.620/download)#EthicalHack #hacking
 
-sudo_, [13.11.20 17:02]
 Bug Bounty Hunting for Web Security
 
 Автор Sanjib Sinha
@@ -7298,9 +6294,7 @@ ISBN 978-1-4842-5391-5
 
 
 
- (https://codeby.net/resources/bug-bounty-hunting-for-web-security.621/download)#EthicalHack #bughunting
 
-sudo_, [13.11.20 17:04]
 Невероятные приключения Лавлейс и Бэббиджа. Почти правдивая история первого компьютера
 
 Автор Панди Падуа
@@ -7313,9 +6307,7 @@ ISBN 978-5-00100-943-6
 
 
 
- (https://codeby.net/resources/neverojatnye-prikljuchenija-lavlejs-i-behbbidzha-pochti-pravdivaja-istorija-pervogo-kompjutera.623/download)#analytics
 
-sudo_, [13.11.20 17:06]
 Руководство пользователя Metasploit Pro, Русский мануал
 
 Формат PDF
@@ -7323,9 +6315,7 @@ sudo_, [13.11.20 17:06]
 
 
 
- (https://codeby.net/resources/rukovodstvo-polzovatelja-metasploit-pro-russkij-manual.624/download)#EthicalHack #metasploit
 
-sudo_, [13.11.20 17:08]
 Защита информации. Устройства несанкционированного съема информации и борьба с ними
 
 Автор Козлов С.Н.
@@ -7338,9 +6328,7 @@ ISBN 978-5-8291-2174-7
 
 
 
- (https://codeby.net/resources/zaschita-informacii-ustrojstva-nesankcionirovannogo-sema-informacii-i-borba-s-nimi.625/download)#information #security
 
-sudo_, [13.11.20 17:16]
 Защита информации. Учебное пособие
 
 Автор Э.М. Габидулин, А.С. Кшевецкий, А.И. Колыбельников, С.М. Владимиров
@@ -7352,9 +6340,7 @@ sudo_, [13.11.20 17:16]
 
 
 
- (https://codeby.net/resources/zaschita-informacii-uchebnoe-posobie.626/download)#Криптография #information
 
-sudo_, [13.11.20 17:18]
 Методические рекомендации по поиску и нейтрализации средств негласного сьема информации
 
 Автор Болдырев А.И. Василевский И.В. Сталенков С.Е.
@@ -7366,9 +6352,7 @@ sudo_, [13.11.20 17:18]
 
 
 
- (https://codeby.net/resources/metodicheskie-rekomendacii-po-poisku-i-nejtralizacii-sredstv-neglasnogo-sema-informacii.627/download)#information #security
 
-sudo_, [13.11.20 17:20]
 Секреты компьютерного шпионажа. Тактика и контрмеры
 
 Автор Макнамара Дж.
@@ -7381,9 +6365,7 @@ ISBN 978-5-94774-168-1
 
 
 
- (https://codeby.net/resources/sekrety-kompjuternogo-shpionazha-taktika-i-kontrmery.628/download)#spying #tactics
 
-sudo_, [13.11.20 17:23]
 Kali Linux. Тестирование на проникновение и безопасность.
 
 Автор Парасрам Ш., Замм А.
@@ -7395,9 +6377,7 @@ Kali Linux. Тестирование на проникновение и безо
 
 
 
- (https://codeby.net/resources/kali-linux-testirovanie-na-proniknovenie-i-bezopasnost.629/download)#kali #pentest
 
-sudo_, [13.11.20 17:24]
 Программно-аппаратные средства обеспечения информационной безопасности
 
 Автор А.П. Зайцев, И.В. Голубятников, Р.В. Мещеряков, А.А. Шелупанов
@@ -7410,9 +6390,7 @@ ISBN 5-94275-345-7
 
 
 
- (https://codeby.net/resources/programmno-apparatnye-sredstva-obespechenija-informacionnoj-bezopasnosti.630/download)#CyberSec #soft
 
-sudo_, [13.11.20 17:25]
 Kali Linux- Assuring Security by Penetration Testing
 
 Автор Tedi Heriyanto, Lee Allen
@@ -7423,9 +6401,7 @@ ISBN 978-1-84951-948-9
 
 
 
- (https://codeby.net/resources/kali-linux-assuring-security-by-penetration-testing.631/download)#EthicalHack #kali
 
-sudo_, [13.11.20 18:29]
 Секреты хакеров. Безопасность сетей - готовые решения
 
 Автор Мак-Клар С., Скембрей Д., Курц Д.
@@ -7438,9 +6414,7 @@ ISBN 5-8459-0354-8
 
 
 
- (https://codeby.net/resources/sekrety-xakerov-bezopasnost-setej-gotovye-reshenija.632/download)#hacking #soft
 
-sudo_, [13.11.20 18:30]
 Mobile App Hackers Handbook
 
 Автор Dominic Chell,Tyrone Erasmus
@@ -7453,9 +6427,7 @@ ISBN 978-1118958506
 
 
 
- (https://codeby.net/resources/mobile-app-hackers-handbook.633/download)#EthicalHack #mobile
 
-sudo_, [13.11.20 18:31]
 Как стать хакером. Интеллектуальное руководство по хакингу и фрикингу
 
 Автор Левин М.
@@ -7467,9 +6439,7 @@ sudo_, [13.11.20 18:31]
 
 
 
- (https://codeby.net/resources/kak-stat-xakerom-intellektualnoe-rukovodstvo-po-xakingu-i-frikingu.634/download)#CyberSec #hacking
 
-sudo_, [13.11.20 18:34]
 Kali Linux Cookbook
 
 Автор Willie L
@@ -7482,9 +6452,7 @@ ISBN 1783289597
 
 
 
- (https://codeby.net/resources/kali-linux-cookbook.635/download)#EthicalHack #kali
 
-sudo_, [13.11.20 18:35]
 Kali Linux CTF Blueprints
 
 Автор Cameron Buchanan
@@ -7497,9 +6465,7 @@ ISBN 978-1-78398-598-2
 
 
 
- (https://codeby.net/resources/kali-linux-ctf-blueprints-buchana-cameron.636/download)#EthicalHack #kali
 
-sudo_, [13.11.20 18:36]
 Kali Linux Social Engineering
 
 Автор Rahul Singh Patel
@@ -7512,9 +6478,7 @@ ISBN 9781783283286
 
 
 
- (https://codeby.net/resources/kali-linux-social-engineering.637/download)#EthicalHack #kali
 
-sudo_, [13.11.20 18:37]
 Packt - Kali Linux Network Scanning Cookbook
 
 Автор Justin Hatchens
@@ -7527,9 +6491,7 @@ ISBN 978-1783982141
 
 
 
- (https://codeby.net/resources/packt-kali-linux-network-scanning-cookbook.638/download)#EthicalHack #kali
 
-sudo_, [13.11.20 18:38]
 Хакинг с самого начала
 
 Автор Максим Левин
@@ -7539,9 +6501,7 @@ sudo_, [13.11.20 18:38]
 
 
 
- (https://codeby.net/resources/xaking-s-samogo-nachala.639/download)#hacking #crack
 
-sudo_, [13.11.20 18:43]
 SSRF Bible.Cheatsheet
 
 Автор ONsec_Lab
@@ -7553,9 +6513,7 @@ SSRF Bible.Cheatsheet
 
 
 
- (https://codeby.net/resources/ssrf-bible-cheatsheet.640/download)#EthicalHack #pentest
 
-sudo_, [13.11.20 18:46]
 XSS Attacks - Exploits and Defense
 
 Автор Seth Fogie
@@ -7567,9 +6525,7 @@ XSS Attacks - Exploits and Defense
 
 
 
- (https://codeby.net/resources/xss-attacks-exploits-and-defense.641/download)#EthicalHack #xss
 
-sudo_, [13.11.20 18:47]
 WebHacking
 
 Формат PDF
@@ -7580,9 +6536,7 @@ WebHacking
 
 
 
- (https://codeby.net/resources/webhacking.642/download)#EthicalHack #osint
 
-sudo_, [13.11.20 18:52]
 The Shellcoders Handbook Discovering and Exploiting
 
 Автор Chris Anley
@@ -7594,9 +6548,7 @@ The Shellcoders Handbook Discovering and Exploiting
 
 
 
- (https://codeby.net/resources/the-shellcoders-handbook-discovering-and-exploiting.643/download)#EthicalHack #shell
 
-sudo_, [13.11.20 18:56]
 Опасная компьютерная информация
 
 Автор В.В.Бакланов, М.Э.Пономарев
@@ -7608,9 +6560,7 @@ sudo_, [13.11.20 18:56]
 
 
 
- (https://codeby.net/resources/opasnaja-kompjuternaja-informacija.644/download)#CyberSec #information
 
-sudo_, [13.11.20 18:57]
 Firewalls. Практическое применение межсетевых экранов
 
 Автор Оглтри Т.
@@ -7623,9 +6573,7 @@ ISBN 5-94074-037-5
 
 
 
- (https://codeby.net/resources/firewalls-prakticheskoe-primenenie-mezhsetevyx-ehkranov.645/download)#CyberSec #firewall
 
-sudo_, [13.11.20 18:58]
 The Myths Of Security-What The Computer Security Industry Doesn T Want You To Know
 
 Автор John Viega
@@ -7637,9 +6585,7 @@ The Myths Of Security-What The Computer Security Industry Doesn T Want You To Kn
 
 
 
- (https://codeby.net/resources/the-myths-of-security-what-the-computer-security-industry-doesn-t-want-you-to-know.646/download)#EthicalHack #security
 
-sudo_, [13.11.20 18:59]
 The Hacker Playbook Practical Guide To Penetration
 
 Автор Peter Kim
@@ -7652,9 +6598,7 @@ ISBN 9781494932633
 
 
 
- (https://codeby.net/resources/the-hacker-playbook-practical-guide-to-penetration.647/download)#EthicalHack #penetration
 
-sudo_, [13.11.20 18:59]
 Shodan Manual
 
 Автор Shodan
@@ -7665,9 +6609,7 @@ ISBN 9781494932633
 
 
 
- (https://codeby.net/resources/shodan-manual-rus.648/download)#manual #shodan
 
-sudo_, [13.11.20 19:01]
 Основы сетевой безопасности. Часть 1. Межсетевые экраны
 
 Автор Лапонина О.Р.
@@ -7680,9 +6622,7 @@ ISBN 978-5-9556-0162-5
 
 
 
- (https://codeby.net/resources/osnovy-setevoj-bezopasnosti-chast-1-mezhsetevye-ehkrany.649/download)#CyberSec #firewall
 
-sudo_, [13.11.20 19:03]
 Основы сетевой безопасности. Часть 2. Технологии туннелирования
 
 Автор Лапонина О.Р.
@@ -7695,9 +6635,7 @@ ISBN 978-5-9556-0163-2
 
 
 
- (https://codeby.net/resources/osnovy-setevoj-bezopasnosti-chast-2-texnologii-tunnelirovanija.651/download)#CyberSec #firewall
 
-sudo_, [15.11.20 16:07]
 Metasploit Unleashed
 
 Автор Metasploit
@@ -7707,9 +6645,7 @@ Metasploit Unleashed
 
 
 
- (https://codeby.net/resources/metasploit-unleashed.652/download)#EthicalHack #metasploit
 
-sudo_, [15.11.20 16:09]
 Network Audit, Unix Testing, Auditing CISCO and Pentesting
 
 Автор Craig S. Wright
@@ -7719,9 +6655,7 @@ Network Audit, Unix Testing, Auditing CISCO and Pentesting
 
 
 
- (https://codeby.net/resources/network-audit-unix-testing-auditing-cisco-and-pentesting.653/download)#EthicalHack #pentest
 
-sudo_, [15.11.20 16:10]
 Основы сетевых технологий
 
 Автор Руденков Н.А. Долинер Л.И.
@@ -7733,9 +6667,7 @@ sudo_, [15.11.20 16:10]
 
 
 
- (https://codeby.net/resources/osnovy-setevyx-texnologij.654/download)#CyberSec #soft
 
-sudo_, [15.11.20 16:11]
 dracOs leak Guide
 
 Автор DracOS
@@ -7745,9 +6677,7 @@ dracOs leak Guide
 
 
 
- (https://codeby.net/resources/dracos-leak-guide.655/download)#dracos #pentest
 
-sudo_, [15.11.20 16:12]
 The Web Application Hacker's Handbook -Finding and Exploiting Security Flaws V413HAV
 
 Автор Dafydd Stuttard, Marcus Pinto
@@ -7759,9 +6689,7 @@ The Web Application Hacker's Handbook -Finding and Exploiting Security Flaws V41
 
 
 
- (https://codeby.net/resources/the-web-application-hackers-handbook-finding-and-exploiting-security-flaws-v413hav.656/download)#EthicalHack #exploit
 
-sudo_, [15.11.20 16:14]
 Защита информации устройства.
 
 Автор С.Н.Козлов
@@ -7773,9 +6701,7 @@ sudo_, [15.11.20 16:14]
 
 
 
- (https://codeby.net/resources/zaschita-informacii-ustrojstva.658/download)#security
 
-sudo_, [15.11.20 16:15]
 Как взломать Facebook с помощью пентест дистрибутива DRacOs
 
 Автор CNES Group
@@ -7787,9 +6713,7 @@ sudo_, [15.11.20 16:15]
 
 
 
- (https://codeby.net/resources/kak-vzlomat-facebook-s-pomoschju-pentest-distributiva-dracos.659/download)#EthicalHack #dracos
 
-sudo_, [15.11.20 16:16]
 The Tagled Web A Guide to Securing Modern Web Applications.
 
 Автор Michal Zalewski
@@ -7802,9 +6726,7 @@ ISBN 1-59327-388-6
 
 
 
- (https://codeby.net/resources/the-tagled-web-a-guide-to-securing-modern-web-applications.660/download)#EthicalHack #security
 
-sudo_, [15.11.20 16:17]
 Атака на Internet
 
 Автор Медведовский И.Д. Семьянов П.В. Леонов Д.Г.
@@ -7817,9 +6739,7 @@ ISBN 5-89818-036-2
 
 
 
- (https://codeby.net/resources/ataka-na-internet.661/download)#hacking #network
 
-sudo_, [15.11.20 16:19]
 Краткий словарь интернет-языка
 
 Автор Хайдарова В.Ф.
@@ -7832,9 +6752,7 @@ ISBN 978-5-9765-1187-3
 
 
 
- (https://codeby.net/resources/kratkij-slovar-internet-jazyka.662/download)#dictionary #network
 
-sudo_, [15.11.20 16:20]
 Hacking exposed malware and rootkits
 
 Автор Michael A. Davis.Sean M. Bodmer. Aaron LeMasters.
@@ -7847,9 +6765,7 @@ Defend against the ongoing wave of malware and rootkit assaults the failsafe Hac
 
 
 
- (https://codeby.net/resources/hacking-exposed-malware-and-rootkits.663/download)#malware #soft
 
-sudo_, [15.11.20 16:21]
 A Guide to Kernel Exploitation Attacking the Core
 
 Автор Massimiliano Oldani , Enrico Perla
@@ -7862,9 +6778,7 @@ ISBN 1597494860
 
 
 
- (https://codeby.net/resources/a-guide-to-kernel-exploitation-attacking-the-core.664/download)#kernel #attack
 
-sudo_, [15.11.20 16:22]
 The Hacker Playbook 2, Practical Guide To Penetration Testing
 
 Автор Peter Kim
@@ -7876,9 +6790,7 @@ The Hacker Playbook 2, Practical Guide To Penetration Testing
 
 
 
- (https://codeby.net/resources/the-hacker-playbook-2-practical-guide-to-penetration-testing.665/download)#EthicalHack #pentest
 
-sudo_, [15.11.20 16:24]
 The Art of Memory Forensics - Detecting Malware and Threats in Windows, Linux, and Mac Memory
 
 Автор Michael Hale Ligh, Andrew Case, Jamie Levy, AAron Walters
@@ -7891,9 +6803,7 @@ ISBN 978-1-118-82499-3
 
 
 
- (https://codeby.net/resources/the-art-of-memory-forensics-detecting-malware-and-threats-in-windows-linux-and-mac-memory.666/download)#Forensics
 
-sudo_, [15.11.20 16:25]
 Way Hacker
 
 Автор Mark Klintov
@@ -7905,9 +6815,7 @@ Way Hacker
 
 
 
- (https://codeby.net/resources/way-hacker.667/download)#EthicalHack #hacking
 
-sudo_, [15.11.20 16:26]
 A Beginner's Guide
 
 Формат PDF
@@ -7918,9 +6826,7 @@ A Beginner's Guide
 
 
 
- (https://codeby.net/resources/h4ck3r-a-beginners-guide.668/download)#EthicalHack #hacking
 
-sudo_, [15.11.20 16:27]
 Искусство быть невидимым. Как сохранить приватность в эпоху Big Data
 
 Автор Кевин Митник
@@ -7933,9 +6839,7 @@ ISBN 978-5-04-094446-0
 
 
 
- (https://codeby.net/resources/iskusstvo-byt-nevidimym-kak-soxranit-privatnost-v-ehpoxu-big-data.670/download)#CyberSec #data
 
-sudo_, [15.11.20 16:28]
 Высоконагруженные приложения. Программирование, масштабирование, поддержка
 
 Автор Мартин Клеппман
@@ -7948,9 +6852,7 @@ ISBN 978-5-4461-0512-0
 
 
 
- (https://codeby.net/resources/vysokonagruzhennye-prilozhenija-programmirovanie-masshtabirovanie-podderzhka.671/download)#programming #hla
 
-sudo_, [15.11.20 16:29]
 Release it! Проектирование и дизайн ПО для тех, кому не все равно
 
 Автор Майл Нейград
@@ -7963,9 +6865,7 @@ ISBN 978-5-496-01611-7
 
 
 
- (https://codeby.net/resources/release-it-proektirovanie-i-dizajn-po-dlja-tex-komu-ne-vse-ravno.672/download)#CyberSec #soft
 
-sudo_, [15.11.20 17:52]
 Exchange Server 2016 & Exchange Online: Essentials for Administration
 
 Автор William R. Stanek
@@ -7975,9 +6875,7 @@ Exchange Server 2016 & Exchange Online: Essentials for Administration
 
 
 
- (https://codeby.net/resources/exchange-server-2016-exchange-online-essentials-for-administration.674/download)#administration #server
 
-sudo_, [15.11.20 17:53]
 SQL Injection Bypassing HandBook BlaCkRose GH
 
 Автор BlackRos
@@ -7989,9 +6887,7 @@ SQL-инъекция является одним из многих типов в
 
 
 
- (https://codeby.net/resources/sql-injection-bypassing-handbook-blackrose-gh.675/download)#EthicalHack #sql
 
-sudo_, [15.11.20 17:55]
 Satellite Networking - Principles and Protocols. 2nd Edition
 
 Автор Zhili Sun
@@ -8004,9 +6900,7 @@ ISBN 9781118351604
 
 
 
- (https://codeby.net/resources/satellite-networking-principles-and-protocols.676/download)#hacking #network
 
-sudo_, [15.11.20 17:55]
 Practical Lock Picking A Physical Penetration Tester’s Training Guide
 
 Автор Deviant Ollam
@@ -8019,9 +6913,7 @@ ISBN 1597499897
 
 
 
- (https://codeby.net/resources/practical-lock-picking-a-physical-penetration-testers-training-guide.677/download)#EthicalHack #hacking
 
-sudo_, [15.11.20 17:57]
 Packt Nmap 6 - Network Exploration and Security
 
 Автор Paulino Calderon
@@ -8033,9 +6925,7 @@ Packt Nmap 6 - Network Exploration and Security
 
 
 
- (https://codeby.net/resources/packt-nmap-6-network-exploration-and-security.678/download)#nmap #network
 
-sudo_, [15.11.20 17:58]
 Metasploit Toolkit
 
 Автор David Maynor
@@ -8048,9 +6938,7 @@ Metasploit Toolkit - первая книга, доступная для Metasplo
 
 
 
- (https://codeby.net/resources/metasploit-toolkit.679/download)#EthicalHack #metasploit
 
-sudo_, [15.11.20 17:59]
 Instant Burp Suite Starter.
 
 Автор Luca Carettoni
@@ -8061,9 +6949,7 @@ ISBN 9781849695183
 
 
 
- (https://codeby.net/resources/instant-burp-suite-starter.680/download)#EthicalHack #burpsuite
 
-sudo_, [15.11.20 18:01]
 Penetration Testing A HandsOn Introduction to Hacking
 
 Автор Georgia Weidman
@@ -8076,9 +6962,7 @@ ISBN 978-1-59327-564-8
 
 
 
- (https://codeby.net/resources/penetration-testing-a-handson-introduction-to-hacking.681/download)#EthicalHack #pentest
 
-sudo_, [15.11.20 18:02]
 Атаки на клиентов Web-сервера.
 
 Формат PDF
@@ -8088,9 +6972,7 @@ sudo_, [15.11.20 18:02]
 
 
 
- (https://codeby.net/resources/ataki-na-klientov-web-servera.683/download)#attack #web
 
-sudo_, [15.11.20 18:03]
 Атака на WEB сервер методом авторизации.
 
 Формат PDF
@@ -8100,9 +6982,7 @@ sudo_, [15.11.20 18:03]
 
 
 
- (https://codeby.net/resources/ataka-na-web-server-metodom-avtorizacii.682/download)#attack #web
 
-sudo_, [15.11.20 18:03]
 Выполнение кода на Web-сервере.
 
 Формат PDF
@@ -8112,9 +6992,7 @@ sudo_, [15.11.20 18:03]
 
 
 
- (https://codeby.net/resources/vypolnenie-koda-na-web-servere.684/download)#attack #web
 
-sudo_, [15.11.20 18:05]
 Вид атаки Разглашение информации.
 
 Формат PDF
@@ -8124,9 +7002,7 @@ sudo_, [15.11.20 18:05]
 
 
 
- (https://codeby.net/resources/vid-ataki-razglashenie-informacii.685/download)#attack
 
-sudo_, [15.11.20 18:06]
 Логические атаки. 
 
 Формат PDF
@@ -8136,9 +7012,7 @@ sudo_, [15.11.20 18:06]
 
 
 
- (https://codeby.net/resources/logicheskie-ataki.686/download)#attack
 
-sudo_, [15.11.20 18:06]
 Аутентификация и её уязвимости.
 
 Формат PDF
@@ -8148,9 +7022,7 @@ sudo_, [15.11.20 18:06]
 
 
 
- (https://codeby.net/resources/autentifikacija-i-ejo-ujazvimosti.687/download)#attack #bruteforce
 
-sudo_, [15.11.20 18:07]
 Hacking Raspberry Pi
 
 Автор Timothy L. Warner
@@ -8163,9 +7035,7 @@ Raspberry Pi - находка для любого хакера! Вы может�
 
 
 
- (https://codeby.net/resources/hacking-raspberry-pi.688/download)#EthicalHack #hacking
 
-sudo_, [15.11.20 18:08]
 Kali Linux Hacking A Complete Step.
 
 Автор Ethem Mining
@@ -8177,9 +7047,7 @@ Kali Linux Hacking A Complete Step.
 
 
 
- (https://codeby.net/resources/kali-linux-hacking-a-complete-step.689/download)#EthicalHack #kali
 
-sudo_, [15.11.20 18:10]
 Взлом систем умного дома на примере протокола ZigBee.
 
 Формат PDF
@@ -8190,9 +7058,7 @@ sudo_, [15.11.20 18:10]
 
 
 
- (https://codeby.net/resources/vzlom-sistem-umnogo-doma-na-primere-protokola-zigbee.690/download)#EthicalHack #hacking
 
-sudo_, [15.11.20 18:11]
 Алгоритмы шифрования.
 
 Автор Сергей Панасенко
@@ -8204,9 +7070,7 @@ sudo_, [15.11.20 18:11]
 
 
 
- (https://codeby.net/resources/algoritmy-shifrovanija.691/download)#Криптография #шифрование
 
-sudo_, [15.11.20 18:12]
 Расследование компьютерных преступлений
 
 Автор Крис Просис, Кевин Мандиа
@@ -8218,9 +7082,7 @@ sudo_, [15.11.20 18:12]
 
 
 
- (https://codeby.net/resources/rassledovanie-kompjuternyx-prestuplenij.692/download)#law
 
-sudo_, [16.11.20 17:22]
 Создание сетевых приложений в среде Linux
 
 Автор Шон Уолтон
@@ -8232,9 +7094,7 @@ sudo_, [16.11.20 17:22]
 
 
 
- (https://codeby.net/resources/sozdanie-setevyx-prilozhenij-v-srede-linux.693/download)#linux #soft
 
-sudo_, [16.11.20 17:30]
 4 лучших приема взлома WIFI сетей.
 
 Формат PDF
@@ -8244,9 +7104,7 @@ sudo_, [16.11.20 17:30]
 
 
 
- (https://codeby.net/resources/4-luchshix-priema-vzloma-wifi-setej.694/download)#wifi #crack
 
-sudo_, [16.11.20 17:31]
 CEH v10 Certified Ethical Hacker Study Guide
 
 Автор Ric Messier
@@ -8259,9 +7117,7 @@ As protecting information becomes a rapidly growing concern for today’s busine
 
 
 
- (https://codeby.net/resources/ceh-v10-certified-ethical-hacker-study-guide.695/download)#CyberSec #ceh
 
-sudo_, [16.11.20 17:32]
 The Hardware Hacker: Adventures in Making and Breaking Hardware
 
 Автор Andrew "bunnie" Huang
@@ -8274,9 +7130,7 @@ For over a decade, Andrew "bunnie" Huang, one of the world's most esteemed hacke
 
 
 
- (https://codeby.net/resources/the-hardware-hacker-adventures-in-making-and-breaking-hardware.696/download)#CyberSec #hacking
 
-sudo_, [16.11.20 17:33]
 Многопользовательские игры. Разработка сетевых приложений
 
 Автор Глейзер Дж Мадхав С.
@@ -8289,9 +7143,7 @@ ISBN 978-5-496-02290-3
 
 
 
- (https://codeby.net/resources/mnogopolzovatelskie-igry-razrabotka-setevyx-prilozhenij.697/download)#development #network
 
-sudo_, [16.11.20 17:35]
 Компьютерные сети. Настольная книга системного администратора
 
 Автор Д.Куроуз, Т.Росс
@@ -8303,9 +7155,7 @@ sudo_, [16.11.20 17:35]
 
 
 
- (https://codeby.net/resources/kompjuternye-seti-nastolnaja-kniga-sistemnogo-administratora.700/download)#sysadm #network
 
-sudo_, [16.11.20 17:36]
 Атаки на Active Directory.
 
 Формат PDF
@@ -8316,9 +7166,7 @@ sudo_, [16.11.20 17:36]
 
 
 
- (https://codeby.net/resources/ataki-na-active-directory.701/download)#attack #network
 
-sudo_, [16.11.20 17:38]
 Пошаговое руководство по внедрению эксплойта в ядро Linux.
 
 Формат PDF
@@ -8328,9 +7176,7 @@ sudo_, [16.11.20 17:38]
 
 
 
- (https://codeby.net/resources/poshagovoe-rukovodstvo-po-vnedreniju-ehksplojta-v-jadro-linux.702/download)#EthicalHack #exploit
 
-sudo_, [16.11.20 17:39]
 Устанавливаем и запускаем кейлоггер на Linux.
 
 Формат PDF
@@ -8341,9 +7187,7 @@ sudo_, [16.11.20 17:39]
 
 
 
- (https://codeby.net/resources/ustanavlivaem-i-zapuskaem-kejlogger-na-linux.704/download)#keylogger #linux
 
-sudo_, [16.11.20 17:40]
 Шифруем HDD диск с помощью luksipc без потери данных.
 
 Формат PDF
@@ -8354,9 +7198,7 @@ sudo_, [16.11.20 17:40]
 
 
 
- (https://codeby.net/resources/shifruem-hdd-disk-s-pomoschju-luksipc-bez-poteri-dannyx.703/download)#шифрование
 
-sudo_, [16.11.20 17:43]
 Противостояние хакерам. Пошаговое руководство по компьютерным атакам и эффективной защите
 
 Автор Эд Скудис
@@ -8369,9 +7211,7 @@ ISBN 5-94074-170-3
 
 
 
- (https://codeby.net/resources/protivostojanie-xakeram-poshagovoe-rukovodstvo-po-kompjuternym-atakam-i-ehffektivnoj-zaschite.705/download)#CyberSec #hacking
  
- sudo_, [16.11.20 17:45]
 Архитектура вычислительных систем и Ассемблер
 
 Автор Гагарина Л.Г. Кононова А.И.
@@ -8384,9 +7224,7 @@ ISBN 978-5-91359-321-4
 
 
 
- (https://codeby.net/resources/arxitektura-vychislitelnyx-sistem-i-assembler.706/download)#assembler #soft
 
-sudo_, [16.11.20 17:46]
 Системное программирование на персональном компьютере
 
 Автор Фельдман С.К.
@@ -8399,9 +7237,7 @@ ISBN 5-9643-0027-8
 
 
 
- (https://codeby.net/resources/sistemnoe-programmirovanie-na-personalnom-kompjutere.707/download)#programming #assembler
 
-sudo_, [16.11.20 17:48]
 Язык ассемблера. Уроки программирования
 
 Автор Рудаков П.И. Финоrенов К.Г.
@@ -8414,9 +7250,7 @@ ISBN 5-86404-1-60-2
 
 
 
- (https://codeby.net/resources/jazyk-assemblera-uroki-programmirovanija.708/download)#programming #soft
 
-sudo_, [16.11.20 17:52]
 Ваш выход в Интернет. Секреты эффективной и безопасной работы
 
 Автор Шапошников И.В. Березин С.В.
@@ -8429,9 +7263,7 @@ ISBN 5-94157-332-4
 
 
 
- (https://codeby.net/resources/vash-vyxod-v-internet-sekrety-ehffektivnoj-i-bezopasnoj-raboty.709/download)#CyberSec #soft
 
-sudo_, [16.11.20 17:53]
 Защита от хакеров коммерческого сайта
 
 Автор Райан Рассел & Со
@@ -8444,9 +7276,7 @@ ISBN 5-94074-201-7
 
 
 
- (https://codeby.net/resources/zaschita-ot-xakerov-kommercheskogo-sajta.710/download)#CyberSec #hacking
 
-sudo_, [16.11.20 17:56]
 Антихакинг в сети. Трюки
 
 Автор Эндрю Локхарт
@@ -8459,9 +7289,7 @@ ISBN 5-69-00385-Х
 
 
 
- (https://codeby.net/resources/antixaking-v-seti-trjuki.711/download)#soft #hacking
 
-sudo_, [16.11.20 17:57]
 Руткиты: внедрение в ядро Windows.
 
 Автор Хоглунд Г., Батлер Дж.
@@ -8474,9 +7302,7 @@ ISBN 978-5-469-01409-6
 
 
 
- (https://codeby.net/resources/rutkity-vnedrenie-v-jadro-windows.712/download)#rootkit #windows
 
-sudo_, [16.11.20 17:58]
 Взлом программного обеспечения: анализ и использование кода
 
 Автор Хогланд, Грег, Мак-Гроу, Гари.
@@ -8489,9 +7315,7 @@ ISBN 5-8459-0785-3
 
 
 
- (https://codeby.net/resources/vzlom-programmnogo-obespechenija-analiz-i-ispolzovanie-koda.713/download)#hacking #soft
 
-sudo_, [16.11.20 18:46]
 Лицензирование программного обеспечения в России. Законодательство и практика
 
 Автор Савельев А.И.
@@ -8504,9 +7328,7 @@ ISBN 978-5-9998-0132-6
 
 
 
- (https://codeby.net/resources/licenzirovanie-programmnogo-obespechenija-v-rossii-zakonodatelstvo-i-praktika.714/download)#legislation #practice
 
-sudo_, [16.11.20 18:47]
 Rootkits, SpyWare/AdWare, Keyloggers & BackDoors. Обнаружение и защита.
 
 Автор Олег Зайцев
@@ -8519,9 +7341,7 @@ ISBN 5-94157-868-7
 
 
 
- (https://codeby.net/resources/rootkits-spyware-adware-keyloggers-backdoors-obnaruzhenie-i-zaschita.715/download)#spyware #rootkit
 
-sudo_, [16.11.20 18:48]
 Программное обеспечение защиты почтовых сервисов от несанкционированных рассылок
 
 Автор Соловьев Н. А., Чернопрудова Е. Н., Тишина Н. А., Юркевская Л. А.
@@ -8534,9 +7354,7 @@ ISBN 978-5-7410-1724-1
 
 
 
- (https://codeby.net/resources/programmnoe-obespechenie-zaschity-pochtovyx-servisov-ot-nesankcionirovannyx-rassylok.716/download)#soft #network
 
-sudo_, [16.11.20 18:49]
 Настройка аппаратных средств в Linux
 
 Автор Старовойтов А.А.
@@ -8549,9 +7367,7 @@ ISBN 5-94157-839-3
 
 
 
- (https://codeby.net/resources/nastrojka-apparatnyx-sredstv-v-linux.717/download)#soft #linux
 
-sudo_, [16.11.20 18:50]
 Email безопасная: Взлом, спам и хакерские атаки на системы электронной почты Internet
 
 Автор Левин М.
@@ -8563,9 +7379,7 @@ Email безопасная: Взлом, спам и хакерские атак�
 
 
 
- (https://codeby.net/resources/email-bezopasnaja-vzlom-spam-i-xakerskie-ataki-na-sistemy-ehlektronnoj-pochty-internet.718/download)#hacking #email
 
-sudo_, [16.11.20 18:51]
 Взломы PDF. 100 профессиональных советов и инструментов
 
 Автор Стюард С.
@@ -8578,9 +7392,7 @@ ISBN 5-9570-0048-5
 
 
 
- (https://codeby.net/resources/vzlomy-pdf-100-professionalnyx-sovetov-i-instrumentov.719/download)#hacking #hacking
 
-sudo_, [16.11.20 18:52]
 Особенности компьютерного моделирования при расследовании преступлений в сфере компьютерной информ
 
 Автор Ковалев С.А. Вехов В.Б.
@@ -8592,9 +7404,7 @@ sudo_, [16.11.20 18:52]
 
 
 
- (https://codeby.net/resources/osobennosti-kompjuternogo-modelirovanija-pri-rassledovanii-prestuplenij-v-sfere-kompjuternoj-inform.720/download)#CyberSec #soft
 
-sudo_, [16.11.20 18:52]
 Особенности использования специальных знаний в сфере компьютерных технологий
 
 Автор Шаевич А.А.
@@ -8606,9 +7416,7 @@ sudo_, [16.11.20 18:52]
 
 
 
- (https://codeby.net/resources/osobennosti-ispolzovanija-specialnyx-znanij-v-sfere-kompjuternyx-texnologij.721/download)#CyberSec #soft
 
-sudo_, [16.11.20 18:53]
 Проблемы доказывания при расследовании преступлений в сфере защиты компьютерной информации
 
 Автор Соколовская Н.С.
@@ -8620,9 +7428,7 @@ sudo_, [16.11.20 18:53]
 
 
 
- (https://codeby.net/resources/problemy-dokazyvanija-pri-rassledovanii-prestuplenij-v-sfere-zaschity-kompjuternoj-informacii.722/download)#CyberSec #soft
 
-sudo_, [16.11.20 18:54]
 Хакинг мобильных телефонов
 
 Автор Жуков С.
@@ -8635,9 +7441,7 @@ ISBN 5-85493-096-3
 
 
 
- (https://codeby.net/resources/xaking-mobilnyx-telefonov.723/download)#hacking #soft
 
-sudo_, [16.11.20 18:55]
 Средства связи для "последней мили"
 
 Автор Денисьева О.М. Мирошников Д.Г.
@@ -8650,9 +7454,7 @@ ISBN 5-88405-010-0
 
 
 
- (https://codeby.net/resources/sredstva-svjazi-dlja-poslednej-mili.724/download)#network
 
-sudo_, [16.11.20 18:56]
 Введение в специальность «Средства связи с подвижными объектами»
 
 Автор Коровин В.М.
@@ -8664,9 +7466,7 @@ sudo_, [16.11.20 18:56]
 
 
 
- (https://codeby.net/resources/vvedenie-v-specialnost-sredstva-svjazi-s-podvizhnymi-obektami.725/download)#network #telephone
 
-sudo_, [16.11.20 18:57]
 Сотовые сети радиосвязи с подвижными объектами
 
 Автор Сукачев Е.А.
@@ -8679,9 +7479,7 @@ ISBN 978-617-582-010-0
 
 
 
- (https://codeby.net/resources/sotovye-seti-radiosvjazi-s-podvizhnymi-obektami.726/download)#network #telephone
 
-sudo_, [16.11.20 18:58]
 Защита мобильных телефонов от атак
 
 Автор Михайлов Д.М. Жуков И.Ю
@@ -8694,9 +7492,7 @@ ISBN 978-5-91860-010-8
 
 
 
- (https://codeby.net/resources/zaschita-mobilnyx-telefonov-ot-atak.727/download)#network #telephone
 
-sudo_, [16.11.20 19:02]
 Unix и Linux: руководство системного администратора
 
 Автор Эви Немет, Гарт Снайдер, Трент Хейн, Бэн Уэйли
@@ -8709,9 +7505,7 @@ ISBN 978-5-8459-1740-9
 
 
 
- (https://codeby.net/resources/unix-i-linux-rukovodstvo-sistemnogo-administratora.728/download)#linux #unix
 
-sudo_, [16.11.20 19:03]
 Операционная система UNIX
 
 Автор Робачевский А., Немнюгин С., Стесик О.
@@ -8724,9 +7518,7 @@ ISBN 978-5-94157-538-1
 
 
 
- (https://codeby.net/resources/operacionnaja-sistema-unix.729/download)#linux #unix
 
-sudo_, [16.11.20 19:04]
 Анатомия трекеров
 
 Автор Electronic Frontier Foundation
@@ -8738,9 +7530,7 @@ sudo_, [16.11.20 19:04]
 
 
 
- (https://codeby.net/resources/anatomija-trekerov.730/download)#tracker
 
-sudo_, [16.11.20 19:05]
 Аудит безопасности информационных систем.
 
 Автор Никита Скабцов
@@ -8753,9 +7543,7 @@ ISBN 978-5-4461-0662-2
 
 
 
- (https://codeby.net/resources/audit-bezopasnosti-informacionnyx-sistem.731/download)#EthicalHack
 
-sudo_, [16.11.20 19:06]
 Основы веб-хакинга (нападение и защита)
 
 Автор Жуков Ю.В.
@@ -8768,9 +7556,7 @@ ISBN 978-5-4237-0184-0
 
 
 
- (https://codeby.net/resources/osnovy-veb-xakinga-napadenie-i-zaschita.732/download)#EthicalHack #hacking
 
-sudo_, [16.11.20 19:07]
 Внутреннее устройство Microsoft Windows. 6 издание
 
 Автор М.Руссинович, Д.Соломон
@@ -8783,9 +7569,7 @@ ISBN 978-5-459-01730-4
 
 
 
- (https://codeby.net/resources/vnutrennee-ustrojstvo-microsoft-windows.733/download)#windows
 
-sudo_, [17.11.20 15:14]
 Как ломают телефонные сети. Пособие по взлому и защите телефонных сетей
 
 Автор Леонтьев Б.К.
@@ -8797,9 +7581,7 @@ sudo_, [17.11.20 15:14]
 
 
 
- (https://codeby.net/resources/kak-lomajut-telefonnye-seti-posobie-po-vzlomu-i-zaschite-telefonnyx-setej.734/download)#network #telephone
 
-sudo_, [17.11.20 15:15]
 Эффективный фрикинг, или Тайны телефонных хакеров
 
 Автор Карабин П.Ф.
@@ -8812,9 +7594,7 @@ ISBN 5-901321-38-3
 
 
 
- (https://codeby.net/resources/ehffektivnyj-friking-ili-tajny-telefonnyx-xakerov.735/download)#network #telephone
 
-sudo_, [17.11.20 15:17]
 Антихакинг
 
 Автор Ломакин П., Шрейн Д.
@@ -8826,9 +7606,7 @@ sudo_, [17.11.20 15:17]
 
 
 
- (https://codeby.net/resources/antixaking.736/download)#hacking #telephone
 
-sudo_, [17.11.20 15:18]
 Расширенное руководство по онлайн-камерам.
 
 Формат PDF
@@ -8839,9 +7617,7 @@ sudo_, [17.11.20 15:18]
 
 
 
- (https://codeby.net/resources/rasshirennoe-rukovodstvo-po-onlajn-kameram.737/download)#hacking #camera
 
-sudo_, [17.11.20 15:18]
 PGP Кодирование и шифрование информации с открытым ключом
 
 Автор Левин М.
@@ -8853,9 +7629,7 @@ PGP Кодирование и шифрование информации с от�
 
 
 
- (https://codeby.net/resources/pgp-kodirovanie-i-shifrovanie-informacii-s-otkrytym-kljuchom.738/download)#encryption #programming
 
-sudo_, [17.11.20 15:22]
 TrueCrypt User Guide на русском.
 
 Формат PDF
@@ -8866,9 +7640,7 @@ TrueCrypt User Guide на русском.
 
 
 
- (https://codeby.net/resources/truecrypt-user-guide-na-russkom.739/download)#encryption #truecrypt
 
-sudo_, [17.11.20 15:26]
 Антиспам без секретов. Практические рекомендации по борьбе с нелегальной рассылкой по электронной
 
 Автор Левин М.
@@ -8880,9 +7652,7 @@ sudo_, [17.11.20 15:26]
 
 
 
- (https://codeby.net/resources/antispam-bez-sekretov-prakticheskie-rekomendacii-po-borbe-s-nelegalnoj-rassylkoj-po-ehlektronnoj.740/download)#email #spam
 
-sudo_, [17.11.20 15:27]
 Руководство для хакеров
 
 Автор Левин М.
@@ -8894,9 +7664,7 @@ sudo_, [17.11.20 15:27]
 
 
 
- (https://codeby.net/resources/rukovodstvo-dlja-xakerov.741/download)#hacking #soft
 
-sudo_, [17.11.20 15:32]
 Защитные механизмы операционной системы Linux
 
 Автор Бакланов В.В.
@@ -8909,9 +7677,7 @@ ISBN 978-5-321-01966-5
 
 
 
- (https://codeby.net/resources/zaschitnye-mexanizmy-operacionnoj-sistemy-linux.742/download)#linux #security
 
-sudo_, [17.11.20 15:33]
 Изучаем Python.
 
 Автор Эрик Мэтиз
@@ -8924,9 +7690,7 @@ ISBN 978-5-496-02305-4
 
 
 
- (https://codeby.net/resources/izuchaem-python-mehtiz-ehrik.743/download)#python #programming
 
-sudo_, [17.11.20 15:35]
 Автоматизация рутинных задач
 
 Автор Эл Свейгарт
@@ -8939,9 +7703,7 @@ ISBN 978-5-8459-2090-4
 
 
 
- (https://codeby.net/resources/avtomatizacija-rutinnyx-zadach-ehl-svejgart.744/download)#python #programming
 
-sudo_, [17.11.20 15:37]
 Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali
 
 Автор Эл Свейгарт
@@ -8954,9 +7716,7 @@ I decided to write this book after working with tens of thousands of aspiring ha
 
 
 
- (https://codeby.net/resources/linux-basics-for-hackers-getting-started-with-networking-scripting-and-security-in-kali.746/download)#EthicalHack #linux
 
-sudo_, [17.11.20 15:45]
 Внутреннее устройство Windows. 7 издание
 
 Автор Марк Руссинович, Дэвид Соломон, Алекс Ионеску, Павел Йосифович
@@ -8969,9 +7729,7 @@ ISBN 978-5-4461-0663-9
 
 
 
- (https://codeby.net/resources/vnutrennee-ustrojstvo-windows.747/download)#windows
 
-sudo_, [17.11.20 15:47]
 The Illustrated Network: How TCP/IP Works in a Modern Network
 
 Автор Walter Goralski
@@ -8984,9 +7742,7 @@ This book is not just another dense compendium of facts, standards, and details.
 
 
 
- (https://codeby.net/resources/the-illustrated-network-how-tcp-ip-works-in-a-modern-network.748/download)#network #udp
 
-sudo_, [17.11.20 15:48]
 Reverse Engineering for Beginners
 
 Автор Dennis Yurichev
@@ -8996,9 +7752,7 @@ Reverse Engineering for Beginners
 
 
 
- (https://codeby.net/resources/reverse-engineering-for-beginners.749/download)#Reverce
 
-sudo_, [17.11.20 15:49]
 Black Hat Python
 
 Автор Justin Seitz
@@ -9011,9 +7765,7 @@ ISBN 978-1-59327-590-7
 
 
 
- (https://codeby.net/resources/black-hat-python-rus.750/download)#EthicalHack #python
 
-sudo_, [17.11.20 15:51]
 Искусство легального, анонимного и безопасного доступа к ресурсам Интернета
 
 Автор Михаил Райтман
@@ -9026,9 +7778,7 @@ ISBN 978-5-9775-3745-2
 
 
 
- (https://codeby.net/resources/iskusstvo-legalnogo-anonimnogo-i-bezopasnogo-dostupa-k-resursam-interneta.753/download)#security #network
 
-sudo_, [17.11.20 15:52]
 Программирование на C++ глазами хакера. 2-е издание
 
 Автор Михаил Фленов
@@ -9041,9 +7791,7 @@ ISBN 978-5-9775-0303-7
 
 
 
- (https://codeby.net/resources/programmirovanie-na-c-glazami-xakera.754/download)#programming #cpp
 
-sudo_, [17.11.20 15:54]
 Web-сервер глазами хакера. 2-е издание
 
 Автор Михаил Фленов
@@ -9056,9 +7804,7 @@ ISBN 978-5-9775-0471-3
 
 
 
- (https://codeby.net/resources/web-server-glazami-xakera.755/download)#hacking #web
 
-sudo_, [17.11.20 15:56]
 iOS App Reverse Engineering 
 
 Автор Snakeninny, Zishe Sha, Dustin L. Howett
@@ -9070,9 +7816,7 @@ iOS App Reverse Engineering
 
 
 
- (https://codeby.net/resources/iosappreverseengineering.756/download)#Reverce #ios
 
-sudo_, [17.11.20 15:57]
 Социальная инженерия и социальные хакеры
 
 Автор Максим Кузнецов, Игорь Симдянов
@@ -9085,9 +7829,7 @@ ISBN 5-94157-929-2
 
 
 
- (https://codeby.net/resources/socialnaja-inzhenerija-i-socialnye-xakery.757/download)#soceng
 
-sudo_, [17.11.20 15:59]
 Искусство обмана
 
 Автор Кевин Д. Митник, Уильям Саймон
@@ -9099,9 +7841,7 @@ sudo_, [17.11.20 15:59]
 
 
 
- (https://codeby.net/resources/iskusstvo-obmana.758/download)#soceng
 
-sudo_, [17.11.20 16:00]
 VCA-DCV
 
 Автор Robert Schmidt, Dane Charlton
@@ -9114,9 +7854,7 @@ Use this expert guide to prepare for the VCA-DCV exam VCA-DCV VMware Certified A
 
 
 
- (https://codeby.net/resources/vca-dcv.759/download)#dcv #vmware
 
-sudo_, [17.11.20 16:02]
 Инструкция Cobalt Strike
 
 Автор Strategic Cyber LLC 
@@ -9128,9 +7866,7 @@ Cobalt strike-это платформа для моделирования про
 
 
 
- (https://codeby.net/resources/instrukcija-cobalt-strike.765/download)#EthicalHack #hacking
 
-sudo_, [17.11.20 16:03]
 Идеальный программист
 
 Автор Роберт Мартин
@@ -9143,9 +7879,7 @@ ISBN 978-5-459-01044-2
 
 
 
- (https://codeby.net/resources/idealnyj-programmist.769/download)#EthicalHack #programming
 
-sudo_, [17.11.20 16:04]
 Введение в криптографию
 
 Автор Ященко В.В.
@@ -9156,9 +7890,7 @@ ISBN 978-5-4439-0026-1
 
 
 
- (https://codeby.net/resources/vvedenie-v-kriptografiju.770/download)#Криптография
 
-sudo_, [17.11.20 16:32]
 Building Ethereum Dapps. Decentralized applicationson the Ethereum blockchain
 
 Автор Roberto Infante
@@ -9168,9 +7900,7 @@ Building Ethereum Dapps. Decentralized applicationson the Ethereum blockchain
 
 
 
- (https://codeby.net/resources/building-ethereum-dapps-decentralized-applicationson-the-ethereum-blockchain.771/download)#Криптография
 
-sudo_, [17.11.20 16:33]
 Hack-X-Crypt A Straight Forward Guide Towards Ethical Hacking And Cyber Security
 
 Автор Ujjwal Sahay
@@ -9182,9 +7912,7 @@ This is basically a straight forward guide towards ethical hacking and cyber sec
 
 
 
- (https://codeby.net/resources/hack-x-crypt-a-straight-forward-guide-towards-ethical-hacking-and-cyber-security.773/download)#hacking #malware
 
-sudo_, [17.11.20 16:34]
 The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe
 
 Автор Kevin Mitnick
@@ -9197,9 +7925,7 @@ Be online without leaving a trace. Your every step online is being tracked and s
 
 
 
- (https://codeby.net/resources/the-art-of-invisibility-the-worlds-most-famous-hacker-teaches-you-how-to-be-safe.774/download)#data
 
-sudo_, [17.11.20 16:35]
 Understanding Cryptography
 
 Автор Christof Paar, Jan Pelzl
@@ -9212,9 +7938,7 @@ ISBN 978-3-642-04101-3
 
 
 
- (https://codeby.net/resources/understanding-cryptography.776/download)#Криптография
 
-sudo_, [17.11.20 16:36]
 Python Crash Course: A Hands-on, Project-Based introduction to programming
 
 Автор Eric Matthes
@@ -9227,9 +7951,7 @@ Python Crash Course is a fast-paced, thorough introduction to programming with P
 
 
 
- (https://codeby.net/resources/python-crash-course-a-hands-on-project-based-introduction-to-programming.778/download)#EthicalHack #python
 
-sudo_, [17.11.20 16:38]
 Совершенный код. Практическое руководство по разработке ПО
 
 Автор Макконнелл С.
@@ -9242,9 +7964,7 @@ ISBN 978-5-9909805-1-8
 
 
 
- (https://codeby.net/resources/sovershennyj-kod-prakticheskoe-rukovodstvo-po-razrabotke-po.779/download)#programming
 
-sudo_, [17.11.20 16:41]
 OWASP Testing Guide v4 
 
 Автор OWASP
@@ -9255,9 +7975,7 @@ OWASP Testing Guide v4
 
 
 
- (https://codeby.net/resources/owasp_testing_guide_v4.781/download)#owasp #guide
 
-sudo_, [19.11.20 17:19]
 Thoughtful machine learning with Python
 
 Автор Matthew Kirk
@@ -9270,9 +7988,7 @@ Gain the confidence you need to apply machine learning in your daily work. With 
 
 
 
- (https://codeby.net/resources/thoughtful-machine-learning-with-python.784/download)#python
 
-sudo_, [19.11.20 17:21]
 A Byte Of Python
 
 Автор Swaroop Chitlur
@@ -9284,9 +8000,7 @@ A Byte Of Python
 
 
 
- (https://codeby.net/resources/abyteofpython-ukus-pitona.789/download)#EthicalHack #python
 
-sudo_, [19.11.20 17:25]
 Kali Linux. Тестирование на проникновение и безопасность.
 
 Автор Парасрам Ш., Замм А.
@@ -9299,9 +8013,7 @@ ISBN 978-5-4461-1252-4
 
 
 
- (https://codeby.net/resources/kali-linux-testirovanie-na-proniknovenie-i-bezopasnost.794/download)#EthicalHack #kali
 
-sudo_, [19.11.20 17:26]
 Как устроен Python. Гид для разработчиков, программистов и интересующихся
 
 Автор Мэтт Харрисон.
@@ -9314,9 +8026,7 @@ Python в моде! Это самый популярный язык програ
 
 
 
- (https://codeby.net/resources/mehtt-xarrison-kak-ustroen-python-gid-dlja-razrabotchikov-programmistov-i-interesujuschixsja.795/download)#python
 
-sudo_, [19.11.20 17:27]
 Руководство по установке аппаратного обеспечения маршрутизаторов Cisco
 
 Автор Cisco Systems
@@ -9328,9 +8038,7 @@ sudo_, [19.11.20 17:27]
 
 
 
- (https://codeby.net/resources/rukovodstvo-po-ustanovke-apparatnogo-obespechenija-marshrutizatorov-cisco.797/download)#cisco
 
-sudo_, [19.11.20 17:29]
 Книга покажет как используется язык программирования Python для упрощения работы с сетями
 
 Автор Наталия Самойленко
@@ -9342,9 +8050,7 @@ sudo_, [19.11.20 17:29]
 
 
 
- (https://codeby.net/resources/kniga-pokazhet-kak-ispolzuetsja-jazyk-programmirovanija-python-dlja-uproschenija-raboty-s-setjami.798/download)#python #network
 
-sudo_, [19.11.20 17:30]
 CEH v10 Exam Tests
 
 Автор EC-Council
@@ -9354,9 +8060,7 @@ CEH v10 Exam Tests
 
 
 
- (https://codeby.net/resources/ceh-v10-exam-tests.799/download)#ceh #exam
 
-sudo_, [19.11.20 17:34]
 Настольная книга анонима. Зачем нужна анонимность и как её достичь?
 
 Формат PDF
@@ -9368,9 +8072,7 @@ sudo_, [19.11.20 17:34]
 
 
 
- (https://codeby.net/resources/nastolnaja-kniga-anonima-zachem-nuzhna-anonimnost-i-kak-ejo-dostich.800/download)#security #анонимность
 
-sudo_, [19.11.20 17:36]
 XSS Cheat Sheet
 
 Автор Rodolfo Asis
@@ -9382,9 +8084,7 @@ XSS Cheat Sheet
 
 
 
- (https://codeby.net/resources/xss-cheat-sheet.802/download)#EthicalHack #xss
 
-sudo_, [19.11.20 17:40]
 Изучаем Python
 
 Автор Марк Лутц
@@ -9395,9 +8095,7 @@ ISBN 978-5-93286-159-2
 
 
 
- (https://codeby.net/resources/izuchaem-python.804/download)#python
 
-sudo_, [19.11.20 17:41]
 Violent Python
 
 Автор TJ O'Connor
@@ -9408,9 +8106,7 @@ ISBN 978-1-59749-957-6
 
 
 
- (https://codeby.net/resources/violent-python.805/download)#EthicalHack #python
 
-sudo_, [19.11.20 17:42]
 Изучаем SQL
 
 Автор Алан Бьюли
@@ -9420,9 +8116,7 @@ sudo_, [19.11.20 17:42]
 
 
 
- (https://codeby.net/resources/izuchaem-sql.806/download)#sql
 
-sudo_, [19.11.20 17:45]
 Linux System Programming
 
 Автор Robert Love
@@ -9433,9 +8127,7 @@ ISBN 978-5-496-00747-4
 
 
 
- (https://codeby.net/resources/linux-system-programming.807/download)#linux #programming
 
-sudo_, [19.11.20 18:35]
 Digital Forensic Analysis of Telegram Messenger on Android Devices
 
 Автор Gandeva Bayu Satrya, Philip Tobianto Daely, Muhammad Arif Nugroho
@@ -9445,9 +8137,7 @@ Digital Forensic Analysis of Telegram Messenger on Android Devices
 
 
 
- (https://codeby.net/resources/digital-forensic-analysis-of-telegram-messenger-on-android-devices.809/download)#Forensics #telegram
 
-sudo_, [19.11.20 18:37]
 Переговоры с монстрами. Как договориться с сильными мира сего
 
 Автор Игорь Рызов
@@ -9460,9 +8150,7 @@ ISBN 978-5-04-095843-6
 
 
 
- (https://codeby.net/resources/igor-ryzov-peregovory-s-monstrami-kak-dogovoritsja-s-silnymi-mira-sego.811/download)#общение #переговоры
 
-sudo_, [19.11.20 18:39]
 Методическое пособие для студентов
 
 Автор Андрей Обласов
@@ -9475,9 +8163,7 @@ ISBN 978-5-0051-1068-8
 
 
 
- (https://codeby.net/resources/forenzika-metodicheskoe-posobie-dlja-studentov-oblasov-andrej-aleksandrovich.812/download)#Forensics
 
-sudo_, [19.11.20 18:41]
 English Grammar In Use Fifth Edition
 
 Автор Raymond Murphy
@@ -9490,9 +8176,7 @@ ISBN 978-1-108-58662-7
 
 
 
- (https://codeby.net/resources/english-grammar-in-use-fifth-edition.818/download)#english #grammar
 
-sudo_, [19.11.20 18:43]
 Психология доверия
 
 Автор Е.П. Ильин
@@ -9505,9 +8189,7 @@ ISBN 978-5-496-00017-8
 
 
 
- (https://codeby.net/resources/psixologija-doverija.819/download)#психология #soceng
 
-sudo_, [19.11.20 18:45]
 Администрирование Microsoft Windows Server 2012
 
 Автор Самара Линн
@@ -9520,9 +8202,7 @@ ISBN 978-5-496-00621-7
 
 
 
- (https://codeby.net/resources/administrirovanie-microsoft-windows-server-2012.822/download)#EthicalHack #server
 
-sudo_, [19.11.20 18:46]
 Занимайся расследованием киберпреступлений как рок-звезда
 
 Автор Спарк Флоу
@@ -9534,9 +8214,7 @@ sudo_, [19.11.20 18:46]
 
 
 
- (https://codeby.net/resources/zanimajsja-rassledovaniem-kiberprestuplenij-kak-rok-zvezda.823/download)#Forensics
 
-sudo_, [19.11.20 18:47]
 PHP. Быстрый старт
 
 Автор Каллум Хопкинс
@@ -9549,9 +8227,7 @@ ISBN 978-5-699-72685-1
 
 
 
- (https://codeby.net/resources/php-bystryj-start.824/download)#php
 
-sudo_, [19.11.20 18:49]
 Чистый код. Создание, анализ и рефакторинг
 
 Автор Роберт Мартин
@@ -9564,9 +8240,7 @@ ISBN 978-5-459-00858-6
 
 
 
- (https://codeby.net/resources/chistyj-kod-sozdanie-analiz-i-refaktoring.827/download)#programming
 
-sudo_, [19.11.20 18:51]
 Metasploit. The Penetration Testers's Guide
 
 Автор David Kennedy, Jim O'Gorman, Devon Kearns, Mati Aharoni
@@ -9576,5 +8250,4 @@ Metasploit. The Penetration Testers's Guide
 
 
 
- (https://codeby.net/resources/metasploit-the-penetration-testerss-guide.828/download)#EthicalHack #metasploit
  
