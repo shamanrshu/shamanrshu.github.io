@@ -1,7 +1,3 @@
-[![PictureLink](LOGO_LINK)](ADDRESS "NAME")
-[![PictureLink](LOGO_LINK)](ADDRESS "NAME")
-[![PictureLink](LOGO_LINK)](ADDRESS "NAME")
-
 Представлен проект дома 7 на 9 метров с мансардой, который я придумал, спроектировал и построил сам.
 
 # 1. План участка
