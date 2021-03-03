@@ -115,7 +115,7 @@
 | Managment | First Steps Into Public Speaking | Udemy | Сертификат | 16.02.21 | UC-9453ca72-569d-4982-a24f-59c6d1e58808 | ude.my/UC-9453ca72-569d-4982-a24f-59c6d1e58808 |  |  |  |  |
 | Development | Practical Java Basics Course with Real-life Examples | Udemy | Сертификат | 16.02.21 | UC-0991e181-2da0-49ed-be6b-aa2b7582ed2d | ude.my/UC-0991e181-2da0-49ed-be6b-aa2b7582ed2d |  |  |  |  |
 | Development | The Complete C Programming Course for Beginners | Udemy | Сертификат | 16.02.21 | UC-384960af-08d5-433d-b1e0-8340f468dd69 | ude.my/UC-384960af-08d5-433d-b1e0-8340f468dd69 |  |  |  |  |
-| Development | Data Engineering - ETL | Web Scraping | Big Data | SQL | Power BI | Udemy | Сертификат | 24.02.21 | UC-cde073cf-2562-44da-842c-e2941edcffdf | ude.my/UC-cde073cf-2562-44da-842c-e2941edcffdf |
+| Development | Data Engineering - ETL,  Web Scraping, Big Data, SQL, Power BI | Udemy | Сертификат | 24.02.21 | UC-cde073cf-2562-44da-842c-e2941edcffdf | ude.my/UC-cde073cf-2562-44da-842c-e2941edcffdf |
 | IT | Introduction To Data Science | Udemy | Сертификат | 24.02.21 | UC-246896b6-3b1f-48d4-a194-de20660b5f7c | ude.my/UC-246896b6-3b1f-48d4-a194-de20660b5f7c |  |  |  |  |
 | Managment | Scrum Fundamentals for Scrum Master and Agile Projects- 2020 | Udemy | Сертификат | 24.02.21 | UC-d0dcbdda-798c-4f0a-9489-a62aa0a41f32 | ude.my/UC-d0dcbdda-798c-4f0a-9489-a62aa0a41f32 |  |  |  |  |
 | IT | Windows Command Line (cmd) & Batch Script Management | Udemy | Сертификат | 01.03.21 | UC-358b2cfb-67ac-43d6-ba2c-0e7013c0cf6b | ude.my/UC-358b2cfb-67ac-43d6-ba2c-0e7013c0cf6b |  |  |  |  |
