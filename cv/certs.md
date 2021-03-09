@@ -13,7 +13,7 @@
 | Security | Designing Cisco Network Service Architectures | Cisco Systems | Сертификат | 22.12.06 | - | - |  |  |  |  |
 | Security | Securing Hosts Using Cisco Security Agent | Cisco Systems | Сертификат | 28.03.07 | - | - |  |  |  |  |
 | Security | Administering Security on the Solaris Operating System | Sun Micosystems | Сертификат | 20.04.08 | - | - |  |  |  |  |
-| IT | Операционные среды | системы и оболочки | НОУ "Интуит" | Сертификат | 20.03.15 | Серия О | регистрационный № 101047141 | http://www.intuit.ru/verifydiplomas/101047141 |  |  |
+| IT | Операционные среды / системы и оболочки | НОУ "Интуит" | Сертификат | 20.03.15 | Серия О | регистрационный № 101047141 | http://www.intuit.ru/verifydiplomas/101047141 |  |  |
 | IT | Администрирование ОС Linux | НОУ "Интуит" | Сертификат | 30.03.15 | Серия О | регистрационный № 100856789 | http://www.intuit.ru/verifydiplomas/100856789 |  |  |  |
 | Security | Безопасность информационных систем | НОУ "Интуит" | Сертификат | 30.03.15 | Серия О | регистрационный № 100856549 | http://www.intuit.ru/verifydiplomas/100856549 |  |  |  |
 | Security | Безопасность сетей | НОУ "Интуит" | Сертификат | 30.03.15 | Серия О | регистрационный № 100856551 | http://www.intuit.ru/verifydiplomas/100856551 |  |  |  |
