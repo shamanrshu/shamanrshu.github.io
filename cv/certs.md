@@ -120,5 +120,5 @@
 | Managment | Scrum Fundamentals for Scrum Master and Agile Projects- 2020 | Udemy | Сертификат | 24.02.21 | UC-d0dcbdda-798c-4f0a-9489-a62aa0a41f32 | ude.my/UC-d0dcbdda-798c-4f0a-9489-a62aa0a41f32 |
 | IT | Windows Command Line (cmd) & Batch Script Management | Udemy | Сертификат | 01.03.21 | UC-358b2cfb-67ac-43d6-ba2c-0e7013c0cf6b | ude.my/UC-358b2cfb-67ac-43d6-ba2c-0e7013c0cf6b |
 | IT | SAP Basis Essential Training | Udemy | Сертификат | 02.03.21 | UC-6e7db597-c043-4db2-9b87-2b5a0e86645f | ude.my/UC-6e7db597-c043-4db2-9b87-2b5a0e86645f |
-| IT | The Complete HTML5 Course: From Beginning to Expert | Udemy | 07.03.21 | UC-c2ecab23-c1a1-4dc1-b469-e6cb912032d0 | ude.my/UC-c2ecab23-c1a1-4dc1-b469-e6cb912032d0 |
-| IT | Ultimate Adobe Photoshop CC Masterclass Basics To Advanced | Udemy | 07.03.21 | UC-2ce94ea2-101c-4b21-9ff6-541a71debf89 | ude.my/UC-2ce94ea2-101c-4b21-9ff6-541a71debf89 |
+| IT | The Complete HTML5 Course: From Beginning to Expert | Udemy | Сертификат | 07.03.21 | UC-c2ecab23-c1a1-4dc1-b469-e6cb912032d0 | ude.my/UC-c2ecab23-c1a1-4dc1-b469-e6cb912032d0 |
+| IT | Ultimate Adobe Photoshop CC Masterclass Basics To Advanced | Udemy | Сертификат | 07.03.21 | UC-2ce94ea2-101c-4b21-9ff6-541a71debf89 | ude.my/UC-2ce94ea2-101c-4b21-9ff6-541a71debf89 |
