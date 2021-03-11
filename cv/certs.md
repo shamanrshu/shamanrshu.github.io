@@ -122,3 +122,6 @@
 | IT | SAP Basis Essential Training | Udemy | Сертификат | 02.03.21 | UC-6e7db597-c043-4db2-9b87-2b5a0e86645f | ude.my/UC-6e7db597-c043-4db2-9b87-2b5a0e86645f |
 | IT | The Complete HTML5 Course: From Beginning to Expert | Udemy | Сертификат | 07.03.21 | UC-c2ecab23-c1a1-4dc1-b469-e6cb912032d0 | ude.my/UC-c2ecab23-c1a1-4dc1-b469-e6cb912032d0 |
 | IT | Ultimate Adobe Photoshop CC Masterclass Basics To Advanced | Udemy | Сертификат | 07.03.21 | UC-2ce94ea2-101c-4b21-9ff6-541a71debf89 | ude.my/UC-2ce94ea2-101c-4b21-9ff6-541a71debf89 |
+| Management | Agile Project Management: Agile, Scrum, Kanban & XP | Udemy | Сертификат | 11.03.21 | UC-c7198504-8ada-4ce2-aa84-f77e55ffb0b0 | ude.my/UC-c7198504-8ada-4ce2-aa84-f77e55ffb0b0 |
+| Development | Data Analyst - ETL, SSIS, SQL, PowerBI | Udemy | Сертификат | 11.03.21 | UC-0568e6db-bbe3-41db-8c47-73f6555326e5 | ude.my/UC-0568e6db-bbe3-41db-8c47-73f6555326e5 |
+| Development | Intermediate Python Immersive Training - Boost your career | Udemy | Сертфиикат | 11.03.21 | UC-0a0ea884-8566-4e4e-b8ce-47c57378c416 | ude.my/UC-0a0ea884-8566-4e4e-b8ce-47c57378c416 |
