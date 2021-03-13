@@ -125,3 +125,5 @@
 | Management | Agile Project Management: Agile, Scrum, Kanban & XP | Udemy | Сертификат | 11.03.21 | UC-c7198504-8ada-4ce2-aa84-f77e55ffb0b0 | https://ude.my/UC-c7198504-8ada-4ce2-aa84-f77e55ffb0b0 |
 | Development | Data Analyst - ETL, SSIS, SQL, PowerBI | Udemy | Сертификат | 11.03.21 | UC-0568e6db-bbe3-41db-8c47-73f6555326e5 | https://ude.my/UC-0568e6db-bbe3-41db-8c47-73f6555326e5 |
 | Development | Intermediate Python Immersive Training - Boost your career | Udemy | Сертфиикат | 11.03.21 | UC-0a0ea884-8566-4e4e-b8ce-47c57378c416 | https://ude.my/UC-0a0ea884-8566-4e4e-b8ce-47c57378c416 |
+| Development | CSS3 Ultimate Course | Udemy | Сертификат | 12.03.2021 | UC-f91ceeca-19d6-48cb-a2eb-16f4125a61ed | https://ude.my/UC-f91ceeca-19d6-48cb-a2eb-16f4125a61ed |
+|Development | Developing HTML5 multiplayer browser game, also known as .io | Udemy | Сертификат | 12.03.2021 | UC-cd45c7b8-1b82-4b8c-812b-705eadaf3643 | https://ude.my/UC-cd45c7b8-1b82-4b8c-812b-705eadaf3643 |
